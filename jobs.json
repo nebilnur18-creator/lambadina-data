@@ -1,6 +1,29 @@
 {
-  "updated": "2026-09-30T05:08:01.086903Z",
+  "updated": "2026-09-30T05:08:26.386183Z",
   "jobs": [
+    {
+      "id": "174ff672ea7a656bb1b2ad608ad7a2f0ecb7472cbfdee6c6183a7064617485b2",
+      "company": "TalentConnect",
+      "about": "TalentConnect is a private organization that conducts research to connect job seekers with employment opportunities.",
+      "positions": [
+        "Marketing",
+        "Accounting",
+        "Reception",
+        "Writing / Secretarial Services",
+        "Human Resources Management",
+        "Sales and related positions"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/174ff672ea7a656bb1b2ad608ad7a2f0ecb7472cbfdee6c6183a7064617485b2.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: TalentConnect\n🏬 About: TalentConnect is a private organization that conducts research to connect job seekers with employment opportunities.\n\n💼 Positions:\n1. Marketing\n2. Accounting\n3. Reception\n4. Writing / Secretarial Services\n5. Human Resources Management\n6. Sales and related positions\n\n📝 Description: The research aims to understand job seekers’ experiences and facilitate their entry into the workforce.\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "posted": "2026-09-30T05:08:09.596419Z"
+    },
     {
       "id": "1c9b1e22015b05978f573408df9561a5b20d359d72ab5b63ffddc5582e0778d1",
       "company": "East Africa Bottling Share Company (Coca Cola Company)",
