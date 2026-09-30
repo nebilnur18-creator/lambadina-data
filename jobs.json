@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T05:04:06.089564Z",
+  "updated": "2026-09-30T05:04:21.350671Z",
   "jobs": [
+    {
+      "id": "e1195a31fc6b13003ce8a53c2a99778fd4cfaf90e0b4d56b4231088f8b3454d3",
+      "company": "Meba Microfinance Institution SC",
+      "about": "A microfinance institution offering financial services and credit solutions to individuals and small businesses in Ethiopia.",
+      "positions": [
+        "Senior Internal Audit Officer"
+      ],
+      "category": [
+        "Banking & Finance"
+      ],
+      "deadline": "Oct 04, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/e1195a31fc6b13003ce8a53c2a99778fd4cfaf90e0b4d56b4231088f8b3454d3.jpg",
+      "text": "🏷️ Banking & Finance\n\n🏢 Company: Meba Microfinance Institution SC\n🏬 About: A microfinance institution offering financial services and credit solutions to individuals and small businesses in Ethiopia.\n\n💼 Positions:\n1. Senior Internal Audit Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA Degree in Accounting & Finance, Accounting, Management, or related business fields\n   - Minimum 3 years of work experience, including at least 1 year in a related financial sector position\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 04, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-30T05:04:20.488268Z"
+    },
     {
       "id": "b379433e7f51c9d10c7c79aadc5364c8ac51cb2759cea64085593b0839c8cd3b",
       "company": "Transsion Manufacturing PLC",
