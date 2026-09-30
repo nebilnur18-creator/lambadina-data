@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-30T05:04:46.454911Z",
+  "updated": "2026-09-30T05:04:56.371276Z",
   "jobs": [
+    {
+      "id": "6c24c3c34b4fcb79f593e9eb4956edfcaff34eefff560267314174a46def3c3f",
+      "company": "At-Con Engineering & Architecture Consultancy PLC",
+      "about": "A private engineering and architecture consultancy providing design and consulting services in Ethiopia.",
+      "positions": [
+        "Architect (Intermediate Level)"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 30, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6c24c3c34b4fcb79f593e9eb4956edfcaff34eefff560267314174a46def3c3f.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: At-Con Engineering & Architecture Consultancy PLC\n🏬 About: A private engineering and architecture consultancy providing design and consulting services in Ethiopia.\n\n💼 Positions:\n1. Architect (Intermediate Level)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree (BSc/B.Arch) in Architecture or a related field from a recognized university\n   - Minimum 3 years of relevant professional experience, preferably in an architectural consulting firm\n   - Practical knowledge and experience in architectural design, interior design, and space planning\n   - Proficiency in AutoCAD and Revit/BIM software for architectural modeling and documentation\n   - Knowledge of SketchUp, 3D visualization, rendering, and presentation software is an advantage\n   - Good understanding of building codes, standards, construction materials, architectural detailing, and construction methods\n   - Ability to coordinate architectural designs with structural, electrical, sanitary, mechanical, and other disciplines\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-30T05:04:55.449954Z"
+    },
     {
       "id": "d4121d3eb2c910e897431654033e2f953081a37641f8055e08a35d9783841191",
       "company": "ZE-EL Trading PLC",
