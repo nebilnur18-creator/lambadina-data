@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T04:58:17.837857Z",
+  "updated": "2026-09-30T04:58:43.085102Z",
   "jobs": [
+    {
+      "id": "6d2c012a39246247331a044dab86fcb53b1ecfe33ce1c0d709e5e322b451fb36",
+      "company": "Repi Soap & Detergent PLC",
+      "about": "A manufacturing company producing soap and detergent products in Ethiopia.",
+      "positions": [
+        "Utility Operator"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Oct 30, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6d2c012a39246247331a044dab86fcb53b1ecfe33ce1c0d709e5e322b451fb36.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Repi Soap & Detergent PLC\n🏬 About: A manufacturing company producing soap and detergent products in Ethiopia.\n\n💼 Positions:\n1. Utility Operator\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Minimum Level II in General Mechanic, industrial, electrical, or any other technical related fields\n   - Minimum 3 years’ experience in an FMCG industry\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-30T04:58:42.230151Z"
+    },
     {
       "id": "f4ddf2acdc1c67d8520455ac176e6a8b8b9d19f520992a78777365b2a882626c",
       "company": "BoldKore Consult PLC",
