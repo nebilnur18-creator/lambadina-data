@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-01T04:48:44.107429Z",
+  "updated": "2026-10-01T04:48:55.437804Z",
   "jobs": [
+    {
+      "id": "fc316c7a5ec7037543a0c25efb769fa5973ea79b9165b226e96d2059b022fdfb",
+      "company": "Unlimited Packaging PLC",
+      "about": "Unlimited Packaging PLC is a private manufacturing company producing packaging solutions in Ethiopia.",
+      "positions": [
+        "Information Technology (IT) Specialist"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 14, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fc316c7a5ec7037543a0c25efb769fa5973ea79b9165b226e96d2059b022fdfb.jpg",
+      "text": "🏷️ Technology & IT\n\n🏢 Company: Unlimited Packaging PLC\n🏬 About: Unlimited Packaging PLC is a private manufacturing company producing packaging solutions in Ethiopia.\n\n💼 Positions:\n1. Information Technology (IT) Specialist\n   📍 Location: Bishoftu\n   🎓 Requirements:\n   - Bachelor’s degree from a recognized institution in Information Technology, Computer Science, Software Engineering, Computer Engineering, Information Systems, or a related field\n   - Minimum 4 years of relevant work experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-01T04:48:54.292994Z"
+    },
     {
       "id": "6e5304a2f7f703de7c7daea8f778a19bbfe9df578eaadec570d237619e435696",
       "company": "African Center for Early Childhood Development",
