@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-01T05:12:45.184598Z",
+  "updated": "2026-10-01T05:12:55.595970Z",
   "jobs": [
+    {
+      "id": "7a195122035cc9df95f0e705b3c73145ef7bbdaf4ca69ffc63a2cf388b42a90c",
+      "company": "Marvelous Real Estate S.C",
+      "about": "A private real estate development company operating in Ethiopia.",
+      "positions": [
+        "Senior Site Engineer"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Oct 05, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/7a195122035cc9df95f0e705b3c73145ef7bbdaf4ca69ffc63a2cf388b42a90c.jpg",
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Marvelous Real Estate S.C\n🏬 About: A private real estate development company operating in Ethiopia.\n\n💼 Positions:\n1. Senior Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree (BSc) in Civil Engineering\n   - Minimum of 6 years overall experience in building/apartment construction\n   - At least 3 years experience at a senior level as a Site Engineer\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 05, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-01T05:12:54.360401Z"
+    },
     {
       "id": "1188891e342e41c6e4190d70adcec3dadc86386a1d02e000174fe804a7017e2d",
       "company": "Dream Liyana Healthcare PLC",
