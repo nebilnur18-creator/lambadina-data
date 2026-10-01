@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-01T05:14:32.494644Z",
+  "updated": "2026-10-01T05:14:40.187864Z",
   "jobs": [
+    {
+      "id": "d129acbc1d9e1957b7d6de8b147018fdfba082c3a78d55e24fc99cdf3654e982",
+      "company": "Saglan Wajee General Hospital",
+      "about": "A general hospital delivering healthcare services in Holeta, Ethiopia.",
+      "positions": [
+        "Laboratory Technologist"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "October 4, 2026",
+      "link": "",
+      "contact": "jobs@wajeehospital.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Healthcare\n\n🏢 Company: Saglan Wajee General Hospital\n🏬 About: A general hospital delivering healthcare services in Holeta, Ethiopia.\n\n💼 Positions:\n1. Laboratory Technologist\n   📍 Location: Holeta\n   🎓 Requirements:\n   - Bachelor’s Degree in Laboratory Technology or Medical Laboratory Science\n   - Relevant work experience (0 years acceptable)\n   - Ability to perform routine and advanced diagnostic tests in clinical chemistry, hematology, parasitology, urinalysis, serology, microbiology, and immunohematology\n   - Skills in sample collection, labeling, preparation, preservation, storage, and transportation\n   - Knowledge of quality control and quality assurance standards\n   - Participation in internal and external quality assessment programs\n\n📊 Vacancy Count: 1\n📅 Deadline: October 4, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: jobs@wajeehospital.com",
+      "posted": "2026-10-01T05:14:38.776972Z"
+    },
     {
       "id": "8f47e7ac548f460830ba0f5081d7c2ff283fefc0c05c44dd63475c85dea27388",
       "company": "Heineken Ethiopia",
