@@ -1,6 +1,29 @@
 {
-  "updated": "2026-10-01T05:14:40.187864Z",
+  "updated": "2026-10-01T05:14:54.181077Z",
   "jobs": [
+    {
+      "id": "9555ac518a6aeaf5bdf8d01825de767316fde87c572c769e39096d4bde582788",
+      "company": "TalentConnect",
+      "about": "TalentConnect is a research and recruitment service that connects job seekers with employment opportunities.",
+      "positions": [
+        "Marketing",
+        "Accounting",
+        "Reception",
+        "Writing / Secretarial Service",
+        "Human Resources Management",
+        "Sales and Related Roles"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9555ac518a6aeaf5bdf8d01825de767316fde87c572c769e39096d4bde582788.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: TalentConnect\n🏬 About: TalentConnect is a research and recruitment service that connects job seekers with employment opportunities.\n\n💼 Positions:\n1. Marketing\n2. Accounting\n3. Reception\n4. Writing / Secretarial Service\n5. Human Resources Management\n6. Sales and Related Roles\n\n📝 Description: TalentConnect is conducting a research study to better understand job seekers' experiences and pathways to employment across various sectors.\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "posted": "2026-10-01T05:14:52.745301Z"
+    },
     {
       "id": "d129acbc1d9e1957b7d6de8b147018fdfba082c3a78d55e24fc99cdf3654e982",
       "company": "Saglan Wajee General Hospital",
