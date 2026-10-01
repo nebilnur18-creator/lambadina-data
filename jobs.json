@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-01T04:44:03.494920Z",
+  "updated": "2026-10-01T04:44:29.035475Z",
   "jobs": [
+    {
+      "id": "ae58ccf1d9375b0590f586c8616afdddffd20bb9cffde562ac32669b1357a3c7",
+      "company": "Dugda Construction PLC",
+      "about": "A private construction company operating in Ethiopia, involved in civil and structural engineering projects.",
+      "positions": [
+        "Production Manager"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Executive"
+      ],
+      "deadline": "Oct 08, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/ae58ccf1d9375b0590f586c8616afdddffd20bb9cffde562ac32669b1357a3c7.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Dugda Construction PLC\n🏬 About: A private construction company operating in Ethiopia, involved in civil and structural engineering projects.\n\n💼 Positions:\n1. Production Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Degree in Civil Engineering, Structural Engineering, Construction Operations & Management or related field\n   - Knowledge of IFRS and Peachtree accounting software\n   - 5–8 years of relevant experience, including at least 4 years in a managerial role\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 08, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-01T04:44:27.909146Z"
+    },
     {
       "id": "d471e070319407996816888ed0d152f22e2699b99143d6e46958813779138408",
       "company": "Segon-Marill International Movers PLC",
