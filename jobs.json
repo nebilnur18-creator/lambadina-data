@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-01T04:41:00.919981Z",
+  "updated": "2026-10-01T04:41:10.639279Z",
   "jobs": [
+    {
+      "id": "7cacfb2d10bb7c4a417253b123df6d7fc6122c487255eaa98073e37636bd8cb1",
+      "company": "At-Con Engineering & Architecture Consultancy PLC",
+      "about": "A private engineering and architecture consultancy providing design and construction supervision services in Ethiopia.",
+      "positions": [
+        "Senior Architect"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 30, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/7cacfb2d10bb7c4a417253b123df6d7fc6122c487255eaa98073e37636bd8cb1.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: At-Con Engineering & Architecture Consultancy PLC\n🏬 About: A private engineering and architecture consultancy providing design and construction supervision services in Ethiopia.\n\n💼 Positions:\n1. Senior Architect\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree (BSc/B.Arch) in Architecture or a related field from a recognized university\n   - Master’s Degree (MSc/MA) in Architecture or a related specialization is an advantage\n   - Minimum 8 years of relevant professional experience in architectural design, consultancy, and construction supervision\n   - Strong knowledge of architectural design principles, building codes, standards, and authority requirements\n   - Proficiency in AutoCAD, Revit, SketchUp, 3D visualization, and other relevant architectural software\n   - Experience in coordinating architectural, structural, electrical, sanitary, and mechanical designs\n   - Relevant professional registration, certification, or membership in a recognized professional association is an advantage\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-01T04:41:09.637592Z"
+    },
     {
       "id": "820b6759a3106cc6e41442a23065db177043557ebb8083e2ac2943d0504d6700",
       "company": "Planet Colors Import PLC",
