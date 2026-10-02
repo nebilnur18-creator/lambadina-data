@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-02T05:20:11.374360Z",
+  "updated": "2026-10-02T05:20:28.330857Z",
   "jobs": [
+    {
+      "id": "78c38ab47a1f62d7d8557d76e90fcd48363cf18c9a3cd0a977488f3012763fd7",
+      "company": "Next General Trading",
+      "about": "A private trading company operating in Ethiopia, providing various goods and services.",
+      "positions": [
+        "Network Technician"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Nov 01, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/78c38ab47a1f62d7d8557d76e90fcd48363cf18c9a3cd0a977488f3012763fd7.jpg",
+      "text": "🏷️ Technology & IT | Construction & Engineering\n\n🏢 Company: Next General Trading\n🏬 About: A private trading company operating in Ethiopia, providing various goods and services.\n\n💼 Positions:\n1. Network Technician\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Education: TVET Level 2–4 in Networking or above.\n   - Experience: 1–3 years of field support experience in networking or related areas.\n   - Strong diagnostic and problem‑solving skills for on‑site troubleshooting.\n   - Ability to work independently with minimal supervision.\n   - Ability to travel frequently.\n   - Preferred COC or equivalent, or other technical certification.\n   - CompTIA A+, CompTIA Network+, or Cisco certifications.\n   - Multitasking and flexibility.\n   - Highly detailed and committed.\n   - Organized and disciplined approach.\n   - Eagerness to learn new technologies.\n   - Ability to explain technical issues to non‑technical users in a clear and supportive way.\n\n📊 Vacancy Count: 5\n📅 Deadline: Nov 01, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-02T05:20:25.711947Z"
+    },
     {
       "id": "ec5a01218758e06cc4e58cf7dd7e74b0784065b3ab95a0b6cf1b76f03b4aa70f",
       "company": "Habesha Breweries SC",
