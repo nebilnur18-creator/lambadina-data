@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-01T05:17:11.420102Z",
+  "updated": "2026-10-02T04:47:04.083013Z",
   "jobs": [
+    {
+      "id": "850932fe9ea2f64c2dfe989a8ac871e1c5d588d117c451fdb9e7557df2e9c96a",
+      "company": "Dream Liyana Healthcare PLC",
+      "about": "A private healthcare company operating in Ethiopia, providing medical services.",
+      "positions": [
+        "Head Nurse"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Oct 07, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/850932fe9ea2f64c2dfe989a8ac871e1c5d588d117c451fdb9e7557df2e9c96a.jpg",
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC\n🏬 About: A private healthcare company operating in Ethiopia, providing medical services.\n\n💼 Positions:\n1. Head Nurse\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor of Science in Nursing\n   - Minimum 5 years of experience, preferably as a head nurse in a hospital or healthcare setting\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 07, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-02T04:47:02.246644Z"
+    },
     {
       "id": "019103350f0e6b0a8ee15b050ceba46b2fbed1e3ab5718537a3d809799e1931d",
       "company": "Ethiopian Airlines",
