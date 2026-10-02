@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-02T04:49:50.989421Z",
+  "updated": "2026-10-02T04:50:02.267012Z",
   "jobs": [
+    {
+      "id": "b0f07666ffdee30f3fc8baa17e9a40e9173c0c9b92782c325d29ce6ea80fe9d1",
+      "company": "Hajuta Engineering PLC",
+      "about": "A private engineering company operating in Ethiopia, providing engineering and construction services.",
+      "positions": [
+        "Accountant / Cost Accountant"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 07, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b0f07666ffdee30f3fc8baa17e9a40e9173c0c9b92782c325d29ce6ea80fe9d1.jpg",
+      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Hajuta Engineering PLC\n🏬 About: A private engineering company operating in Ethiopia, providing engineering and construction services.\n\n💼 Positions:\n1. Accountant / Cost Accountant\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Accounting & Finance\n   - 3–6 years of accounting experience\n   - Proficiency in Peachtree Accounting software\n   - Strong knowledge of accounting principles and bookkeeping\n   - Good aptitude for mathematics and computer skills\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 07, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-02T04:50:00.250808Z"
+    },
     {
       "id": "688399ad72437bd50ceccebc52ac9aaafbe080176749d5aaf149518fd840d861",
       "company": "Next General Trading",
