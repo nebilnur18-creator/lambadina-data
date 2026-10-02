@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-02T04:52:01.963199Z",
+  "updated": "2026-10-02T04:52:13.330660Z",
   "jobs": [
+    {
+      "id": "389044c18e9388ce096d36d549e63d46e42b12112e59e6fad4ca2c94be258605",
+      "company": "Dodai Manufacturing Plc.",
+      "about": "A manufacturing company operating in Ethiopia, producing hardware and engineering products.",
+      "positions": [
+        "Hardware Engineer"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Oct 10, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/389044c18e9388ce096d36d549e63d46e42b12112e59e6fad4ca2c94be258605.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Dodai Manufacturing Plc.\n🏬 About: A manufacturing company operating in Ethiopia, producing hardware and engineering products.\n\n💼 Positions:\n1. Hardware Engineer\n   📍 Location: Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree or Diploma in Electrical Engineering, Mechanical Engineering, Industrial Engineering or a closely related field.\n   - 1‑3 years of experience in hardware engineering, R&D, manufacturing, or production engineering.\n   - Demonstrated ability to meet L2 Hardware Engineer expectations: independent technical ownership, test planning, root cause analysis, and technical recommendations; readiness for L3 expectations.\n   - Experience diagnosing failures in batteries, motors, controllers, VCUs, displays, chargers, wiring harnesses, sensors, and other vehicle electrical systems.\n   - Familiarity with electrical testing and diagnostic equipment such as multimeters, power supplies, and other test instruments.\n   - Ability to read and interpret technical documentation and schematics.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-02T04:52:11.623894Z"
+    },
     {
       "id": "8821244058c43bb53f8591f0a2657a6af2ed9b4f76ecc28e2dc4723dcfacdea9",
       "company": "BAManufacturing",
