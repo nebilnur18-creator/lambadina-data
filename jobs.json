@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-02T04:52:56.825973Z",
+  "updated": "2026-10-02T05:16:41.719552Z",
   "jobs": [
+    {
+      "id": "22d0780414eee5d80dccdfc12e196de19f0b9e848439b50f088011b045d46c32",
+      "company": "Dream Liyana Healthcare PLC",
+      "about": "A private healthcare company operating in Ethiopia, providing medical services.",
+      "positions": [
+        "Nurse"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Oct 07, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/22d0780414eee5d80dccdfc12e196de19f0b9e848439b50f088011b045d46c32.jpg",
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC\n🏬 About: A private healthcare company operating in Ethiopia, providing medical services.\n\n💼 Positions:\n1. Nurse\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor of Science in Nursing (BSc Nursing)\n   - Minimum two years of professional nursing experience\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 07, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-02T05:16:37.195826Z"
+    },
     {
       "id": "0c10f71f8e78b22594bdc4017a03ef660965b77198b28fb2683a13fd4473668f",
       "company": "Habesha Breweries SC",
