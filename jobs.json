@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-03T13:35:14.863882Z",
+  "updated": "2026-10-03T13:35:26.619422Z",
   "jobs": [
+    {
+      "id": "6f68ec8a90597e8ac00eb8b31ddef6b67dd6cd01a0b414eb6b9cdfe1cc9453c1",
+      "company": "National Aviation College",
+      "about": "A higher education institution in Ethiopia offering aviation and aeronautical engineering programs.",
+      "positions": [
+        "Assistant Professor and above, Department of Aeronautical Engineering"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Education"
+      ],
+      "deadline": "Nov 02, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6f68ec8a90597e8ac00eb8b31ddef6b67dd6cd01a0b414eb6b9cdfe1cc9453c1.jpg",
+      "text": "🏷️ Education\n\n🏢 Company: National Aviation College\n🏬 About: A higher education institution in Ethiopia offering aviation and aeronautical engineering programs.\n\n💼 Positions:\n1. Assistant Professor and above, Department of Aeronautical Engineering\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - PhD or higher in Aeronautical Engineering or a closely related field\n   - Minimum two years of teaching experience in higher education\n\n📊 Vacancy Count: 3\n📅 Deadline: Nov 02, 2026\n\n📝 Description: Academic position in the Department of Aeronautical Engineering at National Aviation College.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-03T13:35:25.138412Z"
+    },
     {
       "id": "45de89ffa8221aed902c24108fd7a23f2e00d6ac33bfd554c8e5e7b289d3afd1",
       "company": "ZEGE Plc",
