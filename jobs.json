@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-03T13:34:35.599056Z",
+  "updated": "2026-10-03T13:34:48.211215Z",
   "jobs": [
+    {
+      "id": "542d97cc90431342d82af439fd8f828f6e50fe80a745d4019f0ebe51c7b46520",
+      "company": "A and M Engineering PLC",
+      "about": "A and M Engineering PLC is a private engineering firm operating in Ethiopia.",
+      "positions": [
+        "ICT Officer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 03, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/542d97cc90431342d82af439fd8f828f6e50fe80a745d4019f0ebe51c7b46520.jpg",
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: A and M Engineering PLC\n🏬 About: A and M Engineering PLC is a private engineering firm operating in Ethiopia.\n\n💼 Positions:\n1. ICT Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree or diploma in Computer Science, Information Technology or a related field.\n   - Preferred certifications: CompTIA, Cisco (CCNA), Microsoft (MCSA/MCSE).\n   - Technical skills: extensive knowledge of operating systems, networking, cybersecurity and cloud services.\n   - 1-3 years of relevant experience (Junior level).\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 03, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-03T13:34:45.115555Z"
+    },
     {
       "id": "d1ed171c6ec64d50477c8b372af8e3a7ee64b443afada189fbf7a9a41a33c11d",
       "company": "A and M Engineering PLC",
