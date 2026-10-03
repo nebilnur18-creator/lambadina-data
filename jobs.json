@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-03T13:34:10.789956Z",
+  "updated": "2026-10-03T13:34:23.806869Z",
   "jobs": [
+    {
+      "id": "ebb5c77c85d39faac494d24d364216078bd547b32c6dc628189ee5dc037c26e9",
+      "company": "BAManufacturing",
+      "about": "A private manufacturing company operating in Ethiopia.",
+      "positions": [
+        "Senior Accountant"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Oct 09, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/ebb5c77c85d39faac494d24d364216078bd547b32c6dc628189ee5dc037c26e9.jpg",
+      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: BAManufacturing\n🏬 About: A private manufacturing company operating in Ethiopia.\n\n💼 Positions:\n1. Senior Accountant\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - B.Sc. in Accounting (graduated)\n   - At least 5 years of experience in a senior accountant role\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-03T13:34:20.383475Z"
+    },
     {
       "id": "8f4c4f196c8fa1eef6c8cb8a2cabd469c6e7c32e01d2974b11e2e60cf245e219",
       "company": "Althehet Industrial PLC",
