@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-03T13:34:23.806869Z",
+  "updated": "2026-10-03T13:34:35.599056Z",
   "jobs": [
+    {
+      "id": "d1ed171c6ec64d50477c8b372af8e3a7ee64b443afada189fbf7a9a41a33c11d",
+      "company": "A and M Engineering PLC",
+      "about": "A private engineering company in Ethiopia providing engineering and related services.",
+      "positions": [
+        "Permanent Corporate Lawyer and Senior Asset Management Officer"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Oct 14, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/d1ed171c6ec64d50477c8b372af8e3a7ee64b443afada189fbf7a9a41a33c11d.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: A and M Engineering PLC\n🏬 About: A private engineering company in Ethiopia providing engineering and related services.\n\n💼 Positions:\n1. Permanent Corporate Lawyer and Senior Asset Management Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Law (first degree)\n   - 5-8 years of relevant work experience (senior level)\n   - Minimum two years of experience, with preference for more\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-03T13:34:33.045939Z"
+    },
     {
       "id": "ebb5c77c85d39faac494d24d364216078bd547b32c6dc628189ee5dc037c26e9",
       "company": "BAManufacturing",
