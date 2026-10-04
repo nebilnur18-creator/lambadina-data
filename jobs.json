@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-04T06:11:19.080213Z",
+  "updated": "2026-10-04T06:13:39.982924Z",
   "jobs": [
+    {
+      "id": "a49c22bf701e36f91d8edad395616fcdd3bbba7b97ae64cd58cc9434be5a8e32",
+      "company": "National Aviation College",
+      "about": "A private college in Ethiopia that provides education and training in aviation and aerospace engineering.",
+      "positions": [
+        "Assistant Professor and above, Department of Aerospace Systems and Spacecraft Engineering"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Education"
+      ],
+      "deadline": "Nov 02, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a49c22bf701e36f91d8edad395616fcdd3bbba7b97ae64cd58cc9434be5a8e32.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: National Aviation College\n🏬 About: A private college in Ethiopia that provides education and training in aviation and aerospace engineering.\n\n💼 Positions:\n1. Assistant Professor and above, Department of Aerospace Systems and Spacecraft Engineering\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - PhD or higher in Aerospace Systems, Satellite and Space Technology, Aerospace Manufacturing Technology, Aeronautical Engineering, or a closely related field\n   - Minimum two years teaching experience in higher education\n\n📊 Vacancy Count: 3\n📅 Deadline: Nov 02, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-04T06:13:26.371422Z"
+    },
     {
       "id": "29cefd3b01520eb4fc00a0e0332891117f230adcbf3675825475436a30371a92",
       "company": "BAManufacturing",
