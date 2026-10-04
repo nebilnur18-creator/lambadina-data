@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-03T13:35:37.465118Z",
+  "updated": "2026-10-04T06:11:19.080213Z",
   "jobs": [
+    {
+      "id": "29cefd3b01520eb4fc00a0e0332891117f230adcbf3675825475436a30371a92",
+      "company": "BAManufacturing",
+      "about": "A manufacturing company operating in Ethiopia.",
+      "positions": [
+        "Junior Sales and Marketing Specialist"
+      ],
+      "category": [
+        "Fresh Graduate"
+      ],
+      "deadline": "Oct 09, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/29cefd3b01520eb4fc00a0e0332891117f230adcbf3675825475436a30371a92.jpg",
+      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: BAManufacturing\n🏬 About: A manufacturing company operating in Ethiopia.\n\n💼 Positions:\n1. Junior Sales and Marketing Specialist\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - B.Sc. in Marketing Management (graduated)\n   - 0–1 year of work experience (preferred)\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-04T06:11:14.361485Z"
+    },
     {
       "id": "ae1ab8313767046cf03a13e3dd2b18cceae683f5736ba2183c255a2a3998b4f3",
       "company": "Ethiopian Construction Works Corporation (ECWC)",
