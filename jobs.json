@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T06:26:32.239502Z",
+  "updated": "2026-10-05T06:26:40.600651Z",
   "jobs": [
+    {
+      "id": "f0feae4d6d079c6ee63a798a7ca73fb0c3c41b499c7957513b4d7fdcea2a1c42",
+      "company": "Dodai Manufacturing Plc",
+      "about": "Dodai Manufacturing Plc is a private Ethiopian manufacturing company specializing in hardware and engineering solutions.",
+      "positions": [
+        "Hardware & Engineering"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "October 10th, 2026",
+      "link": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/forms/d/e/1FAIpQLScTon8-v5D1u4I1wn76mSPp_dgPLRaNKEsZqpvMWYlRFUgpnA/viewform?usp%3Dsend_form&followup=https://docs.google.com/forms/d/e/1FAIpQLScTon8-v5D1u4I1wn76mSPp_dgPLRaNKEsZqpvMWYlRFUgpnA/viewform?usp%3Dsend_form&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S50558116:1790924087420424",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "image": null,
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Dodai Manufacturing Plc\n🏬 About: Dodai Manufacturing Plc is a private Ethiopian manufacturing company specializing in hardware and engineering solutions.\n\n💼 Positions:\n1. Hardware & Engineering\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree or Diploma in Electrical Engineering, Mechanical Engineering, Industrial Engineering or a closely related field\n   - 1‑3 years of experience in hardware engineering, R&D, manufacturing, or production engineering\n   - Demonstrated ability to independently own technical tasks, plan tests, perform root‑cause analysis, and provide technical recommendations\n   - Experience diagnosing failures in batteries, motors, controllers, VCUs, displays, chargers, wiring harnesses, sensors, and other vehicle electrical systems\n   - Familiarity with electrical testing and diagnostic equipment such as multimeters, power supplies, and other test instruments\n   - Ability to read and interpret electrical schematics, wiring diagrams, and technical documentation\n   - Experience coaching or guiding junior engineers\n   - Effective communication and teamwork skills\n   - Ability to multitask\n\n📍 Location: Addis Ababa, Ethiopia\n📅 Deadline: October 10th, 2026\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/forms/d/e/1FAIpQLScTon8-v5D1u4I1wn76mSPp_dgPLRaNKEsZqpvMWYlRFUgpnA/viewform?usp%3Dsend_form&followup=https://docs.google.com/forms/d/e/1FAIpQLScTon8-v5D1u4I1wn76mSPp_dgPLRaNKEsZqpvMWYlRFUgpnA/viewform?usp%3Dsend_form&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S50558116:1790924087420424",
+      "posted": "2026-10-05T06:26:38.854072Z"
+    },
     {
       "id": "894e5db15dc35f3fca8038f745df9877896eb832a5b320e378fb958133f0950a",
       "company": "E-Ethio Credit System Plc",
