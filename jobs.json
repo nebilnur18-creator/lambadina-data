@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-05T07:27:25.480567Z",
+  "updated": "2026-10-05T07:27:59.525440Z",
   "jobs": [
+    {
+      "id": "0eaf79c2c8a010176ae708446b2567fc816e042287c7f436057b858ee3c744e7",
+      "company": "AMG Holding Steel Factory",
+      "about": "A steel manufacturing company operating in Ethiopia.",
+      "positions": [
+        "Camera Technician",
+        "Motorist",
+        "Coffee Processing Machine Operator",
+        "Cupper",
+        "Senior Labor Marketing Officer"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 11, 2026",
+      "link": "https://ethiojobshub.com/amg-holdings-job-vacancy/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "image": null,
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: AMG Holding Steel Factory\n🏬 About: A steel manufacturing company operating in Ethiopia.\n\n💼 Positions:\n1. Camera Technician\n2. Motorist\n3. Coffee Processing Machine Operator\n4. Cupper\n5. Senior Labor Marketing Officer\n\n📅 Deadline: October 11, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://ethiojobshub.com/amg-holdings-job-vacancy/",
+      "posted": "2026-10-05T07:27:33.187609Z"
+    },
     {
       "id": "cd5150054e0424bcdb7cd6c47b4cc2bd5be5a423fe615621423e0dd88966adda",
       "company": "Jenboro Real Estate",
