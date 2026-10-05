@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T07:26:39.588783Z",
+  "updated": "2026-10-05T07:27:25.480567Z",
   "jobs": [
+    {
+      "id": "cd5150054e0424bcdb7cd6c47b4cc2bd5be5a423fe615621423e0dd88966adda",
+      "company": "Jenboro Real Estate",
+      "about": "A real estate company operating in Ethiopia, focusing on property sales and development.",
+      "positions": [
+        "Sales Consultant"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "November 1, 2026",
+      "link": "https://ethiojobshub.com/jenboro-real-estate-vacancy-2/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/cd5150054e0424bcdb7cd6c47b4cc2bd5be5a423fe615621423e0dd88966adda.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Jenboro Real Estate\n🏬 About: A real estate company operating in Ethiopia, focusing on property sales and development.\n\n💼 Positions:\n1. Sales Consultant\n   🎓 Requirements:\n   - BA in Marketing, Sales, Management, Engineering or related fields\n   - Minimum 1 year experience in real‑estate sales\n\n💰 Salary: 20,000 birr base salary + 5.3% commission + monthly SPIF\n📊 Vacancy Count: 50\n📅 Deadline: November 1, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://ethiojobshub.com/jenboro-real-estate-vacancy-2/",
+      "posted": "2026-10-05T07:27:17.001184Z"
+    },
     {
       "id": "3947937a3b522fd96f0e51dab8cf946f0253b6cffca77efb70663229aa077c6d",
       "company": "ASER Construction PLC",
