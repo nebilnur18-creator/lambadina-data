@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T06:01:32.307138Z",
+  "updated": "2026-10-05T06:01:46.465880Z",
   "jobs": [
+    {
+      "id": "fabf059ba64b79cb5a0c23d9e54cda66514b16088418d8d2d4cce29beb22e59d",
+      "company": "HaHu Muya",
+      "about": "HaHu Muya is a digital training initiative by HaHuJobs that offers online and physical courses to build job-ready digital skills for Ethiopian youth.",
+      "positions": [
+        "Job and Career Enhancement Course Participant"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "https://muya.hahu.jobs/",
+      "contact": "+251 988007773, +251 988007775, +251 988007705",
+      "application_method": "Apply via source job page",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fabf059ba64b79cb5a0c23d9e54cda66514b16088418d8d2d4cce29beb22e59d.jpg",
+      "text": "🏷️ Education | Private Sector\n\n🏢 Company: HaHu Muya\n🏬 About: HaHu Muya is a digital training initiative by HaHuJobs that offers online and physical courses to build job-ready digital skills for Ethiopian youth.\n\n💼 Positions:\n1. Job and Career Enhancement Course Participant\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Open to Ethiopian youth seeking to improve CV writing and job search skills\n\n📝 Description: The free “Job and Career Enhancement” course teaches participants how to create ATS‑friendly, clear, and well‑structured CVs, develop practical job‑search skills, and enhance overall career readiness through hands‑on training and coaching.\n\n📞 Contact: +251 988007773, +251 988007775, +251 988007705\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://muya.hahu.jobs/",
+      "posted": "2026-10-05T06:01:41.260980Z"
+    },
     {
       "id": "dd931483116c0be1cb00113f2659a1c539aa598fc602710ee77c92bba0c641ae",
       "company": "Addis International Bank",
