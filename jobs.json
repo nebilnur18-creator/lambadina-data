@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-05T07:21:52.484044Z",
+  "updated": "2026-10-05T07:22:15.813296Z",
   "jobs": [
+    {
+      "id": "859921bc9de55c8d6c7ae371d8499d6eef238fab0b509f0fa892cdf1b6082541",
+      "company": "Kerchanshe Trading Company",
+      "about": "Kerchanshe Trading Company is a private trading firm operating in Ethiopia.",
+      "positions": [
+        "Power BI Developer II"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 10, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/859921bc9de55c8d6c7ae371d8499d6eef238fab0b509f0fa892cdf1b6082541.jpg",
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Kerchanshe Trading Company\n🏬 About: Kerchanshe Trading Company is a private trading firm operating in Ethiopia.\n\n💼 Positions:\n1. Power BI Developer II\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s or Master’s degree in Computer Science, Information Systems, Data Analytics, Statistics, or a related field\n   - Certifications in Microsoft Power BI, Microsoft Certified: Data Analyst Associate, or related BI/analytics fields (strong advantage)\n   - In‑depth knowledge of data warehousing, data modeling, and business intelligence concepts\n   - Hands‑on experience with Microsoft Power Platform (Power BI, Power Query, Power Automate) and SQL\n   - Minimum 5 years of experience in Power BI development or Business Intelligence roles (3 years acceptable for certain responsibilities)\n   - Experience integrating ERP systems, internally developed applications, and spreadsheet‑based data sources (strong advantage)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-05T07:22:05.962482Z"
+    },
     {
       "id": "deb01319a0caa8bfc53ece9482789fdd3df20c90bc1eb595a4c2505c62bcb27d",
       "company": "Heineken Ethiopia",
