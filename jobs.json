@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-05T07:32:23.231862Z",
+  "updated": "2026-10-05T07:32:51.348245Z",
   "jobs": [
+    {
+      "id": "1eda7ca208f5299311506e96139faf21ca5427e39e7a35213b0c8e03121084a4",
+      "company": "Dream Liyana Healthcare PLC",
+      "about": "A private healthcare company in Ethiopia that operates the Dream Orthopedics, Trauma and Spine Center.",
+      "positions": [
+        "Anesthesia Professional",
+        "Nurse",
+        "Quality Officer",
+        "Senior Accountant",
+        "Head Nurse"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 7, 2026",
+      "link": "https://ethiojobshub.com/dream-liyana-healthcare-4/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/1eda7ca208f5299311506e96139faf21ca5427e39e7a35213b0c8e03121084a4.jpg",
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC\n🏬 About: A private healthcare company in Ethiopia that operates the Dream Orthopedics, Trauma and Spine Center.\n\n💼 Positions:\n1. Anesthesia Professional\n\n2. Nurse\n\n3. Quality Officer\n\n4. Senior Accountant\n\n5. Head Nurse\n\n📅 Deadline: October 7, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://ethiojobshub.com/dream-liyana-healthcare-4/",
+      "posted": "2026-10-05T07:32:36.500732Z"
+    },
     {
       "id": "c10e83a32fba3c8e2d748fb13f37666b177b61a24697b33f3e75563f0f2aa0e2",
       "company": "Bilal Microfinance Institution S.C.",
