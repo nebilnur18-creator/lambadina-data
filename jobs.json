@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-05T07:39:55.287122Z",
+  "updated": "2026-10-05T07:40:25.594167Z",
   "jobs": [
+    {
+      "id": "e05edb25109372e1ce023ee1cd8af7f6feab26e2650a6c8daf3d0ff4409af0af",
+      "company": "Teklehaymanot General Hospital",
+      "about": "A general hospital providing medical services in Addis Ababa, Ethiopia.",
+      "positions": [
+        "Laboratory Technologist",
+        "Laundry Head",
+        "Laboratory Technician"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "October 12, 2026",
+      "link": "https://ethiojobshub.com/teklehaimanot-hospital-job-5/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/e05edb25109372e1ce023ee1cd8af7f6feab26e2650a6c8daf3d0ff4409af0af.jpg",
+      "text": "🏷️ Healthcare\n\n🏢 Company: Teklehaymanot General Hospital\n🏬 About: A general hospital providing medical services in Addis Ababa, Ethiopia.\n\n💼 Positions:\n1. Laboratory Technologist\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - No experience required (0 years or more)\n\n2. Laundry Head\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - No experience required (0 years or more)\n\n3. Laboratory Technician\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - No experience required (0 years or more)\n\n📅 Deadline: October 12, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://ethiojobshub.com/teklehaimanot-hospital-job-5/",
+      "posted": "2026-10-05T07:40:14.405242Z"
+    },
     {
       "id": "886b247bbeb3054f87cacc87afa69d3021f9445baecad09231ea60a0cb9fa614",
       "company": "Danish Refuge Council",
