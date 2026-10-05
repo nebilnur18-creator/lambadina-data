@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-05T06:00:02.899571Z",
+  "updated": "2026-10-05T06:00:18.511197Z",
   "jobs": [
+    {
+      "id": "c752916802ef0cf4de72294622b48e0648a9f96322aa094a4115f86c92905ca9",
+      "company": "Ethio Fertility and IVF Center",
+      "about": "A private clinic specializing in fertility treatments and IVF services in Ethiopia.",
+      "positions": [
+        "Clinical Midwifery/Nurse"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Healthcare"
+      ],
+      "deadline": "Nov 03, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/c752916802ef0cf4de72294622b48e0648a9f96322aa094a4115f86c92905ca9.jpg",
+      "text": "🏷️ Healthcare | Fresh Graduate\n\n🏢 Company: Ethio Fertility and IVF Center\n🏬 About: A private clinic specializing in fertility treatments and IVF services in Ethiopia.\n\n💼 Positions:\n1. Clinical Midwifery/Nurse\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Degree in relevant field\n   - Valid professional license\n   - 0-3 years clinical experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 03, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-05T06:00:13.788157Z"
+    },
     {
       "id": "2043f67884af33e2319278151379ff7463c62556b8a18381a92df27060ea8575",
       "company": "Danish Refugee Council",
