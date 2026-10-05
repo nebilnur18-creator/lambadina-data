@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-05T06:25:26.705638Z",
+  "updated": "2026-10-05T06:25:37.676399Z",
   "jobs": [
+    {
+      "id": "e7786dbe814aa0a66fe45b1ee57c241bcf276b8de654a000eb858ea13d4ffd1e",
+      "company": "Horizon Addis Tyre Manufacturing P.L.C.",
+      "about": "A manufacturing company producing tyres in Ethiopia.",
+      "positions": [
+        "Marketing Head"
+      ],
+      "category": [
+        "Technology & IT",
+        "Executive"
+      ],
+      "deadline": "Oct 06, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/e7786dbe814aa0a66fe45b1ee57c241bcf276b8de654a000eb858ea13d4ffd1e.jpg",
+      "text": "🏷️ Executive | Private Sector\n\n🏢 Company: Horizon Addis Tyre Manufacturing P.L.C.\n🏬 About: A manufacturing company producing tyres in Ethiopia.\n\n💼 Positions:\n1. Marketing Head\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA Degree in Management, Marketing, Economics or a related field\n   - 8 years of work experience in Marketing Management and Sales, including 2 years in a managerial position\n   - Solid experience in marketing research and digital marketing\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 06, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-05T06:25:36.161365Z"
+    },
     {
       "id": "8471d924fbecb7d2cb101fdaa2c06b19e501de7e80770ac2f54a1c5a2c3d66fc",
       "company": "DLM PLC",
