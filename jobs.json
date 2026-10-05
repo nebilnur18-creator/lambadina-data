@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T07:21:04.816875Z",
+  "updated": "2026-10-05T07:21:26.444366Z",
   "jobs": [
+    {
+      "id": "157a64f9239461ca7f88636616cb4870b54a667840a2e1cb8d9e412f259a681b",
+      "company": "Horizon Addis Tyre Manufacturing P.L.C.",
+      "about": "A manufacturing company producing tyres and related products in Ethiopia.",
+      "positions": [
+        "Bus/Truck Vehicle Driver"
+      ],
+      "category": [
+        "Logistics & Supply Chain"
+      ],
+      "deadline": "Oct 06, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/157a64f9239461ca7f88636616cb4870b54a667840a2e1cb8d9e412f259a681b.jpg",
+      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Horizon Addis Tyre Manufacturing P.L.C.\n🏬 About: A manufacturing company producing tyres and related products in Ethiopia.\n\n💼 Positions:\n1. Bus/Truck Vehicle Driver\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Completed 12th grade education\n   - 5th grade driving license or Public 3 driving license\n   - Minimum 3 years relevant work experience\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 06, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-05T07:21:21.357264Z"
+    },
     {
       "id": "abed2110417fc98e8a3c629d9b7fcfa970028132a91f3631c56643d9c75b73c9",
       "company": "OTECH ENGINEERING & TECHNOLOGY SOLUTION",
