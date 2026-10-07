@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07T06:36:26.047669Z",
+  "updated": "2026-10-07T06:36:39.164584Z",
   "jobs": [
+    {
+      "id": "2f973233da0fa08ad7fc67a62ac966fc1173435102fd63cdaf8c6ea073d3c263",
+      "company": "Teklehaimanot General Hospital",
+      "about": "A public general hospital in Addis Ababa providing a range of medical services.",
+      "positions": [
+        "ICU Nurse"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Nov 05, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2f973233da0fa08ad7fc67a62ac966fc1173435102fd63cdaf8c6ea073d3c263.jpg",
+      "text": "🏷️ Healthcare\n\n🏢 Company: Teklehaimanot General Hospital\n🏬 About: A public general hospital in Addis Ababa providing a range of medical services.\n\n💼 Positions:\n1. ICU Nurse\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc Degree or Diploma in Nursing from a recognized institution\n   - Valid professional nursing license/registration\n   - ICU/critical care nursing training (preferred)\n   - Previous ICU experience (highly desirable)\n   - BLS certification (required/preferred)\n   - ACLS certification (advantage)\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 05, 2026\n📍 Location: Addis Ababa\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-07T06:36:36.970135Z"
+    },
     {
       "id": "8755c7a9f168cedb73e08b535b09503d0726005f91669e506ef3eeb2727b06e6",
       "company": "Ethiopian Women Lawyers Association",
