@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07T07:55:37.494090Z",
+  "updated": "2026-10-07T07:55:46.911729Z",
   "jobs": [
+    {
+      "id": "c483a71829650af62d21085d0ce053aae0316a3145163318e7b9cf34c245cc11",
+      "company": "Henosis Saving & Credit Cooperative Society Ltd",
+      "about": "Henosis Saving & Credit Cooperative Society Ltd is a financial cooperative offering savings and credit services to its members in Ethiopia.",
+      "positions": [
+        "Senior IT Officer"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 19th, 2026",
+      "link": "",
+      "contact": "info@henosissacco.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Banking & Finance | Technology & IT\n\n🏢 Company: Henosis Saving & Credit Cooperative Society Ltd\n🏬 About: Henosis Saving & Credit Cooperative Society Ltd is a financial cooperative offering savings and credit services to its members in Ethiopia.\n\n💼 Positions:\n1. Senior IT Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Degree in IT, Computer Science, or Management Information Systems (MIS)\n   - At least 5 years of professional experience with a BA/BSc and one year with an MA/MSc\n   - Strong communication, problem‑solving, and leadership skills\n\n💰 Salary: Negotiable\n📝 Description: The Senior IT Officer oversees and manages the Society’s IT department, acts as System Administrator, ensures smooth operation, upgrades, and security of computer systems, trains staff, and handles data entry and management to support efficient services and prevent fraud.\n💼 Employment Type: Permanent\n📅 Deadline: October 19th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: info@henosissacco.com",
+      "posted": "2026-10-07T07:55:44.299624Z"
+    },
     {
       "id": "57212a89567531d542cadc001ac66597f5c6746b261c9f2f6d590801f306a3cd",
       "company": "Al-afia Share Company",
@@ -5623,25 +5641,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/58fe017f0cb559cdaf8a5d6f452879eafbe35887dba567ff135440ecd2ff9157.jpg",
       "text": "🏷️ NGO / International\n\n🏢 Company: Ethiopian Red Cross Society - Oromia Branch\n🏬 About: A humanitarian organization that provides disaster response, health, and community services across Ethiopia as part of the International Red Cross and Red Crescent Movement.\n\n💼 Positions:\n1. Roving Restoring Family Links Field Officer\n   📍 Location: ERCS East Wellega Zonal Branch\n   🎓 Requirements:\n   - First degree or Master’s degree in Disaster Risk Management, Management, Social Work, Sociology, Social Anthropology, Social Psychology, Applied Psychology or related fields\n   - 2‑4 years of relevant working experience, especially in the area of protection\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 08, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-30T04:56:43.541073Z"
-    },
-    {
-      "id": "89d12d00cf7427a331f803f43e2fb6db4e7d0f926f64537764ee327bc1298b7b",
-      "company": "Zemen Bank S.C.",
-      "about": "Zemen Bank S.C. is a private commercial bank in Ethiopia providing a range of banking and financial services.",
-      "positions": [
-        "Officer, Network Support (Re-Advert)"
-      ],
-      "category": [
-        "Banking & Finance",
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 05, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/89d12d00cf7427a331f803f43e2fb6db4e7d0f926f64537764ee327bc1298b7b.jpg",
-      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Zemen Bank S.C.\n🏬 About: Zemen Bank S.C. is a private commercial bank in Ethiopia providing a range of banking and financial services.\n\n💼 Positions:\n1. Officer, Network Support (Re-Advert)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s/B.Sc. degree in Computer Science, Information Systems, IT, Computer/Software Engineering, Communication Engineering, or a related field\n   - At least 3 years of relevant experience, including 2 years at Officer level II/III or equivalent\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 05, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-30T04:56:02.717922Z"
     }
   ]
 }
