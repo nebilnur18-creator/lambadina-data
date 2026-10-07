@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-07T06:07:52.229353Z",
+  "updated": "2026-10-07T06:08:06.465263Z",
   "jobs": [
+    {
+      "id": "539112b9f23db1236be8fa18ba93669e5077b4033a74afed25fbe3a90c8c31ec",
+      "company": "ABIG",
+      "about": "ABIG is a private company operating in the technology sector in Ethiopia.",
+      "positions": [
+        "Junior IT Support"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Construction & Engineering"
+      ],
+      "deadline": "Oct 11, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/539112b9f23db1236be8fa18ba93669e5077b4033a74afed25fbe3a90c8c31ec.jpg",
+      "text": "🏷️ Fresh Graduate | Technology & IT\n\n🏢 Company: ABIG\n🏬 About: ABIG is a private company operating in the technology sector in Ethiopia.\n\n💼 Positions:\n1. Junior IT Support\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Computer Engineering, Software Engineering, or a related field\n   - No experience required; fresh graduates with strong practical skills are welcome\n   - Basic knowledge of Windows, Microsoft Office, hardware, networking, SQL/databases, and programming\n   - Exposure to Microsoft Dynamics NAV/ERP is an advantage\n   - Good troubleshooting, communication, teamwork, and problem‑solving skills\n   - Willingness to learn and develop across different areas of IT\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 11, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-07T06:08:03.612251Z"
+    },
     {
       "id": "69c53dbb24ec334c4b9771fd2b4aa0e3f092529e118e0c790607fe5f83414df8",
       "company": "Ethiopian Women Lawyers Association (EWLA)",
