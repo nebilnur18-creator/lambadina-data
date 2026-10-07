@@ -1,6 +1,29 @@
 {
-  "updated": "2026-10-07T07:13:37.213164Z",
+  "updated": "2026-10-07T07:14:10.718779Z",
   "jobs": [
+    {
+      "id": "626e0c0cf629d70bcff5843af8096be4d44fec9f02aa99400859f442be0ab5d1",
+      "company": "TalentConnect",
+      "about": "TalentConnect is a private Ethiopian company that connects job seekers with employment opportunities and conducts research to improve hiring processes.",
+      "positions": [
+        "Marketing",
+        "Accounting",
+        "Reception",
+        "Writing / Secretarial Service",
+        "Human Resources Management",
+        "Sales and Related Job Areas"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/626e0c0cf629d70bcff5843af8096be4d44fec9f02aa99400859f442be0ab5d1.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: TalentConnect\n🏬 About: TalentConnect is a private Ethiopian company that connects job seekers with employment opportunities and conducts research to improve hiring processes.\n\n💼 Positions:\n1. Marketing\n\n2. Accounting\n\n3. Reception\n\n4. Writing / Secretarial Service\n\n5. Human Resources Management\n\n6. Sales and Related Job Areas\n\n📝 Description: TalentConnect is conducting a research study to better understand job seekers and facilitate their entry into the workforce. Participants in the listed fields are invited to join the study and will receive a transport allowance.\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "posted": "2026-10-07T07:13:48.875864Z"
+    },
     {
       "id": "a203ba4175152d627e68d00e3aa1fbbb26d9088cba1367c25a68747b3d010d3f",
       "company": "Mega Lab PLC",
