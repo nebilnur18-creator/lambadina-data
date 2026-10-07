@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-07T07:56:53.930518Z",
+  "updated": "2026-10-07T07:57:02.671626Z",
   "jobs": [
+    {
+      "id": "dbcda72929b6c64f62e73b2e0be963dcc1415771cda891b86e2511851d5f9326",
+      "company": "ABIG",
+      "about": "ABIG is an umbrella management company overseeing a diversified investment portfolio in sectors such as food & beverage, manufacturing, import & export, healthcare, retail, and property management in Ethiopia.",
+      "positions": [
+        "Junior IT Support",
+        "Senior IT System Support / ERP Support & Customization"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 11, 2026",
+      "link": "",
+      "contact": "recruitment@ab-ig.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: ABIG\n🏬 About: ABIG is an umbrella management company overseeing a diversified investment portfolio in sectors such as food & beverage, manufacturing, import & export, healthcare, retail, and property management in Ethiopia.\n\n💼 Positions:\n1. Junior IT Support\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Computer Engineering, Software Engineering, or related field\n   - No prior experience required; fresh graduates with strong practical skills welcome\n   - Basic knowledge of Windows, Microsoft Office, hardware, networking, SQL/databases, and programming\n   - Exposure to Microsoft Dynamics NAV/ERP is an advantage\n   - Good troubleshooting, communication, teamwork, and problem‑solving skills\n   - Willingness to learn and develop across different IT areas\n\n2. Senior IT System Support / ERP Support & Customization\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Information Systems, or related field\n   - Minimum 4 years of Microsoft Dynamics NAV support experience\n   - Practical experience in NAV configuration, customization, reporting, and troubleshooting\n   - Good understanding of NAV modules and business processes\n   - Microsoft Dynamics NAV/Business Central certification preferred\n   - Knowledge of SQL Server/database is an advantage\n   - Strong communication and attention‑to‑detail skills\n\n📝 Description: ABIG is hiring IT professionals to provide support, configuration, and minor customization of Microsoft Dynamics NAV across finance, procurement, inventory, sales, and other modules. The roles involve user support, system troubleshooting, reporting, and documentation to ensure smooth operation of the ERP system.\n\n💼 Employment Type: Full Time\n📅 Deadline: October 11, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@ab-ig.com",
+      "posted": "2026-10-07T07:57:00.143005Z"
+    },
     {
       "id": "ae216e4b2134116c2b193168b0f88cb16a26193d40c2212c84c854fad76fd24f",
       "company": "Ahadu Bank S.C",
@@ -5623,25 +5642,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fafdd49d58dffdb1afe3ebe36788f0db82696c26ce42712d6e2e56d3cadc3f39.jpg",
       "text": "🏷️ Private Sector | Executive\n\n🏢 Company: Holland Dairy P.L.C\n🏬 About: A private dairy company in Ethiopia that processes and distributes milk and dairy products.\n\n💼 Positions:\n1. Accounting Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in accounting, finance, or related field\n   - Minimum 5 years of accounting experience, including at least 2 years in a supervisory role\n   - Solid knowledge of IFRS and local tax laws\n   - Experience with accounting systems such as Microsoft Dynamics or similar ERP\n   - Strong analytical, organizational, and communication skills\n   - High attention to detail and integrity\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-30T05:03:55.578571Z"
-    },
-    {
-      "id": "dab18ee262abae641ae93d367ee906b12e370be4e5d4b34177c41c01bb48c888",
-      "company": "PLANET COLORS IMPORT PLC",
-      "about": "A private company operating in the import sector in Ethiopia.",
-      "positions": [
-        "Accountant"
-      ],
-      "category": [
-        "Logistics & Supply Chain",
-        "Education"
-      ],
-      "deadline": "Oct 30, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/dab18ee262abae641ae93d367ee906b12e370be4e5d4b34177c41c01bb48c888.jpg",
-      "text": "🏷️ Private Sector\n\n🏢 Company: PLANET COLORS IMPORT PLC\n🏬 About: A private company operating in the import sector in Ethiopia.\n\n💼 Positions:\n1. Accountant\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Accounting or a related field from a recognized university\n   - Minimum 5 years of work experience in the import & export sector\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-30T05:03:46.415974Z"
     }
   ]
 }
