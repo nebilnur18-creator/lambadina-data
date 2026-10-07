@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07T06:09:08.269894Z",
+  "updated": "2026-10-07T06:09:20.235487Z",
   "jobs": [
+    {
+      "id": "365400288a5f5c67b711af76335269e5fa27457620eb92e7eeb54c13c9c193e5",
+      "company": "Blue Elephant Fiberboard Manufacturing Plc",
+      "about": "A manufacturing company producing fiberboard products in Ethiopia.",
+      "positions": [
+        "Electrical Technician"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Nov 06, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/365400288a5f5c67b711af76335269e5fa27457620eb92e7eeb54c13c9c193e5.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Blue Elephant Fiberboard Manufacturing Plc\n🏬 About: A manufacturing company producing fiberboard products in Ethiopia.\n\n💼 Positions:\n1. Electrical Technician\n   📍 Location: BUI\n   🎓 Requirements:\n   - Diploma or TVET Certificate in Electrical Engineering or a related field\n   - 1–3 years of relevant work experience in electrical maintenance or industrial electrical work\n   - Knowledge of electrical systems, motors, control panels, and wiring\n   - Ability to identify and solve electrical problems efficiently\n   - Good communication and teamwork skills\n\n💰 Salary: ETB 20,000\n📊 Vacancy Count: 1\n📅 Deadline: Nov 06, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-07T06:09:18.071022Z"
+    },
     {
       "id": "fe69aa3bbcbd2decd30b33e5c1f357f295aacf15fa7753ae83868909348e2d16",
       "company": "Grace Construction Chemicals",
