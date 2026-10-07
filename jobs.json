@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07T06:47:38.244736Z",
+  "updated": "2026-10-07T06:47:49.946445Z",
   "jobs": [
+    {
+      "id": "80362bb2e0ff2bd128f1e3af5d4ccbaf215bd7d29d11550f3721078ff797da8d",
+      "company": "Addis Cardiac Hospital",
+      "about": "A private hospital in Addis Ababa specializing in cardiac care and medical services.",
+      "positions": [
+        "Nurse Professional"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Oct 20, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/80362bb2e0ff2bd128f1e3af5d4ccbaf215bd7d29d11550f3721078ff797da8d.jpg",
+      "text": "🏷️ Healthcare\n\n🏢 Company: Addis Cardiac Hospital\n🏬 About: A private hospital in Addis Ababa specializing in cardiac care and medical services.\n\n💼 Positions:\n1. Nurse Professional\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Degree in Nursing from an accredited program\n   - Licensed to practice in Ethiopia by FMHACA\n   - Current and active FMHACA certification in Clinical Nursing\n   - One year of recent clinical experience preferred\n   - Basic computer knowledge (Word and Excel)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 20, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-07T06:47:47.872609Z"
+    },
     {
       "id": "6f9f842649bfecbf70e6d16c253fab300662c598dad26584c1deb8ae7b01f977",
       "company": "PANA DM Trading plc",
