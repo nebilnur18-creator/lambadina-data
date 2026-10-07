@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-07T06:35:57.868759Z",
+  "updated": "2026-10-07T06:36:11.617060Z",
   "jobs": [
+    {
+      "id": "4610dc3b927cb2490426568312af754d22706418d1e6a49a2a59b2bc35303ecb",
+      "company": "ABIG",
+      "about": "ABIG is a private company operating in the technology sector in Ethiopia.",
+      "positions": [
+        "Senior IT System Support / ERP Support & Customization"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 11, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/4610dc3b927cb2490426568312af754d22706418d1e6a49a2a59b2bc35303ecb.jpg",
+      "text": "🏷️ Technology & IT | Executive\n\n🏢 Company: ABIG\n🏬 About: ABIG is a private company operating in the technology sector in Ethiopia.\n\n💼 Positions:\n1. Senior IT System Support / ERP Support & Customization\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Information Systems, or a related field\n   - Minimum 4 years of Microsoft Dynamics NAV support experience\n   - Practical experience in NAV configuration, customization, reporting, and troubleshooting\n   - Good understanding of NAV modules and business processes\n   - Microsoft Dynamics NAV/Business Central certification preferred\n   - SQL Server/database knowledge is an advantage\n   - Ability to focus on NAV support, configuration, reporting, testing, and minor customization\n\n📝 Description: Responsible for Microsoft Dynamics NAV support, configuration, reporting, testing, and minor customization.\n\n📊 Vacancy Count: 1\n💼 Employment Type: Senior Executive\n📅 Deadline: Oct 11, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-07T06:36:09.031212Z"
+    },
     {
       "id": "cce08aea59241b1c8bdfc7e428800ed41a759a7627aab3edcbfcd37c93a5a1d9",
       "company": "Romina PLC",
