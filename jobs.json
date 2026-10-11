@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-11T12:47:07.299756Z",
+  "updated": "2026-10-11T12:48:26.584691Z",
   "jobs": [
+    {
+      "id": "4b44d884d9a136175acda3be83043ff312deeba25722c72583df56653ea75b57",
+      "company": "Sami Automotive Technology",
+      "about": "A company specializing in automotive technology solutions in Ethiopia.",
+      "positions": [
+        "IT Officer"
+      ],
+      "category": [
+        "Technology & IT"
+      ],
+      "deadline": "November 9th, 2026",
+      "link": "https://elelanajobs.com/2026/10/09/sami-automotive-technology/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/10/09/sami-automotive-technology/",
+      "apply_href": "https://elelanajobs.com/2026/10/09/sami-automotive-technology/",
+      "source_url": "https://elelanajobs.com/2026/10/09/sami-automotive-technology/",
+      "image": null,
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Sami Automotive Technology\n🏬 About: A company specializing in automotive technology solutions in Ethiopia.\n\n💼 Positions:\n1. IT Officer\n   🎓 Requirements:\n   - Diploma or Bachelor's degree in Information Technology, Computer Science, Telecommunications, or a related field.\n\n📅 Deadline: November 9th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/10/09/sami-automotive-technology/",
+      "posted": "2026-10-11T12:47:57.917952Z"
+    },
     {
       "id": "44507ff70952801630a689e2f349be08694bb82c2705b00d7c3e8475bd0a6fc8",
       "company": "Love in Action Ethiopia",
@@ -5818,24 +5840,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9aded983ad364559d2bea13ea96ecb7c0010aa442fcf7cbbb721235d22c42341.jpg",
       "text": "🏷️ Private Sector\n\n🏢 Company: Majet Foods Trading One Member PLC\n🏬 About: Majet Foods Trading One Member PLC is a private company operating in the food manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Production Supervisor\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc degree in Food Science, Environmental Science, or a related field\n   - Minimum of 3 years of progressive experience as a Production Supervisor in a manufacturing or food production environment\n   - Excellent communication and interpersonal skills, capable of working with cross‑functional teams\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-01T05:13:04.948527Z"
-    },
-    {
-      "id": "7a195122035cc9df95f0e705b3c73145ef7bbdaf4ca69ffc63a2cf388b42a90c",
-      "company": "Marvelous Real Estate S.C",
-      "about": "A private real estate development company operating in Ethiopia.",
-      "positions": [
-        "Senior Site Engineer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 05, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/7a195122035cc9df95f0e705b3c73145ef7bbdaf4ca69ffc63a2cf388b42a90c.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Marvelous Real Estate S.C\n🏬 About: A private real estate development company operating in Ethiopia.\n\n💼 Positions:\n1. Senior Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree (BSc) in Civil Engineering\n   - Minimum of 6 years overall experience in building/apartment construction\n   - At least 3 years experience at a senior level as a Site Engineer\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 05, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-01T05:12:54.360401Z"
     }
   ]
 }
