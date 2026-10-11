@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-11T12:10:13.058185Z",
+  "updated": "2026-10-11T12:11:04.981114Z",
   "jobs": [
+    {
+      "id": "1109ab4231f85d7c7ce6c06a2dbb22a56a8ea43dcc4c53f23837525a5052ff8e",
+      "company": "Gishen Pharmacy",
+      "about": "A private pharmacy operating in Ethiopia, providing pharmaceutical services and products.",
+      "positions": [
+        "Junior Pharmacist"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "October 17, 2026",
+      "link": "https://elelanajobs.com/2026/10/08/gishen-pharmacy-2/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/10/08/gishen-pharmacy-2/",
+      "apply_href": "https://elelanajobs.com/2026/10/08/gishen-pharmacy-2/",
+      "source_url": "https://elelanajobs.com/2026/10/08/gishen-pharmacy-2/",
+      "image": null,
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Gishen Pharmacy\n🏬 About: A private pharmacy operating in Ethiopia, providing pharmaceutical services and products.\n\n💼 Positions:\n1. Junior Pharmacist\n   🎓 Requirements:\n   - Bachelor’s degree in pharmacy\n   - Valid professional pharmacy license\n\n📅 Deadline: October 17, 2026\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/10/08/gishen-pharmacy-2/",
+      "posted": "2026-10-11T12:10:35.599643Z"
+    },
     {
       "id": "e02e10d0b3b0643acee8ed009c78a292d6691e9c8c2c04181972e083d21dbd9d",
       "company": "Kasim Kemal Importer",
@@ -5791,25 +5813,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/509de5915229f160bafd2d77ac37deaa5aeb9e553e13bc9d7a8ce83f1ce21a23.jpg",
       "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Nolawi Tour & Travel\n🏬 About: Nolawi Tour & Travel is a private company offering tourism and travel services in Ethiopia.\n\n💼 Positions:\n1. Logistics Operator\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree in Logistics, Supply Chain, Administration, or a related field\n   - Minimum 3 years of relevant work experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 22, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-01T04:49:04.363233Z"
-    },
-    {
-      "id": "fc316c7a5ec7037543a0c25efb769fa5973ea79b9165b226e96d2059b022fdfb",
-      "company": "Unlimited Packaging PLC",
-      "about": "Unlimited Packaging PLC is a private manufacturing company producing packaging solutions in Ethiopia.",
-      "positions": [
-        "Information Technology (IT) Specialist"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 14, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fc316c7a5ec7037543a0c25efb769fa5973ea79b9165b226e96d2059b022fdfb.jpg",
-      "text": "🏷️ Technology & IT\n\n🏢 Company: Unlimited Packaging PLC\n🏬 About: Unlimited Packaging PLC is a private manufacturing company producing packaging solutions in Ethiopia.\n\n💼 Positions:\n1. Information Technology (IT) Specialist\n   📍 Location: Bishoftu\n   🎓 Requirements:\n   - Bachelor’s degree from a recognized institution in Information Technology, Computer Science, Software Engineering, Computer Engineering, Information Systems, or a related field\n   - Minimum 4 years of relevant work experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-01T04:48:54.292994Z"
     }
   ]
 }
