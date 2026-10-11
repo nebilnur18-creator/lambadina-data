@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-11T12:13:42.770977Z",
+  "updated": "2026-10-11T12:14:32.899409Z",
   "jobs": [
+    {
+      "id": "f13c0eee4b47757677bb2a7638e3ca028b76dcc277cfc151be84924eef9fe836",
+      "company": "People In Need",
+      "about": "People In Need is an international humanitarian NGO that implements development and emergency programs worldwide.",
+      "positions": [
+        "Field Officer"
+      ],
+      "category": [
+        "NGO / International"
+      ],
+      "deadline": "October 14th, 2026",
+      "link": "https://elelanajobs.com/2026/10/08/people-in-need-pin-5/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/10/08/people-in-need-pin-5/",
+      "apply_href": "https://elelanajobs.com/2026/10/08/people-in-need-pin-5/",
+      "source_url": "https://elelanajobs.com/2026/10/08/people-in-need-pin-5/",
+      "image": null,
+      "text": "🏷️ NGO / International\n\n🏢 Company: People In Need\n🏬 About: People In Need is an international humanitarian NGO that implements development and emergency programs worldwide.\n\n💼 Positions:\n1. Field Officer\n   🎓 Requirements:\n   - Bachelor’s degree in Education with Development Economics, Agricultural Economics, Agribusiness, Marketing and Value Chain Management, Business Administration, Rural Development, or a related field.\n\n📅 Deadline: October 14th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/10/08/people-in-need-pin-5/",
+      "posted": "2026-10-11T12:14:07.624991Z"
+    },
     {
       "id": "717f28b30b5ea326d489bd6f3094d28c58c68436f0aa95f41ed4349948e46eb4",
       "company": "Hope for Justice",
@@ -5802,25 +5824,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/5badaeba98f8b2bb9f362336dc02d4b344a6e786f2776f1db0205bd78a8bada6.jpg",
       "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Jemal Seid Adem Import and Export\n🏬 About: A private company engaged in import and export activities in Ethiopia.\n\n💼 Positions:\n1. Engineering Supervisor\n   📍 Location: Adama, Oromia\n   🎓 Requirements:\n   - Strong maintenance planning and asset‑management skills (preventive/predictive maintenance)\n   - Solid technical knowledge across mechanical, electrical, and basic automation/PLC systems\n   - Leadership and team‑management ability for multidisciplinary technical teams\n   - Root‑cause analysis and structured troubleshooting skills\n   - Budgeting and spare‑parts inventory management\n   - Good command of maintenance documentation and reporting tools\n   - Ability to work on‑site with regular shop‑floor presence and respond to urgent breakdowns outside normal hours\n   - Compliance with PPE and safety procedures in a processing plant environment\n   - BSc degree in a relevant engineering field\n   - 5–8 years of relevant experience (senior level)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 13, 2026\n📝 Description: Oversees maintenance planning, asset management, and leads multidisciplinary technical teams to ensure reliable plant operations.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-01T05:12:22.016466Z"
-    },
-    {
-      "id": "0f883870ed300593d68ff63cf56b4bafbe260ec924063bf0aad3b041f5d5fbe6",
-      "company": "At-Con Engineering & Architecture Consultancy PLC",
-      "about": "A private engineering and architecture consultancy providing design and project services in Ethiopia.",
-      "positions": [
-        "Structural Engineer (Junior)"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Education"
-      ],
-      "deadline": "Oct 30, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/0f883870ed300593d68ff63cf56b4bafbe260ec924063bf0aad3b041f5d5fbe6.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: At-Con Engineering & Architecture Consultancy PLC  \n🏬 About: A private engineering and architecture consultancy providing design and project services in Ethiopia.  \n\n💼 Positions:  \n1. Structural Engineer (Junior)  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s Degree (BSc) in Structural Engineering, Civil Engineering, or a related field from a recognized university.  \n   - 1‑3 years of relevant experience (Junior level)  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-01T05:12:11.474085Z"
     }
   ]
 }
