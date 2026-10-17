@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T08:31:56.815203Z",
+  "updated": "2026-10-17T08:32:19.492691Z",
   "jobs": [
+    {
+      "id": "2ee9dba134f1694bdb8c1101b2dca242491993c64c34d38a00a43b95698ce0ee",
+      "company": "Cotti Coffee",
+      "about": "Cotti Coffee is a coffee production company operating in Ethiopia, focusing on the cultivation and processing of specialty coffee.",
+      "positions": [
+        "Plantation Operations Manager"
+      ],
+      "category": [
+        "Executive"
+      ],
+      "deadline": "Nov 14, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2ee9dba134f1694bdb8c1101b2dca242491993c64c34d38a00a43b95698ce0ee.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Cotti Coffee\n🏬 About: Cotti Coffee is a coffee production company operating in Ethiopia, focusing on the cultivation and processing of specialty coffee.\n\n💼 Positions:\n1. Plantation Operations Manager\n   📍 Location: Cheta, Kaffa Zone, Southwest Ethiopia; Godiya or Gesha, West Omo Zone, Southwest Ethiopia\n   🎓 Requirements:\n   - At least 3 years of practical experience managing coffee plantations or comparable large-scale agricultural operations; experience in Ethiopia strongly preferred\n   - Good working proficiency in English and Amharic, with ability to communicate with local teams and external stakeholders\n   - Sound knowledge of coffee cultivation, pruning, soil and water management, fertilization, pest and disease control, harvesting and post‑harvest handling\n   - Demonstrated ability to plan production, lead teams, solve field problems and manage plantation operations independently\n   - Basic computer skills and ability to prepare operational reports\n   - Willingness to live and work at the assigned location\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T08:32:13.918930Z"
+    },
     {
       "id": "bf4bc5f9938a14292ec7915384a2d33dcb1036b90ab794fa0048dbcd9c1fdb03",
       "company": "Ethiopian Construction Works Corporation (ECWC)",
@@ -5880,24 +5898,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/22d0780414eee5d80dccdfc12e196de19f0b9e848439b50f088011b045d46c32.jpg",
       "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC\n🏬 About: A private healthcare company operating in Ethiopia, providing medical services.\n\n💼 Positions:\n1. Nurse\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor of Science in Nursing (BSc Nursing)\n   - Minimum two years of professional nursing experience\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 07, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-02T05:16:37.195826Z"
-    },
-    {
-      "id": "0c10f71f8e78b22594bdc4017a03ef660965b77198b28fb2683a13fd4473668f",
-      "company": "Habesha Breweries SC",
-      "about": "Habesha Breweries SC is a private brewing company operating in Ethiopia's beverage industry.",
-      "positions": [
-        "Graduate in Training (GIT) - Sales"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "October 10, 2026",
-      "link": "https://elelanajobs.com/2026/09/29/habesha-breweries-sc-9/",
-      "contact": "",
-      "application_method": "Apply via source job page",
-      "image": null,
-      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Habesha Breweries SC\n🏬 About: Habesha Breweries SC is a private brewing company operating in Ethiopia's beverage industry.\n\n💼 Positions:\n1. Graduate in Training (GIT) - Sales\n   🎓 Requirements:\n   - Recently completed Bachelor’s Degree in any field (graduated within the last 2 years)\n\n📅 Deadline: October 10, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/09/29/habesha-breweries-sc-9/",
-      "posted": "2026-10-02T04:52:53.908299Z"
     }
   ]
 }
