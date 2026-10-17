@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-17T06:48:06.311676Z",
+  "updated": "2026-10-17T06:48:19.475197Z",
   "jobs": [
+    {
+      "id": "419cc7f2db5114a14842995fb3dd402c86c585f4ee81262195845f2e3a6c2f3e",
+      "company": "Talent Search - Ethiojobs",
+      "about": "Talent Search - Ethiojobs is an Ethiopian recruitment platform that connects job seekers with employers across various industries.",
+      "positions": [
+        "Operations Supervisor"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Logistics & Supply Chain"
+      ],
+      "deadline": "Nov 13, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/419cc7f2db5114a14842995fb3dd402c86c585f4ee81262195845f2e3a6c2f3e.jpg",
+      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Talent Search - Ethiojobs\n🏬 About: Talent Search - Ethiojobs is an Ethiopian recruitment platform that connects job seekers with employers across various industries.\n\n💼 Positions:\n1. Operations Supervisor\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - University degree, preferably in Business Administration or Engineering.\n   - Proven experience in a manufacturing or production environment.\n   - At least two years of people management experience.\n   - Experience in supply chain operations.\n   - Experience in glazing is an added advantage.\n   - Strong understanding of technical processes, preferably within the optical industry.\n   - Good knowledge of quality management systems and ISO standards.\n   - Knowledge of Lean Manufacturing principles.\n   - Strong analytical, problem‑solving, and organizational skills.\n   - Proficiency in Microsoft Office applications.\n   - Strong interpersonal and communication skills.\n\n📝 Description: Senior-level role overseeing manufacturing and supply chain operations, including people management and technical processes.\n📊 Vacancy Count: 1\n📅 Deadline: Nov 13, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T06:48:16.162613Z"
+    },
     {
       "id": "7448d1742ac709a8507c13470c4ba103c93dcff6845757c1403cfde586e7d59e",
       "company": "Heineken Ethiopia",
@@ -5882,25 +5901,6 @@
       "image": null,
       "text": "🏷️ Education | Private Sector\n\n🏢 Company: Ethio Excellence Academy\n🏬 About: Ethio Excellence Academy is a private educational institution in Ethiopia that provides early childhood and primary school education.\n\n💼 Positions:\n1. Kindergarten Teacher\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - B.Ed., B.A., B.Sc., M.Sc. or M.A. in any field, or preferably a Certificate/Diploma in Kindergarten Teaching\n   - Excellent communication, passion for teaching, and organizational skills\n   - Minimum 1 + year teaching experience\n   - Female candidates\n   - Quantity: 20\n\n2. English Teacher\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Education, English, or a related field\n   - At least 1 + year prior teaching experience, preferably in primary education\n   - Strong communication and classroom management skills\n   - Creative teaching methods, patience, enthusiasm, and ability to adapt lessons to different learning styles\n\n3. Primary School Teacher\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - B.Ed. or B.A. degree with a Postgraduate Diploma in Teaching (PGDT)\n   - Fluency in English\n   - Proficiency in Microsoft Office and school management software\n   - Minimum 2 years teaching experience (4 years for administrative roles)\n   - Preference for young, energetic candidates\n\n💰 Salary: According to the school’s salary scale (attractive)\n📊 Vacancy Count: 20\n💼 Employment Type: Full-time\n📅 Deadline: October 29th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: director@eeaacademy.com",
       "posted": "2026-10-01T05:16:45.338717Z"
-    },
-    {
-      "id": "bf7baa34fc3bfd2d1f710e3fa86e2e027dd1726035a60b6bb642ce10a54741d7",
-      "company": "Awash Insurance SC",
-      "about": "A pioneering Ethiopian insurance company operating in the financial sector, offering a range of insurance services.",
-      "positions": [
-        "Junior Underwriter - Trainee"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Banking & Finance"
-      ],
-      "deadline": "01 October 2026",
-      "link": "",
-      "contact": "@kebenajobs",
-      "application_method": "Apply by contacting via Telegram",
-      "image": null,
-      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Awash Insurance SC\n🏬 About: A pioneering Ethiopian insurance company operating in the financial sector, offering a range of insurance services.\n\n💼 Positions:\n1. Junior Underwriter - Trainee\n   📍 Location: Assosa\n   🎓 Requirements:\n   - BSc/BA degree in Accounting & Finance, Management, Marketing Management, Economics, Agricultural Economics, Statistics, Mathematics, Mechanical Engineering, Information Technology or a related field\n   - No prior experience required\n   - Fluency in spoken and written English\n   - Age 25 or below\n\n📝 Description: Permanent junior underwriter trainee role at the Assosa branch.\n\n💼 Employment Type: Permanent\n📅 Deadline: 01 October 2026\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @kebenajobs",
-      "posted": "2026-10-01T05:16:37.313460Z"
     }
   ]
 }
