@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T08:42:32.801044Z",
+  "updated": "2026-10-17T08:42:51.738411Z",
   "jobs": [
+    {
+      "id": "0052aebb5483cca31584aaf24c02892ecc5b5f252a3e390be398cb41a00536e7",
+      "company": "Teklehaimanot General Hospital",
+      "about": "A general hospital in Ethiopia providing comprehensive medical care to the community.",
+      "positions": [
+        "Customer Service / Physician Attendant"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Nov 16, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/0052aebb5483cca31584aaf24c02892ecc5b5f252a3e390be398cb41a00536e7.jpg",
+      "text": "🏷️ Healthcare\n\n🏢 Company: Teklehaimanot General Hospital\n🏬 About: A general hospital in Ethiopia providing comprehensive medical care to the community.\n\n💼 Positions:\n1. Customer Service / Physician Attendant\n   📍 Location: Somale Tera, Addis Ababa\n   🎓 Requirements:\n   - Patient check‑in & flow management\n   - Health information interpretation\n   - Individualized patient support\n   - Staff training support\n   - Critical thinking & problem‑solving\n   - Regulatory compliance\n   - Intervention evaluation\n   - Multidisciplinary communications\n   - Treatment assistance\n   - Accurate record‑keeping\n   - Effective follow‑up communications\n   - Empathy & active listening\n   - Timely status updates\n   - Patient relationship building throughout the healthcare journey\n   - Feedback implementation through comment cards, surveys, or direct conversations\n\n📊 Vacancy Count: 2\n📅 Deadline: Nov 16, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T08:42:47.635612Z"
+    },
     {
       "id": "660fecceafa2c09418503ed60e831d9d2d2f1464a4f9382a6b743594ba067a63",
       "company": "ORDA Ethiopia",
@@ -5871,24 +5889,6 @@
       "image": null,
       "text": "🏷️ Fresh Graduate | NGO / International\n\n🏢 Company: Medical Teams International\n🏬 About: Medical Teams International is an international non‑profit organization delivering medical and health services in underserved communities.\n\n💼 Positions:\n1. Operations Intern\n   📍 Location: Assosa\n   🎓 Requirements:\n   - BA in Accounting, Finance, Business Administration (Accounting), Logistics and Procurement, Supply Chain Management, or related social science fields from a recognized institution\n   - Female graduate of 2017 or 2018 Ethiopian Calendar\n   - Minimum GPA of 3.5\n   - Fresh graduate (no prior work experience required)\n   - Basic knowledge of non‑profit accounting and payroll/voucher coordination\n   - Desired: knowledge of ERP systems (e.g., Sage, Unit4) and computerized accounting software\n   - Excellent Excel skills; proficient with Microsoft Teams and other Office programs\n   - Ability to explain financial procedures to non‑finance staff\n   - Strong written and spoken English with good interpersonal skills\n   - Highly organized, accurate record‑keeping, quantitative ability, and ability to prioritize tasks\n   - Integrity, ethical standards, confidentiality, and adherence to the organization’s Code of Conduct\n   - Willingness to travel frequently to remote health facilities with basic living conditions\n\n📅 Deadline: October 6th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/09/29/medical-teams-international-4/",
       "posted": "2026-10-02T05:22:53.534376Z"
-    },
-    {
-      "id": "df5b748a6f6be85f5cea87c88d2dd3afbe9292dfab4c84b9f99c4578355adeda",
-      "company": "Ethio Telecom",
-      "about": "Ethio Telecom is Ethiopia's state-owned telecommunications company providing fixed-line, mobile, and internet services nationwide.",
-      "positions": [
-        "Contact Center Advisor"
-      ],
-      "category": [
-        "Fresh Graduate"
-      ],
-      "deadline": "October 03, 2026",
-      "link": "https://erp.ethiotelecom.et/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1531826884&retainAM=N&addBreadCrumb=RP&p_svid=40337&p_spid=135005&oapc=18&oas=ojM9JGd33svRViV6MGxEaw",
-      "contact": "",
-      "application_method": "Apply using the link below",
-      "image": null,
-      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Ethio Telecom\n🏬 About: Ethio Telecom is Ethiopia's state-owned telecommunications company providing fixed-line, mobile, and internet services nationwide.\n\n💼 Positions:\n1. Contact Center Advisor\n   🎓 Requirements:\n   - B.A. degree in Management, Business Management, Business Administration, Marketing Management, Economics, or Accounting\n   - Age not older than 27 years\n   - Proficiency in Amharic and English; fluency in Af‑Somali\n   - Positive attitude, discipline, punctuality, and ability to prepare accurate reports\n\n📅 Deadline: October 03, 2026\n\n📝 Application Method: Apply using the link below\n🔗 Link: https://erp.ethiotelecom.et/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1531826884&retainAM=N&addBreadCrumb=RP&p_svid=40337&p_spid=135005&oapc=18&oas=ojM9JGd33svRViV6MGxEaw",
-      "posted": "2026-10-02T05:22:40.617427Z"
     }
   ]
 }
