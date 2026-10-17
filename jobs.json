@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-17T08:40:11.279620Z",
+  "updated": "2026-10-17T08:40:31.095709Z",
   "jobs": [
+    {
+      "id": "0f5f63693b05e5b37f387ce786377e208a32a46642f8383f9b6002455d7ddd91",
+      "company": "Sunrise Real Estate",
+      "about": "A real estate company operating in Ethiopia, focusing on property development and sales.",
+      "positions": [
+        "Interior Designer / 3D Visualization Specialist (Remote)"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Nov 16, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/0f5f63693b05e5b37f387ce786377e208a32a46642f8383f9b6002455d7ddd91.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Sunrise Real Estate\n🏬 About: A real estate company operating in Ethiopia, focusing on property development and sales.\n\n💼 Positions:\n1. Interior Designer / 3D Visualization Specialist (Remote)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Experience with Mozaik CNC software for cabinetry, millwork, and manufacturing documentation (highly preferred)\n   - Previous experience working with US‑based clients or international design teams\n   - Experience in both residential and commercial interior design\n   - Ability to manage approximately 2–3 projects per week, depending on complexity\n   - Flexibility to coordinate with US time zones and attend meetings during US business hours\n   - Responsive and reliable communication during agreed working hours\n   - Ability to meet deadlines and accommodate reasonable revisions\n   - Strong attention to detail and commitment to delivering professional‑quality work\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 16, 2026\n📝 Description: Responsible for interior design and 3D visualization projects, delivering high‑quality work for residential and commercial clients while coordinating with US‑based teams.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T08:40:28.198649Z"
+    },
     {
       "id": "214b9f7fc7d8cc168aac7dcc7edeaa839c1e53a7b43e917011edad767b0d683a",
       "company": "Synertech Technology PLC",
@@ -5881,24 +5900,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9ba0443d006cb9a4c3f1821b4d0877112d9dfb13300264713791588f1765e102.jpg",
       "text": "🏷️ Construction & Engineering\n\n🏢 Company: BAManufacturing\n🏬 About: A private company operating in the manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Senior Plastic Printing Machine Operator\n   📍 Location: Almgena\n   🎓 Requirements:\n   - TVET Level IV in Electronics and Automation (graduated)\n   - At least 5 years of experience operating plastic machines\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-02T05:21:13.203712Z"
-    },
-    {
-      "id": "9c587559f9e48879b7369b1ee68e45394e01925430fd9cbc4bf7823607a9ac37",
-      "company": "Althehet Industrial PLC",
-      "about": "A private industrial company operating in Ethiopia's manufacturing sector.",
-      "positions": [
-        "Personnel Officer"
-      ],
-      "category": [
-        "Fresh Graduate"
-      ],
-      "deadline": "Oct 08, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9c587559f9e48879b7369b1ee68e45394e01925430fd9cbc4bf7823607a9ac37.jpg",
-      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Althehet Industrial PLC\n🏬 About: A private industrial company operating in Ethiopia's manufacturing sector.\n\n💼 Positions:\n1. Personnel Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Diploma in Management or a related field\n   - No prior work experience required (0 years)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 08, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-02T05:20:59.620799Z"
     }
   ]
 }
