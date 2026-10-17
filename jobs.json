@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-17T06:52:45.929461Z",
+  "updated": "2026-10-17T06:53:02.863137Z",
   "jobs": [
+    {
+      "id": "6a3061b0b3b895d3c07fc3dd50135a6d8e0185ee7949771144886e9343d8ad1c",
+      "company": "Adey Foreign Employment Agency PLC",
+      "about": "A private company operating as a foreign employment agency, facilitating overseas job placements for Ethiopian workers.",
+      "positions": [
+        "IT & Data Processing Officer (Arabic-Speaking)"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Nov 15, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6a3061b0b3b895d3c07fc3dd50135a6d8e0185ee7949771144886e9343d8ad1c.jpg",
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Adey Foreign Employment Agency PLC\n🏬 About: A private company operating as a foreign employment agency, facilitating overseas job placements for Ethiopian workers.\n\n💼 Positions:\n1. IT & Data Processing Officer (Arabic-Speaking)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc in Computer Science, IT, or a related field\n   - Minimum 1 year of experience in an employment agency\n   - Fluent in Arabic, Amharic, and English (reading, writing, speaking, and listening)\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T06:52:58.179276Z"
+    },
     {
       "id": "5898b7d5864046b4e56257b95770f3fa01e759c555968a0f490a27701b1c3946",
       "company": "Common Vision for Development Association",
@@ -5883,24 +5902,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/d5605c40fa252c4714b60365bd75247c3e13f73837fde4d3a8eabe84e2f97bce.jpg",
       "text": "🏷️ Executive | Private Sector\n\n🏢 Company: Lalo Bake\n🏬 About: Lalo Bake is a private company operating in the hospitality sector in Ethiopia.\n\n💼 Positions:\n1. Business Unit Manager – Hotel Operations\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Master’s or bachelor’s degree in hospitality management, hotel management, business administration (MBA) or equivalent\n   - 8 years of hotel industry experience, including at least 3 years as a Hotel Manager or Resident Manager\n   - Mastery of yield management, hospitality digital marketing, corporate contract negotiations, and cost‑control systems\n   - Proficiency with modern Hotel Property Management Systems (PEDS), ERP and POS software\n   - Strong leadership, public speaking, crisis management, and interpersonal communication skills\n   - Native fluency in Amharic and professional proficiency in written and spoken English\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-02T04:50:22.566779Z"
-    },
-    {
-      "id": "12cac386b78e30c0a46e6a96039fdf81e4f1fbee34639e3af9e5c70bab78df74",
-      "company": "HH Consulting Architects Engineering PLC",
-      "about": "A private consulting firm providing architectural, engineering, and construction services in Ethiopia.",
-      "positions": [
-        "Design Department Head"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 30, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/12cac386b78e30c0a46e6a96039fdf81e4f1fbee34639e3af9e5c70bab78df74.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: HH Consulting Architects Engineering PLC\n🏬 About: A private consulting firm providing architectural, engineering, and construction services in Ethiopia.\n\n💼 Positions:\n1. Design Department Head\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Minimum 3 years of relevant experience\n   - Mid‑level professional (3‑5 years)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-02T04:50:11.719960Z"
     }
   ]
 }
