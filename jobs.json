@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T06:51:31.157664Z",
+  "updated": "2026-10-17T06:51:43.474490Z",
   "jobs": [
+    {
+      "id": "8903e078debdf474d18a806f08d64c855851a6325215d1ca1e34d3fab3c0fc44",
+      "company": "Cotti Coffee",
+      "about": "A coffee company operating in Ethiopia, focusing on coffee cultivation and processing.",
+      "positions": [
+        "Plantation Operations Supervisor"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Nov 14, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/8903e078debdf474d18a806f08d64c855851a6325215d1ca1e34d3fab3c0fc44.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Cotti Coffee\n🏬 About: A coffee company operating in Ethiopia, focusing on coffee cultivation and processing.\n\n💼 Positions:\n1. Plantation Operations Supervisor\n   📍 Location: Godiya or Gesha, West Omo Zone, Southwest Ethiopia\n   🎓 Requirements:\n   - Practical experience in coffee cultivation or other agricultural field operations (preferred)\n   - Ability to communicate effectively with local employees in English or Amharic\n   - Good organization, teamwork, accountability and hands‑on problem‑solving skills\n   - Willingness to work outdoors and reside at the assigned plantation site\n   - Candidates from nearby communities may be given preference where qualifications are comparable\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T06:51:41.484679Z"
+    },
     {
       "id": "c3d29de2cc38ad8c3b164b46a75e1a0f56ca1dd7b69bd9693ed2901c150832d4",
       "company": "Rank Rise",
@@ -5883,25 +5901,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fb19ec6ec7e3b48036a3d043808e52523d6d955f9369c30b3f6f729109d3ba9c.jpg",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Habesha Cement S.C.\n🏬 About: A cement manufacturing company operating in Ethiopia.\n\n💼 Positions:\n1. Assistant Main Cahier\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - TVET Level II/III qualification\n   - 3-5 years relevant experience (mid level)\n   - Education in Accounting, Business Management, Cost Accounting, Finance Management or a related field\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 08, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-02T04:48:57.416937Z"
-    },
-    {
-      "id": "6446481b82cac1d9f871d488d406a12b892057da71903885b8a9cdb4d1caff9f",
-      "company": "Green Scene Energy PLC",
-      "about": "Green Scene Energy PLC is a private company operating in the renewable energy sector in Ethiopia.",
-      "positions": [
-        "IT and System Manager"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 09, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6446481b82cac1d9f871d488d406a12b892057da71903885b8a9cdb4d1caff9f.jpg",
-      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Green Scene Energy PLC\n🏬 About: Green Scene Energy PLC is a private company operating in the renewable energy sector in Ethiopia.\n\n💼 Positions:\n1. IT and System Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Degree in Computer Science, Information Systems, Software or Electrical and Computer Engineering\n   - Minimum five years managing IT for an organization of 30+ employees, including at least two years in a senior accountable role\n   - Hands‑on Google Workspace administration and migration from personal Gmail\n   - Experience managing office network, Wi‑Fi, CCTV and printers\n   - Proficiency with WordPress or similar website platforms and JotForm or comparable forms tools\n   - Ability to write clear procedures and explain technical decisions in English and Amharic\n   - Certifications in Google Workspace, networking, CCTV, cybersecurity or AI tools are a plus\n   - Experience automating workflows between tools without a developer is advantageous\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-02T04:48:47.197347Z"
     }
   ]
 }
