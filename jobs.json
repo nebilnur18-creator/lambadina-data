@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-17T08:40:52.620893Z",
+  "updated": "2026-10-17T08:41:17.892854Z",
   "jobs": [
+    {
+      "id": "4ffc1ed3e25864255366c50fdb6428b85c370c9f8e02f50633e68d1d9dfa7dff",
+      "company": "TM Law Firm",
+      "about": "TM Law Firm is a private legal services firm operating in Ethiopia.",
+      "positions": [
+        "Finance Officer (Standalone)"
+      ],
+      "category": [
+        "Technology & IT",
+        "Education"
+      ],
+      "deadline": "Oct 24, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/4ffc1ed3e25864255366c50fdb6428b85c370c9f8e02f50633e68d1d9dfa7dff.jpg",
+      "text": "🏷️ Private Sector | Banking & Finance\n\n🏢 Company: TM Law Firm\n🏬 About: TM Law Firm is a private legal services firm operating in Ethiopia.\n\n💼 Positions:\n1. Finance Officer (Standalone)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Master's Degree (MA/MSc/MBA) or Bachelor's Degree (BA) in Accounting and Finance, Financial Management, or a related business field from a recognized university.\n   - For Master's holders: minimum 2 years of proven, relevant work experience in accounting and finance operations.\n   - For Bachelor's holders: minimum 3 years of proven, relevant work experience in accounting and finance operations.\n   - Prior experience in a professional services, consultancy, or legal firm is advantageous.\n   - Hands‑on proficiency in standard accounting software (e.g., Peachtree/Sage 50, QuickBooks, or ERP systems) and advanced Microsoft Excel.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 24, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T08:41:12.358303Z"
+    },
     {
       "id": "18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607",
       "company": "EVolve Businesses Group",
@@ -5882,25 +5901,6 @@
       "image": null,
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Digaf Micro-Credit Provider SC\n🏬 About: A micro‑credit institution providing small‑scale financial services and loans to individuals and businesses in Ethiopia.\n\n💼 Positions:\n1. Operation Officer\n\n2. Senior Information Security Officer\n\n📅 Deadline: October 8, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/09/29/digaf-micro-credit-provider-sc-sept-28-26/",
       "posted": "2026-10-02T05:21:36.995914Z"
-    },
-    {
-      "id": "df6d3145d0e7b1bc622b1edecc45beeb6398f28c82f5738800196942a058b18b",
-      "company": "Sam Business Group",
-      "about": "Sam Business Group is a private company engaged in importing and wholesale distribution of pharmaceutical products in Ethiopia.",
-      "positions": [
-        "Senior Accountant"
-      ],
-      "category": [
-        "Healthcare",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "October 29th, 2026",
-      "link": "https://elelanajobs.com/2026/09/29/sam-business-group/",
-      "contact": "",
-      "application_method": "Apply via source job page",
-      "image": null,
-      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Sam Business Group\n🏬 About: Sam Business Group is a private company engaged in importing and wholesale distribution of pharmaceutical products in Ethiopia.\n\n💼 Positions:\n1. Senior Accountant\n   🎓 Requirements:\n   - Qualified accountant with proven experience in full accounting and financial operations, preferably within the pharmaceutical import and wholesale sector.\n\n📝 Description: Responsible for the complete accounting and financial operations of the pharmaceutical import & wholesale business.\n📅 Deadline: October 29th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/09/29/sam-business-group/",
-      "posted": "2026-10-02T05:21:25.340756Z"
     }
   ]
 }
