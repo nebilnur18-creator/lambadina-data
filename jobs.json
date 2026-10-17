@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-17T08:40:31.095709Z",
+  "updated": "2026-10-17T08:40:52.620893Z",
   "jobs": [
+    {
+      "id": "18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607",
+      "company": "EVolve Businesses Group",
+      "about": "EVolve Businesses Group is a private company operating in the construction and engineering sector in Ethiopia.",
+      "positions": [
+        "Site Engineer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 25, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607.jpg",
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: EVolve Businesses Group\n🏬 About: EVolve Businesses Group is a private company operating in the construction and engineering sector in Ethiopia.\n\n💼 Positions:\n1. Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc Degree in Civil Engineering, Construction Management, or a related field.\n   - Minimum 2 years of proven site experience in building construction or infrastructure projects.\n   - Proficiency in engineering software (AutoCAD, MS Project/Primavera, MS Office).\n   - Strong leadership, problem‑solving, and conflict‑resolution abilities.\n   - Excellent technical report writing and team coordination skills.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 25, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-10-17T08:40:49.020055Z"
+    },
     {
       "id": "0f5f63693b05e5b37f387ce786377e208a32a46642f8383f9b6002455d7ddd91",
       "company": "Sunrise Real Estate",
@@ -5882,24 +5901,6 @@
       "image": null,
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Sam Business Group\n🏬 About: Sam Business Group is a private company engaged in importing and wholesale distribution of pharmaceutical products in Ethiopia.\n\n💼 Positions:\n1. Senior Accountant\n   🎓 Requirements:\n   - Qualified accountant with proven experience in full accounting and financial operations, preferably within the pharmaceutical import and wholesale sector.\n\n📝 Description: Responsible for the complete accounting and financial operations of the pharmaceutical import & wholesale business.\n📅 Deadline: October 29th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/09/29/sam-business-group/",
       "posted": "2026-10-02T05:21:25.340756Z"
-    },
-    {
-      "id": "9ba0443d006cb9a4c3f1821b4d0877112d9dfb13300264713791588f1765e102",
-      "company": "BAManufacturing",
-      "about": "A private company operating in the manufacturing sector in Ethiopia.",
-      "positions": [
-        "Senior Plastic Printing Machine Operator"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 09, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9ba0443d006cb9a4c3f1821b4d0877112d9dfb13300264713791588f1765e102.jpg",
-      "text": "🏷️ Construction & Engineering\n\n🏢 Company: BAManufacturing\n🏬 About: A private company operating in the manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Senior Plastic Printing Machine Operator\n   📍 Location: Almgena\n   🎓 Requirements:\n   - TVET Level IV in Electronics and Automation (graduated)\n   - At least 5 years of experience operating plastic machines\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-02T05:21:13.203712Z"
     }
   ]
 }
