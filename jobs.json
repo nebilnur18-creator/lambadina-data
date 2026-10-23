@@ -1,6 +1,29 @@
 {
-  "updated": "2026-10-23T07:38:56.800548Z",
+  "updated": "2026-10-23T07:39:14.364447Z",
   "jobs": [
+    {
+      "id": "d35a2cc274d8465a06bc91e9cdf237116c8d6d17bd455af8c37665ae724c6656",
+      "company": "Ethiopian Engineering Corporation",
+      "about": "An Ethiopian corporation providing engineering, construction, and consultancy services nationwide.",
+      "positions": [
+        "Lead Quantity Surveyor"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 28, 2026",
+      "link": "https://t.me/ethiojobsofficial/15016",
+      "contact": "",
+      "application_method": "See the original vacancy announcement",
+      "apply_type": "original_post",
+      "apply_value": "https://t.me/ethiojobsofficial/15016",
+      "apply_href": "https://t.me/ethiojobsofficial/15016",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/d35a2cc274d8465a06bc91e9cdf237116c8d6d17bd455af8c37665ae724c6656.jpg",
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Ethiopian Engineering Corporation\n🏬 About: An Ethiopian corporation providing engineering, construction, and consultancy services nationwide.\n\n💼 Positions:\n1. Lead Quantity Surveyor\n   📍 Location: Jimma\n   🎓 Requirements:\n   - Bachelor’s degree in Quantity Surveying, Construction Management, Civil Engineering, or a related field.\n   - 6 years of relevant experience, preferably in building construction projects.\n   - Experience in building works, including foundations, structural works, masonry, finishes, and building services.\n   - Strong knowledge of BOQs, quantity take‑offs, cost estimation, cost control, variations, claims, and contract administration.\n   - Proficiency in MS Excel; AutoCAD and quantity surveying software are an advantage.\n   - Strong analytical, negotiation, communication, and reporting skills.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 28, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15016",
+      "posted": "2026-10-23T07:39:05.665930Z"
+    },
     {
       "id": "27daa9bef4cdbc959d79696c4d1f6c779548b1b66f5df103adfb5b49505be460",
       "company": "Let Me Be A Child",
@@ -5903,24 +5926,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/542d97cc90431342d82af439fd8f828f6e50fe80a745d4019f0ebe51c7b46520.jpg",
       "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: A and M Engineering PLC\n🏬 About: A and M Engineering PLC is a private engineering firm operating in Ethiopia.\n\n💼 Positions:\n1. ICT Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree or diploma in Computer Science, Information Technology or a related field.\n   - Preferred certifications: CompTIA, Cisco (CCNA), Microsoft (MCSA/MCSE).\n   - Technical skills: extensive knowledge of operating systems, networking, cybersecurity and cloud services.\n   - 1-3 years of relevant experience (Junior level).\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 03, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-03T13:34:45.115555Z"
-    },
-    {
-      "id": "d1ed171c6ec64d50477c8b372af8e3a7ee64b443afada189fbf7a9a41a33c11d",
-      "company": "A and M Engineering PLC",
-      "about": "A private engineering company in Ethiopia providing engineering and related services.",
-      "positions": [
-        "Permanent Corporate Lawyer and Senior Asset Management Officer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 14, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/d1ed171c6ec64d50477c8b372af8e3a7ee64b443afada189fbf7a9a41a33c11d.jpg",
-      "text": "🏷️ Private Sector\n\n🏢 Company: A and M Engineering PLC\n🏬 About: A private engineering company in Ethiopia providing engineering and related services.\n\n💼 Positions:\n1. Permanent Corporate Lawyer and Senior Asset Management Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Law (first degree)\n   - 5-8 years of relevant work experience (senior level)\n   - Minimum two years of experience, with preference for more\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-03T13:34:33.045939Z"
     }
   ]
 }
