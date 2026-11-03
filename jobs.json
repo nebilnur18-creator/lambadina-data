@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-03T13:02:11.473102Z",
+  "updated": "2026-11-03T13:03:24.814074Z",
   "jobs": [
+    {
+      "id": "905382c0e20e6e6bc92186330499b399b6a6b38a0e87aa4d0471c6597702c2a7",
+      "type": "opportunity",
+      "company": "ETH Zurich",
+      "positions": [
+        "Excellence Scholarship & Opportunity Programme (ESOP) 2027"
+      ],
+      "title": "Excellence Scholarship & Opportunity Programme (ESOP) 2027",
+      "organizer": "ETH Zurich",
+      "about": "Fully funded master’s scholarship for top 10% bachelor graduates to study at ETH Zurich.",
+      "category": [
+        "Scholarship",
+        "Training & Mentorship"
+      ],
+      "benefits": [
+        "CHF 13,500 per semester for living & study costs",
+        "Full tuition fee waiver",
+        "Dedicated mentorship & ETH Foundation network",
+        "Support for entire master’s duration (3‑4 semesters)",
+        "Approx. 60 scholarships awarded annually"
+      ],
+      "eligibility": [
+        "From any country",
+        "Bachelor’s degree in top 10% (grade A)",
+        "Admission to an eligible ETH Zurich master programme",
+        "No prior master’s degree",
+        "Not currently enrolled in an ETH master programme"
+      ],
+      "location": "Zurich, Switzerland",
+      "funding": "fully funded",
+      "duration": "3–4 semesters",
+      "deadline": "Nov 30, 2026",
+      "application_method": "Call this number to apply",
+      "link": "",
+      "contact": "+41446322023/+41446322088",
+      "apply_type": "phone",
+      "apply_value": "+41446322023/+41446322088",
+      "apply_href": "tel:+41446322023+41446322088",
+      "source_url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship",
+      "telegram_post": "https://t.me/opportunity_alerts/2946",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/905382c0e20e6e6bc92186330499b399b6a6b38a0e87aa4d0471c6597702c2a7.jpg",
+      "text": "🏷️ Scholarship\n\n🎓 Title: Excellence Scholarship & Opportunity Programme (ESOP) 2027  \n🏫 Organizer: ETH Zurich  \n📖 About: Fully funded master’s scholarship for top 10% bachelor graduates to study at ETH Zurich.  \n🎁 Benefits:  \n- CHF 13,500 per semester for living & study costs  \n- Full tuition fee waiver  \n- Dedicated mentorship & ETH Foundation network  \n- Support for entire master’s duration (3‑4 semesters)  \n- Approx. 60 scholarships awarded annually  \n✅ Eligibility:  \n- From any country  \n- Bachelor’s degree in top 10% (grade A)  \n- Admission to an eligible ETH Zurich master programme  \n- No prior master’s degree  \n- Not currently enrolled in an ETH master programme  \n🌍 Location: Zurich, Switzerland  \n💰 Funding: fully funded  \n⏳ Duration: 3–4 semesters  \n📅 Deadline: Nov 30, 2026\n\n📝 Application Method: Call this number to apply\n📞 Contact: +41446322023/+41446322088",
+      "posted": "2026-11-03T13:03:21.773864Z"
+    },
     {
       "id": "b3011f9df850732a3b331e931ae22fb963d789a5bd075bb9de8419e2feb4789a",
       "company": "Cheers Healthy Living",
@@ -6547,24 +6591,6 @@
       "image": null,
       "text": "🏷️ Private Sector\n\n🏢 Company: Alvima Foods Complex PLC\n🏬 About: A private company operating in the food processing sector in Ethiopia, producing wheat flour and related products.\n\n💼 Positions:\n1. Shift Quality Control Analyst\n   🎓 Requirements:\n   - BSC Degree in Food Science & Post‑Harvest Technology, Food Science Technology, Food Technology & Processing Engineering, or Chemical Engineering (Food Technology stream)\n   - Minimum 2 years experience in a wheat flour factory\n   - Skills: communication, teamwork, problem‑solving\n\n2. Flour Mill Shift Supervisor\n   📍 Location: Adama\n   🎓 Requirements:\n   - BSC Degree in Mechanical/Chemical Engineering or Level IV in General Mechanics or a related field\n   - Minimum 2 years experience (BSc) or 4 years experience (Level IV) in a similar manufacturing role\n   - Skills: communication, teamwork, problem‑solving\n\n📍 Location: Adama\n📝 Description: Alvima Foods Complex PLC is hiring for two shift positions at its wheat flour factory in Adama.\n📅 Deadline: October 10th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: job.vacancy@alvimafoods.com",
       "posted": "2026-10-07T07:55:11.807590Z"
-    },
-    {
-      "id": "8cb5eb75245c8852fd8596b4e7b49ced7594f62c315ad4b8401e4134778cb067",
-      "company": "Lalo Bake",
-      "about": "Lalo Bake is a bakery and hospitality business operating in Addis Ababa, Ethiopia.",
-      "positions": [
-        "Human Resources and Administration Officer"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "October 19th, 2026",
-      "link": "",
-      "contact": "vacancy@fahemgeneraltrading.com",
-      "application_method": "Send your CV/application via email",
-      "image": null,
-      "text": "🏷️ Private Sector\n\n🏢 Company: Lalo Bake\n🏬 About: Lalo Bake is a bakery and hospitality business operating in Addis Ababa, Ethiopia.\n\n💼 Positions:\n1. Human Resources and Administration Officer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree in Human Resource Management, Business Administration, Hospitality Management, or a related field\n   - 3–5 years of progressive HR experience, preferably in the hotel or hospitality industry\n   - Strong familiarity with modern HR software, ERP systems, and standard office applications\n   - Excellent interpersonal communication, commanding presence, organizational and crisis management skills\n   - Native fluency in Amharic and professional proficiency in written and spoken English\n\n📅 Deadline: October 19th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: vacancy@fahemgeneraltrading.com",
-      "posted": "2026-10-07T07:55:03.318148Z"
     }
   ]
 }
