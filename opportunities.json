@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-03T06:23:06.440998Z",
+  "updated": "2026-11-03T06:23:21.049755Z",
   "opportunities": [
+    {
+      "id": "2b1c0d898fd7f3762e3446ec1aeb27ffe38c83aba60aac42dcab93a88e6941f2",
+      "type": "opportunity",
+      "title": "Cursor Hackathon Jimma",
+      "organizer": "Ethiopian SpaceXAI Community",
+      "about": "27‑hour hackathon at Jimma University where participants build AI‑powered projects with Cursor.",
+      "category": [
+        "Competition & Award"
+      ],
+      "benefits": [
+        "Hands‑on AI coding experience",
+        "Teamwork and problem‑solving practice",
+        "Mentorship from AI experts",
+        "Opportunity to demo projects",
+        "Networking with regional builders"
+      ],
+      "eligibility": [
+        "Students, developers, professionals, freelancers, founders, designers",
+        "Beginners welcome",
+        "Residents of Jimma, Agaro, Bonga, Mizan Teferi, Tepi, Metu & nearby areas",
+        "Open to all skill levels",
+        "No university enrollment required"
+      ],
+      "location": "Jimma University, Jimma, Ethiopia",
+      "funding": "free",
+      "duration": "27 hours (Nov 21–22, 2026)",
+      "deadline": "",
+      "application_method": "Send your application via email",
+      "link": "",
+      "contact": "support@luma.com",
+      "apply_type": "email",
+      "apply_value": "support@luma.com",
+      "apply_href": "mailto:support@luma.com",
+      "source_url": "https://luma.com/spacexai-yijh",
+      "telegram_post": "https://t.me/opportunity_alerts/2914",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2b1c0d898fd7f3762e3446ec1aeb27ffe38c83aba60aac42dcab93a88e6941f2.jpg",
+      "text": "🏷️ Competition & Award\n\n🎓 Title: Cursor Hackathon Jimma\n🏫 Organizer: Ethiopian SpaceXAI Community\n📖 About: 27‑hour hackathon at Jimma University where participants build AI‑powered projects with Cursor.\n🎁 Benefits:\n- Hands‑on AI coding experience\n- Teamwork and problem‑solving practice\n- Mentorship from AI experts\n- Opportunity to demo projects\n- Networking with regional builders\n✅ Eligibility:\n- Students, developers, professionals, freelancers, founders, designers\n- Beginners welcome\n- Residents of Jimma, Agaro, Bonga, Mizan Teferi, Tepi, Metu & nearby areas\n- Open to all skill levels\n- No university enrollment required\n🌍 Location: Jimma University, Jimma, Ethiopia\n💰 Funding: free\n⏳ Duration: 27 hours (Nov 21–22, 2026)\n\n📝 Application Method: Send your application via email\n📞 Contact: support@luma.com",
+      "posted": "2026-11-03T06:23:17.737739Z"
+    },
     {
       "id": "1a2c60cdb446ebd506e4bf8baa9baab9d8e4f7f71c450285f149f9fd2c95ed49",
       "type": "opportunity",
