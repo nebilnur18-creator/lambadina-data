@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-03T07:37:29.174586Z",
+  "updated": "2026-11-03T07:41:30.268357Z",
   "jobs": [
+    {
+      "id": "7e69ce11a79275f4f40b29ef7dc47ad1caf0f5dc715290704f7cf34830733f8f",
+      "company": "Good Beginnings Daycare and Preschool",
+      "about": "A daycare and preschool offering early childhood education services in Addis Ababa.",
+      "positions": [
+        "Assistant Teacher (Fresh Graduates)"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Education"
+      ],
+      "deadline": "Nov 6, 2026",
+      "link": "https://ethiojobshub.com/good-beginnings-daycare/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://ethiojobshub.com/good-beginnings-daycare/",
+      "apply_href": "https://ethiojobshub.com/good-beginnings-daycare/",
+      "source_url": "https://ethiojobshub.com/good-beginnings-daycare/",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/7e69ce11a79275f4f40b29ef7dc47ad1caf0f5dc715290704f7cf34830733f8f.jpg",
+      "text": "🏷️ Education | Fresh Graduate\n\n🏢 Company: Good Beginnings Daycare and Preschool\n🏬 About: A daycare and preschool offering early childhood education services in Addis Ababa.\n\n💼 Positions:\n1. Assistant Teacher (Fresh Graduates)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree\n   - Fresh graduates are strongly encouraged to apply\n\n📍 Location: Addis Ababa\n📝 Description: Good Beginnings Daycare and Preschool is seeking qualified, committed, and passionate professionals to join its kindergarten team.\n📅 Deadline: Nov 6, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://ethiojobshub.com/good-beginnings-daycare/\n\nSOURCE JOB PAGE:\nhttps://ethiojobshub.com/good-beginnings-daycare/",
+      "posted": "2026-11-03T07:41:23.377654Z"
+    },
     {
       "id": "9f3e385c0c0fce2d5f8fe4702195e985b0cc4a70027bf99d8dbbddfddf2acd2e",
       "company": "World Vision Ethiopia",
@@ -6428,25 +6451,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2677fea3210d14bc4b6c043c07aa803e26749422a00bf90cdfe6c2d1535fb3d9.jpg",
       "text": "🏷️ Private Sector | Executive\n\n🏢 Company: OLY Technologies and AddisFly Travel\n🏬 About: A private company operating in the technology and travel sectors in Ethiopia.\n\n💼 Positions:\n1. HR Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Human Resources, Business Administration, or a related field.\n   - Minimum of 5 years in an HR management role, preferably in a dynamic and growing company.\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 06, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:38:16.756614Z"
-    },
-    {
-      "id": "32b318d1e6c2ada36171cce50c7d39f692e66b357764ce64e4bba2ca1bd37bd0",
-      "company": "Small Enterprise Center",
-      "about": "A private organization that supports small and medium enterprises in Ethiopia.",
-      "positions": [
-        "Industrial Engineer / Production Improvement Expert"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Education"
-      ],
-      "deadline": "Oct 11, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/32b318d1e6c2ada36171cce50c7d39f692e66b357764ce64e4bba2ca1bd37bd0.jpg",
-      "text": "🏷️ Executive | Private Sector\n\n🏢 Company: Small Enterprise Center\n🏬 About: A private organization that supports small and medium enterprises in Ethiopia.\n\n💼 Positions:\n1. Industrial Engineer / Production Improvement Expert\n   📍 Location: Hawassa and Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - University degree in Industrial Engineering, Manufacturing Engineering, Production Engineering, Production Management, Food Engineering, Food Technology, or a closely related field\n   - At least 7 years of relevant professional experience in industrial engineering, manufacturing, agro‑food production, process improvement or production optimization\n   - Demonstrated experience in production diagnostics, process mapping, productivity improvement, capacity utilization, waste reduction and workplace organization\n   - Practical experience working with agro‑food processors and MSMEs; experience in Ethiopia or a comparable context is an advantage\n   - Good knowledge of lean‑production tools and preventive maintenance\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 11, 2026\n📝 Description: Lead production diagnostics and process improvement initiatives for agro‑food processors and MSMEs, focusing on productivity, capacity utilization, and waste reduction.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:38:01.443325Z"
     }
   ]
 }
