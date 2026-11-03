@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-03T14:02:28.907712Z",
+  "updated": "2026-11-03T14:02:49.370311Z",
   "jobs": [
+    {
+      "id": "c35ca1e02baadda5bb3526358ee95cd7ab479f7a1827af7ae66a84750d2e88c5",
+      "company": "Individual/Private Employer",
+      "about": "A private hotel and restaurant operating in the Bole Atlas area of Addis Ababa, offering hospitality services.",
+      "positions": [
+        "Head Chef",
+        "Waiter",
+        "Assistant Hotel Manager (Male)",
+        "Hotel Receptionist"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Healthcare"
+      ],
+      "deadline": "",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeh1dAqgX_FLd7vBi1ETirOBefC8eOdw_VjRgwDOhaUsiv9Aw/viewform",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "apply_type": "form",
+      "apply_value": "https://docs.google.com/forms/d/e/1FAIpQLSeh1dAqgX_FLd7vBi1ETirOBefC8eOdw_VjRgwDOhaUsiv9Aw/viewform",
+      "apply_href": "https://docs.google.com/forms/d/e/1FAIpQLSeh1dAqgX_FLd7vBi1ETirOBefC8eOdw_VjRgwDOhaUsiv9Aw/viewform",
+      "source_url": "",
+      "image": null,
+      "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private hotel and restaurant operating in the Bole Atlas area of Addis Ababa, offering hospitality services.\n\n💼 Positions:\n1. Head Chef\n   📍 Location: Bole Atlas, Addis Ababa\n   🎓 Requirements:\n   - Diploma or Bachelor’s degree in Culinary Arts, Hotel and Restaurant Management, Food Science, or a related field (professional training or certificate advantageous)\n   - Minimum 2 years kitchen experience\n   - Strong knowledge of Yemeni and other Arabic dishes; international dishes a plus\n   - Communication skills in Amharic and English; Arabic advantageous\n   - Must reside in or near Bole Atlas\n   - Basic computer skills (Microsoft Word, Excel) for stock and cost records\n\n2. Waiter\n   📍 Location: Bole Atlas, Addis Ababa\n   🎓 Requirements:\n   - Completed Grade 10 or 12; certificate or diploma in Hotel and Restaurant Service, Hospitality, Tourism, or related field advantageous\n   - Fresh applicants welcome\n   - Good communication in Amharic and English; Arabic advantageous\n   - Must reside close to Bole Atlas\n   - Basic computer skills (Microsoft Office) and ability to use order/POS systems\n   - Advantage: previous waiter or customer service experience\n\n3. Assistant Hotel Manager (Male)\n   📍 Location: Bole Atlas, Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Hotel and Tourism Management, Business Administration, Management, or a related field\n   - Fresh graduates welcome\n   - Good command of Amharic and English; Arabic advantageous\n   - Must reside near or around Bole Atlas\n   - Computer skills (Microsoft Word, Excel)\n\n4. Hotel Receptionist\n   📍 Location: Bole Atlas, Addis Ababa\n   🎓 Requirements:\n   - Diploma or Bachelor’s degree in Hospitality Management, Tourism, Business Administration, Secretarial Science/Office Management, or a related field\n   - Fresh applicants welcome\n   - Fluent in Arabic, English, and Amharic (spoken and written)\n   - Must reside close to Bole Atlas\n   - Basic computer skills (Microsoft Office)\n   - Advantageous: knowledge of hotel reservation or front‑desk software and prior customer service experience\n\n💰 Salary: Negotiable\n📝 Description: An established hotel and restaurant in Bole Atlas, Addis Ababa is hiring full‑time permanent staff for various hospitality roles.\n📊 Vacancy Count: 4\n💼 Employment Type: Full-time, Permanent\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://docs.google.com/forms/d/e/1FAIpQLSeh1dAqgX_FLd7vBi1ETirOBefC8eOdw_VjRgwDOhaUsiv9Aw/viewform",
+      "posted": "2026-11-03T14:02:44.699430Z"
+    },
     {
       "id": "6e2fdea18456f8b7a84fd498dbe09cb337c86a7a1d917c92a4e83bfaa7194229",
       "company": "KKGT Import Export",
@@ -6594,25 +6620,6 @@
       "image": null,
       "text": "🏷️ Healthcare | Logistics & Supply Chain\n\n🏢 Company: Ethiopian Construction Works Corporation\n🏬 About: A state-owned enterprise that undertakes construction projects and infrastructure development across Ethiopia.\n\n💼 Positions:\n1. Physician (General Practitioner)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - MD, Master’s or PhD degree in Medicine\n   - Minimum 2 years relevant work experience\n   - Renewed professional medical license\n   - Ability to work in a fast‑paced environment, handle stressful situations calmly, and build strong working relationships\n\n2. Optometrist\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc degree in Optometry\n   - Minimum 2 years relevant work experience\n   - Renewed professional license\n   - Ability to build lasting relationships and multitask while prioritizing work\n\n3. Motorcycle Rider (Messenger)\n   📍 Location: Addis Ababa (Estimated)\n   🎓 Requirements:\n   - Level 1/2 TVET Certificate or completed Grade 8/10 in Social Science\n   - 0–6 years relevant work experience\n   - First‑level driving licence\n\n📝 Description: External vacancy announcement for multiple positions at Ethiopian Construction Works Corporation.\n\n📅 Deadline: October 12th, 2026\n\n📝 Application Method: Qualified applicants can apply via the link\n🔗 Link: https://elelanajobs.com/2026/10/05/ethiopian-construction-works-corporation-3/",
       "posted": "2026-10-07T07:56:21.398835Z"
-    },
-    {
-      "id": "c2086a7f3196e455f1fee64a3dbde4bb6e440c28b5d3532080d744933b3e731b",
-      "company": "GIZ Sequa gGmbH",
-      "about": "GIZ Sequa gGmbH is a German development organization providing consultancy and technical solutions, focusing on digital market intelligence and agricultural value chains.",
-      "positions": [
-        "Consultancy Service – Local Developer of Digital Market Intelligence System (DMIS)"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "October 15th, 2026",
-      "link": "",
-      "contact": "vacancies.pss@sequa.de",
-      "application_method": "Send your CV/application via email",
-      "image": null,
-      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: GIZ Sequa gGmbH\n🏬 About: GIZ Sequa gGmbH is a German development organization providing consultancy and technical solutions, focusing on digital market intelligence and agricultural value chains.\n\n💼 Positions:\n1. Consultancy Service – Local Developer of Digital Market Intelligence System (DMIS)\n   📍 Location: Remote\n   🎓 Requirements:\n   - Relevant professional experience in market intelligence systems, web platform development, dashboard design, data analytics, user access management or trade‑related information systems\n   - Demonstrated experience in system security, data management and scalable digital architectures\n   - Demonstrated experience in horticulture, agriculture, agri‑trade, or export‑oriented value chains (highly preferred)\n   - Ability to work comfortably and handle pressure\n   - Good working knowledge of ICT/IT communication technologies\n   - 10+ years of relevant experience as a market intelligence systems developer, digital platforms developer, data integration specialist, or trade‑related information systems designer\n   - At least 3‑5 completed assignments involving design and development of digital information systems or market intelligence platforms at national, regional, or international level\n   - Regional experience in Africa, Asia or Europe (preferred)\n\n📅 Deadline: October 15th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: vacancies.pss@sequa.de",
-      "posted": "2026-10-07T07:56:11.123810Z"
     }
   ]
 }
