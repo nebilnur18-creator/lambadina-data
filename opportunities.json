@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-03T07:15:22.400759Z",
+  "updated": "2026-11-03T07:15:35.335590Z",
   "opportunities": [
+    {
+      "id": "4e4e35ab2e94e82099a77f4c23a51a69dbf88197ba511b62b0d7f6ea94d517cd",
+      "type": "opportunity",
+      "title": "Free U.S. University Virtual Fair 2026",
+      "organizer": "EducationUSA (U.S. Department of State)",
+      "about": "Virtual fair for Sub‑Saharan African students to explore U.S. undergraduate and graduate study options, including online and international‑campus programs.",
+      "category": [
+        "Scholarship"
+      ],
+      "benefits": [
+        "Virtual meet with U.S. college admissions reps",
+        "Explore undergraduate & graduate programs",
+        "Learn about online & international‑campus degrees",
+        "Get info on scholarships & financial aid",
+        "Direct Q&A with institution representatives"
+      ],
+      "eligibility": [
+        "Undergraduate students from Sub‑Saharan Africa",
+        "Graduate students seeking Master’s or PhD",
+        "Interested in in‑person, online, or branch‑campus study",
+        "Must have internet access for virtual fair",
+        "No fee to attend"
+      ],
+      "location": "Online",
+      "funding": "free",
+      "duration": "2.5 hrs per session (total 4.5 hrs)",
+      "deadline": "",
+      "application_method": "Apply by filling out the Google Form",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdecXhB94PHc9RxDVdZFtP9Lh0xWenx9kJzH9BivOiN6uYXvA/viewform",
+      "contact": "",
+      "apply_type": "form",
+      "apply_value": "https://docs.google.com/forms/d/e/1FAIpQLSdecXhB94PHc9RxDVdZFtP9Lh0xWenx9kJzH9BivOiN6uYXvA/viewform",
+      "apply_href": "https://docs.google.com/forms/d/e/1FAIpQLSdecXhB94PHc9RxDVdZFtP9Lh0xWenx9kJzH9BivOiN6uYXvA/viewform",
+      "source_url": "",
+      "telegram_post": "https://t.me/opportunity_alerts/2921",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/4e4e35ab2e94e82099a77f4c23a51a69dbf88197ba511b62b0d7f6ea94d517cd.jpg",
+      "text": "🏷️ Conference & Event\n\n🎓 Title: Free U.S. University Virtual Fair 2026  \n🏫 Organizer: EducationUSA (U.S. Department of State)  \n📖 About: Virtual fair for Sub‑Saharan African students to explore U.S. undergraduate and graduate study options, including online and international‑campus programs.  \n🎁 Benefits:  \n- Virtual meet with U.S. college admissions reps  \n- Explore undergraduate & graduate programs  \n- Learn about online & international‑campus degrees  \n- Get info on scholarships & financial aid  \n- Direct Q&A with institution representatives  \n✅ Eligibility:  \n- Undergraduate students from Sub‑Saharan Africa  \n- Graduate students seeking Master’s or PhD  \n- Interested in in‑person, online, or branch‑campus study  \n- Must have internet access for virtual fair  \n- No fee to attend  \n🌍 Location: Online  \n💰 Funding: free  \n⏳ Duration: 2.5 hrs per session (total 4.5 hrs)\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://docs.google.com/forms/d/e/1FAIpQLSdecXhB94PHc9RxDVdZFtP9Lh0xWenx9kJzH9BivOiN6uYXvA/viewform",
+      "posted": "2026-11-03T07:15:33.886637Z"
+    },
     {
       "id": "612b98d7486094bc0386c96c629f058d506fab4676c9d1baee4046fd17ff7cd1",
       "type": "opportunity",
