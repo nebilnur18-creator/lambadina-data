@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-03T07:50:59.884670Z",
+  "updated": "2026-11-03T07:51:58.729213Z",
   "jobs": [
+    {
+      "id": "2699a0bab5a3fb91981cf978c08bdee50fb64de4feaf41758a07ed5708edf16c",
+      "company": "Stride International Daycare & Preschool",
+      "about": "A private early childhood education provider offering daycare and preschool services.",
+      "positions": [
+        "Early Years Teacher"
+      ],
+      "category": [
+        "Education"
+      ],
+      "deadline": "October 31 – November 1",
+      "link": "",
+      "contact": "@Giftekeye",
+      "application_method": "Apply by contacting via Telegram",
+      "apply_type": "telegram",
+      "apply_value": "@Giftekeye",
+      "apply_href": "https://t.me/Giftekeye",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2699a0bab5a3fb91981cf978c08bdee50fb64de4feaf41758a07ed5708edf16c.jpg",
+      "text": "🏷️ Education | Private Sector\n\n🏢 Company: Stride International Daycare & Preschool\n🏬 About: A private early childhood education provider offering daycare and preschool services.\n\n💼 Positions:\n1. Early Years Teacher\n   🎓 Requirements:\n   - Minimum 1 year of experience in KG Preparatory or Early Years teaching.\n   - Excellent English communication skills (mandatory).\n   - Child‑friendly, patient, caring, and enthusiastic.\n\n📅 Deadline: October 31 – November 1\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @Giftekeye",
+      "posted": "2026-11-03T07:51:19.083688Z"
+    },
     {
       "id": "666eea7d662dd6ef9e1c6372386b74b707ea61db1ea522add0803d7d7896b72e",
       "company": "Amhara Bank S.C.",
@@ -6470,25 +6492,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/d28460acc53878789d339ffd60769833585883dc26ac7f696831b4227b99c813.jpg",
       "text": "🏷️ Logistics & Supply Chain | Government\n\n🏢 Company: Ethiopian Construction Works Corporation (ECWC)\n🏬 About: Ethiopian Construction Works Corporation (ECWC) is a state-owned enterprise that delivers construction and engineering services throughout Ethiopia.\n\n💼 Positions:\n1. Motorcycle Rider (Messenger)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Level 1/2 TVET Certificate or completed Grade 8/10 in Social Science\n   - First Level Driving Licence\n   - 0, 2, 4, or 6 years of relevant work experience (experience must be after the required education)\n   - Work experience evidence must show income tax paid, salary, and exact start and end dates\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:48:13.062347Z"
-    },
-    {
-      "id": "a29d63c367f895d179e7dd58c68be9d08880b316b30feaa2a1f54246b495eeeb",
-      "company": "BSD Design & Management",
-      "about": "BSD Design & Management is a private firm providing architectural design and construction management services in Ethiopia.",
-      "positions": [
-        "Office Engineer (Civil/Construction)"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Nov 06, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a29d63c367f895d179e7dd58c68be9d08880b316b30feaa2a1f54246b495eeeb.jpg",
-      "text": "🏷️ Fresh Graduate | Construction & Engineering\n\n🏢 Company: BSD Design & Management\n🏬 About: BSD Design & Management is a private firm providing architectural design and construction management services in Ethiopia.\n\n💼 Positions:\n1. Office Engineer (Civil/Construction)\n   📍 Location: Addis Ababa and Bahir Dar\n   🎓 Requirements:\n   - Bachelor’s degree in Civil Engineering or Construction Technology & Management from a recognized university\n   - Proficiency in AutoCAD and Revit\n   - Ability to prepare BOQs, reports, technical documents, and handle office coordination\n   - Strong communication and documentation skills\n\n📍 Location: Addis Ababa and Bahir Dar\n📊 Vacancy Count: 5\n📝 Description: Responsible for office coordination, preparing BOQs, reports, and technical documents for civil and construction projects.\n📅 Deadline: Nov 06, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:47:59.395510Z"
     }
   ]
 }
