@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-03T07:15:35.335590Z",
+  "updated": "2026-11-03T07:15:46.853270Z",
   "opportunities": [
+    {
+      "id": "e236d08725b70b6817f9bf4ee0cc8b1654daca5350ec6268ff7d53d4297cc796",
+      "type": "opportunity",
+      "title": "Bridging the Gap: From Graduation to Employment",
+      "organizer": "LonAdd",
+      "about": "Free 3‑hour interactive training in Addis Ababa to equip recent grads and job seekers with CV, interview, and professional communication skills.",
+      "category": [
+        "Internship",
+        "Training & Mentorship"
+      ],
+      "benefits": [
+        "Practical career‑readiness skills",
+        "Better CV preparation",
+        "Interview practice sessions",
+        "Professional communication techniques",
+        "Boosted confidence for job applications"
+      ],
+      "eligibility": [
+        "Recent graduates",
+        "Final‑year university students",
+        "Entry‑level job seekers",
+        "Graduates seeking internships"
+      ],
+      "location": "Addis Ababa, Ethiopia",
+      "funding": "Free",
+      "duration": "3 hours",
+      "deadline": "",
+      "application_method": "Apply by filling out the Google Form",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeKaFwToSlAaEYm-WPFrOO65BUpsIwst7NvnzZUccFtnujrZQ/viewform",
+      "contact": "",
+      "apply_type": "form",
+      "apply_value": "https://docs.google.com/forms/d/e/1FAIpQLSeKaFwToSlAaEYm-WPFrOO65BUpsIwst7NvnzZUccFtnujrZQ/viewform",
+      "apply_href": "https://docs.google.com/forms/d/e/1FAIpQLSeKaFwToSlAaEYm-WPFrOO65BUpsIwst7NvnzZUccFtnujrZQ/viewform",
+      "source_url": "",
+      "telegram_post": "https://t.me/opportunity_alerts/2923",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/e236d08725b70b6817f9bf4ee0cc8b1654daca5350ec6268ff7d53d4297cc796.jpg",
+      "text": "🏷️ Training & Mentorship\n\n🎓 Title: Bridging the Gap: From Graduation to Employment  \n🏫 Organizer: LonAdd  \n📖 About: Free 3‑hour interactive training in Addis Ababa to equip recent grads and job seekers with CV, interview, and professional communication skills.  \n🎁 Benefits:  \n- Practical career‑readiness skills  \n- Better CV preparation  \n- Interview practice sessions  \n- Professional communication techniques  \n- Boosted confidence for job applications  \n✅ Eligibility:  \n- Recent graduates  \n- Final‑year university students  \n- Entry‑level job seekers  \n- Graduates seeking internships  \n🌍 Location: Addis Ababa, Ethiopia  \n💰 Funding: Free  \n⏳ Duration: 3 hours\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://docs.google.com/forms/d/e/1FAIpQLSeKaFwToSlAaEYm-WPFrOO65BUpsIwst7NvnzZUccFtnujrZQ/viewform",
+      "posted": "2026-11-03T07:15:45.678911Z"
+    },
     {
       "id": "4e4e35ab2e94e82099a77f4c23a51a69dbf88197ba511b62b0d7f6ea94d517cd",
       "type": "opportunity",
