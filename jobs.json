@@ -1,6 +1,31 @@
 {
-  "updated": "2026-11-03T07:06:01.962563Z",
+  "updated": "2026-11-03T07:06:46.909160Z",
   "jobs": [
+    {
+      "id": "ce158a30390e7add428d040e7291ff4c70ba4f9df030d7aa8b02121d8f780aa9",
+      "company": "Hope Enterprise University College",
+      "about": "A private higher education institution in Ethiopia offering university and college programs on a green campus.",
+      "positions": [
+        "Cashier",
+        "Academic Program Officer",
+        "Duplication Administrator"
+      ],
+      "category": [
+        "Technology & IT",
+        "Education"
+      ],
+      "deadline": "November 8, 2026",
+      "link": "",
+      "contact": "@share",
+      "application_method": "Apply by contacting via Telegram",
+      "apply_type": "telegram",
+      "apply_value": "@share",
+      "apply_href": "https://t.me/share",
+      "source_url": "https://effoysira.com/hope-enterprises-university-vacancy/",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/ce158a30390e7add428d040e7291ff4c70ba4f9df030d7aa8b02121d8f780aa9.jpg",
+      "text": "🏷️ Technology & IT | Education\n\n🏢 Company: Hope Enterprise University College  \n🏬 About: A private higher education institution in Ethiopia offering university and college programs on a green campus.  \n\n💼 Positions:  \n\n1. Cashier  \n   📍 Location: Addis Ababa, Ethiopia (Estimated)  \n   🎓 Requirements:  \n   - Diploma or Level 4 and above in Accounting & Finance  \n   - No experience required; higher‑education background preferred  \n   - Proficiency in Microsoft Excel and Word  \n   - Strong communication and customer handling skills  \n   - Ability to prepare finance reports  \n\n2. Academic Program Officer  \n   📍 Location: Addis Ababa, Ethiopia (Estimated)  \n   🎓 Requirements:  \n   - Diploma or Level 4 with CoC certification in IT and related fields and at least 2 years relevant work experience or a Degree in IT and related fields with at least 1 year relevant work experience  \n   - Ability to design, implement, and assure quality of academic and TVET curricula  \n\n3. Duplication Administrator  \n   📍 Location: Addis Ababa, Ethiopia (Estimated)  \n   🎓 Requirements:  \n   - Completion of 10th/12th grade plus short‑term certificates in secretarial science, IT support, or office administration  \n   - 2 to 3 years experience operating heavy‑duty photocopy machines, binding equipment, and digital scanners  \n\n📅 Deadline: November 8, 2026\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @share",
+      "posted": "2026-11-03T07:06:43.705410Z"
+    },
     {
       "id": "08b3df81b0ba8bc1edf90334d0f65daa0c2d130398b97ff21e2aabb98eff0bfb",
       "company": "Tsehay Bank S.C.",
@@ -6352,24 +6377,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2834a15e3eb168782d04ea70371d5099322d93804368461b8bb62a04026cbeac.jpg",
       "text": "🏷️ NGO / International | Technology & IT\n\n🏢 Company: Ethiopian Lawyers with Disabilities Association (ELDA)  \n🏬 About: A non‑profit organization advocating for the legal rights and inclusion of persons with disabilities in Ethiopia.  \n\n💼 Positions:  \n1. Consultant (multidisciplinary team or firm)  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Demonstrated experience in Telegram chatbot and secure software development  \n   - Backend systems, databases and system administration expertise  \n   - Experience with AI‑assisted or natural‑language question‑and‑answer systems  \n   - Knowledge of digital accessibility and inclusive technology, including screen‑reader and assistive‑technology compatibility  \n   - Familiarity with legal information systems or knowledge‑management platforms  \n   - Understanding of Ethiopian law, human rights and disability‑rights frameworks  \n   - Experience working with persons with disabilities and/or organizations of persons with disabilities (OPDs)  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 16, 2026  \n\n📝 Description: ELDA invites proposals for a consultancy to develop secure, accessible digital solutions—including a Telegram chatbot, backend infrastructure, and AI‑driven knowledge‑management tools—aligned with Ethiopian disability‑rights legislation.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:10:37.020663Z"
-    },
-    {
-      "id": "a652f5c733d85e41f6cd59875fccdb95c2a257d2d3a5448b83204fa4d331cff2",
-      "company": "EVolve Businesses Group",
-      "about": "A private company operating in the business services sector in Ethiopia.",
-      "positions": [
-        "Auditor"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Oct 15, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a652f5c733d85e41f6cd59875fccdb95c2a257d2d3a5448b83204fa4d331cff2.jpg",
-      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: EVolve Businesses Group\n🏬 About: A private company operating in the business services sector in Ethiopia.\n\n💼 Positions:\n1. Auditor\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Education: BA degree in Accounting\n   - Experience: 2 years direct auditing experience in business\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:09:56.911751Z"
     }
   ]
 }
