@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-03T06:21:04.643542Z",
+  "updated": "2026-11-03T06:21:14.213304Z",
   "opportunities": [
+    {
+      "id": "cf039476d0c392fa635ba24529a2ec109ccfc4a02e725a3742507294f2d968e9",
+      "type": "opportunity",
+      "title": "Erasmus Mundus DEAI Scholarship 2027‑2029",
+      "organizer": "Erasmus Mundus DEAI Programme (ULB, UPC, TUW, UCBL, UniPD)",
+      "about": "2‑year joint Master in Data Engineering & AI, taught in English across five European universities.",
+      "category": [
+        "Scholarship",
+        "Competition & Award"
+      ],
+      "benefits": [
+        "Full tuition & participation fees covered",
+        "Full insurance coverage",
+        "€1,400 monthly living allowance (up to 24 months)",
+        "Potential total living allowance €33,600",
+        "Partial scholarship covers tuition only"
+      ],
+      "eligibility": [
+        "Bachelor’s degree (180 ECTS) in CS or related field",
+        "English B2 (IELTS 5.5 or TOEFL 72)",
+        "International applicants",
+        "Academic record, CS credits, experience considered",
+        "Recommendation letters required"
+      ],
+      "location": "Belgium, Spain, Austria, France, Italy",
+      "funding": "fully funded (full scholarship)",
+      "duration": "2 years (120 ECTS)",
+      "deadline": "Jan 11, 2027",
+      "application_method": "Send your application via email",
+      "link": "",
+      "contact": "bdma_admissions@cs.ulb.ac.be",
+      "apply_type": "email",
+      "apply_value": "bdma_admissions@cs.ulb.ac.be",
+      "apply_href": "mailto:bdma_admissions@cs.ulb.ac.be",
+      "source_url": "https://deai.ulb.be/",
+      "telegram_post": "https://t.me/ethioscholarshipopportunity/1073",
+      "image": null,
+      "text": "🏷️ Scholarship\n\n🎓 Title: Erasmus Mundus DEAI Scholarship 2027‑2029  \n🏫 Organizer: Erasmus Mundus DEAI Programme (ULB, UPC, TUW, UCBL, UniPD)  \n📖 About: 2‑year joint Master in Data Engineering & AI, taught in English across five European universities.  \n🎁 Benefits:  \n- Full tuition & participation fees covered  \n- Full insurance coverage  \n- €1,400 monthly living allowance (up to 24 months)  \n- Potential total living allowance €33,600  \n- Partial scholarship covers tuition only  \n✅ Eligibility:  \n- Bachelor’s degree (180 ECTS) in CS or related field  \n- English B2 (IELTS 5.5 or TOEFL 72)  \n- International applicants  \n- Academic record, CS credits, experience considered  \n- Recommendation letters required  \n🌍 Location: Belgium, Spain, Austria, France, Italy  \n💰 Funding: fully funded (full scholarship)  \n⏳ Duration: 2 years (120 ECTS)  \n📅 Deadline: Jan 11, 2027\n\n📝 Application Method: Send your application via email\n📞 Contact: bdma_admissions@cs.ulb.ac.be",
+      "posted": "2026-11-03T06:21:13.124758Z"
+    },
     {
       "id": "035c6caf8dcb217427b67bfce37d36e590300bdf5df0dd656c194bef07287dab",
       "type": "opportunity",
