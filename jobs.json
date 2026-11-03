@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-03T08:15:17.215643Z",
+  "updated": "2026-11-03T08:15:40.192829Z",
   "jobs": [
+    {
+      "id": "9143ba1bfa65bc67e5f04c4ddf44b3d16b89647fc9407c5980db88891f1de070",
+      "company": "Individual/Private Employer",
+      "about": "A private educational training institution that offers various learning programs.",
+      "positions": [
+        "Sales Staff"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "0982748888",
+      "application_method": "Call or send your CV to this number",
+      "apply_type": "phone",
+      "apply_value": "0982748888",
+      "apply_href": "tel:0982748888",
+      "source_url": "",
+      "image": null,
+      "text": "🏷️ Education | Private Sector\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private educational training institution that offers various learning programs.\n\n💼 Positions:\n1. Sales Staff\n   📍 Location: Bela Trading Center\n\n💰 Salary: Commission\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: 0982748888",
+      "posted": "2026-11-03T08:15:33.267316Z"
+    },
     {
       "id": "4c43338ee33972df99977c4795629fceb3fc6890d8a2e8335a0dd6c444906afb",
       "company": "Family Business Center",
@@ -6492,24 +6514,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/6a830d127c2b1603faeb19ec9ac75db603eac5be7c1878a8ef42729b0f17cdba.jpg",
       "text": "🏷️ Private Sector\n\n🏢 Company: Romina PLC\n🏬 About: Romina PLC is a private company operating in the hospitality sector in Ethiopia.\n\n💼 Positions:\n1. Chef De Partie\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Qualifications & Skills: Food Production Supervision Level IV, Food Preparation Level III, Culinary Arts Level III, II, I\n   - Hotel Kitchen Operation Level II, I\n   - Proven experience in fast‑food preparation\n   - Strong knowledge of food safety and hygiene standards\n   - Ability to work efficiently under pressure during busy service hours\n   - Good organizational and communication skills\n   - Team‑oriented mindset with supervisory capability\n   - Minimum 6 years of service; international restaurant experience in a well‑known restaurant is preferable\n\n📍 Location: Addis Ababa\n📊 Vacancy Count: 2\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T07:10:23.760905Z"
-    },
-    {
-      "id": "4f79c1074a71077d8d8777ab7cb1ab77d71ec0722372acc0fad28cff63043aed",
-      "company": "Mega Lab PLC",
-      "about": "Mega Lab PLC is a private laboratory operating in Ethiopia’s healthcare sector, providing clinical diagnostic services.",
-      "positions": [
-        "Microbiologist"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "October 15, 2026",
-      "link": "",
-      "contact": "megalabdiredawa@gmail.com",
-      "application_method": "Send your CV/application via email",
-      "image": null,
-      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Mega Lab PLC\n🏬 About: Mega Lab PLC is a private laboratory operating in Ethiopia’s healthcare sector, providing clinical diagnostic services.\n\n💼 Positions:\n1. Microbiologist\n   📍 Location: Dire Dawa\n   🎓 Requirements:\n   - Master’s degree in Microbiology or a related field\n   - Minimum 2 years of relevant work experience\n   - Ability to collect, process, and examine clinical specimens\n   - Proficiency in microbiological testing, identification, and antimicrobial susceptibility testing\n   - Strong knowledge of laboratory quality control, SOPs, biosafety, and infection prevention\n   - Effective communication of critical results to healthcare professionals\n\n💰 Salary: \n📝 Description: Conduct microbiological analysis of clinical specimens, perform tests including microscopy, culture, and susceptibility testing, ensure accurate reporting within turnaround times, maintain laboratory quality standards, and promptly communicate significant results to physicians.\n📊 Vacancy Count: 1\n📅 Deadline: October 15, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: megalabdiredawa@gmail.com",
-      "posted": "2026-10-07T06:49:46.566362Z"
     }
   ]
 }
