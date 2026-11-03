@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-03T07:01:06.605880Z",
+  "updated": "2026-11-03T07:01:30.442555Z",
   "jobs": [
+    {
+      "id": "91f256238694ada14435f47cd04ee772c12ce9967a29f874562344571f192420",
+      "company": "Saglan Wajee General Hospital",
+      "about": "Saglan Wajee General Hospital is a healthcare facility providing medical services in Holeta, Ethiopia.",
+      "positions": [
+        "Laboratory Technologist"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "November 10, 2026",
+      "link": "",
+      "contact": "jobs@wajeehospital.com",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "jobs@wajeehospital.com",
+      "apply_href": "mailto:jobs@wajeehospital.com",
+      "source_url": "https://hahu.jobs/jobs/SK2B2s8iyX4lGG36",
+      "image": null,
+      "text": "🏷️ Healthcare\n\n🏢 Company: Saglan Wajee General Hospital\n🏬 About: Saglan Wajee General Hospital is a healthcare facility providing medical services in Holeta, Ethiopia.\n\n💼 Positions:\n1. Laboratory Technologist\n   📍 Location: Holeta\n   🎓 Requirements:\n   - Bachelor’s degree in Laboratory Technology or Medical Laboratory Science\n   - 0–2 years of relevant work experience\n   - Proficiency in Afaan Oromoo and Amharic\n   - Ability to perform routine and advanced diagnostic tests across multiple laboratory disciplines\n   - Strong knowledge of quality control and assurance standards\n\n📊 Vacancy Count: 1\n📅 Deadline: November 10, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: jobs@wajeehospital.com",
+      "posted": "2026-11-03T07:01:18.853960Z"
+    },
     {
       "id": "b3d5ecfa4103de41c9a9efdad654ecfae68cc9c7b6501df1198b1f402cf52719",
       "company": "Concern Worldwide",
@@ -6305,24 +6327,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/ddd1e9b9ede5670dedb11519e7fe84866d0607d5b5daf6d4deb43466af35d057.jpg",
       "text": "🏷️ NGO / International\n\n🏢 Company: Organization For Women in Self Employment\n🏬 About: A non‑profit organization dedicated to empowering women through self‑employment and entrepreneurship support in Ethiopia.\n\n💼 Positions:\n1. Business Development Service (BDS) Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Marketing, or a related field\n   - Minimum of 2 years of relevant work experience\n   - Good written and verbal communication skills\n   - Fluency in written and spoken English\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:08:27.289192Z"
-    },
-    {
-      "id": "1e232b338f965812edd3305ce197522f69b051e435fc43610e21ab6796ed405d",
-      "company": "Senako Specialty Dental Clinic",
-      "about": "A private specialty dental clinic providing advanced dental care services in Ethiopia.",
-      "positions": [
-        "Senior Business Development Officer"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "Oct 30, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/1e232b338f965812edd3305ce197522f69b051e435fc43610e21ab6796ed405d.jpg",
-      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Senako Specialty Dental Clinic\n🏬 About: A private specialty dental clinic providing advanced dental care services in Ethiopia.\n\n💼 Positions:\n1. Senior Business Development Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Marketing, Management, Communications, Healthcare, or a related field\n   - Minimum 3 years of relevant professional experience in business development, corporate sales, key account management, healthcare business development, or a related field\n   - Proven ability to identify business opportunities and convert prospects into clients or strategic partners\n   - Demonstrated experience in developing and maintaining corporate or institutional relationships\n   - Strong negotiation, presentation, communication, and relationship‑management skills\n   - Excellent written and spoken English and Amharic\n   - Strong analytical, organizational, and reporting skills\n   - Experience in healthcare, dental services, or insurance is a plus\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:08:16.035355Z"
     }
   ]
 }
