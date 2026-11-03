@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-03T07:01:30.442555Z",
+  "updated": "2026-11-03T07:02:44.399970Z",
   "jobs": [
+    {
+      "id": "9588e2053f026ce93c6ca610390d3608d42ce77367e680f0398340237da27158",
+      "company": "Talented Connect",
+      "about": "Talented Connect is a research initiative partnering with Hahu Jobs to better understand job seekers and support their entry into employment.",
+      "positions": [
+        "Marketing",
+        "Accounting",
+        "Reception",
+        "Secretarial Services",
+        "Human Resources Management",
+        "Sales and Related Positions"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "+251972239787",
+      "application_method": "Call or send your CV to this number",
+      "apply_type": "phone",
+      "apply_value": "+251972239787",
+      "apply_href": "tel:+251972239787",
+      "source_url": "https://tinyurl.com/2ndxc74f",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9588e2053f026ce93c6ca610390d3608d42ce77367e680f0398340237da27158.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Talented Connect\n🏬 About: Talented Connect is a research initiative partnering with Hahu Jobs to better understand job seekers and support their entry into employment.\n\n💼 Positions:\n1. Marketing\n2. Accounting\n3. Reception\n4. Secretarial Services\n5. Human Resources Management\n6. Sales and Related Positions\n\n📝 Description: The research offers transportation allowances to participants and seeks individuals interested in marketing, accounting, reception, secretarial, HR, and sales roles.\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: +251972239787",
+      "posted": "2026-11-03T07:02:30.029416Z"
+    },
     {
       "id": "91f256238694ada14435f47cd04ee772c12ce9967a29f874562344571f192420",
       "company": "Saglan Wajee General Hospital",
@@ -6309,24 +6336,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a746b246a3572881217fbc94af1343b578f93145ab041f9f127c86448ca48e23.jpg",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Transsion Manufacturing PLC\n🏬 About: A manufacturing company operating in Ethiopia, producing consumer electronics and related products.\n\n💼 Positions:\n1. Cost Accounting Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Minimum 5 years of manufacturing cost management experience.\n   - At least 2 years of team management experience.\n   - Strong capability in system development, business analysis, and internal control improvement.\n   - Familiarity with SAP FI/CO, standard cost accounting systems, and month‑end closing processes.\n   - Advanced Excel skills, including data analysis, PivotTables, and formulas.\n   - Experience in an export‑oriented manufacturing company is highly advantageous.\n   - Proven experience in manufacturing cost accounting in Ethiopia.\n   - Knowledge of local cost accounting practices, inventory valuation standards, and financial compliance requirements.\n   - Strong understanding of factory cost management practices and related risks.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:08:39.611838Z"
-    },
-    {
-      "id": "ddd1e9b9ede5670dedb11519e7fe84866d0607d5b5daf6d4deb43466af35d057",
-      "company": "Organization For Women in Self Employment",
-      "about": "A non‑profit organization dedicated to empowering women through self‑employment and entrepreneurship support in Ethiopia.",
-      "positions": [
-        "Business Development Service (BDS) Officer"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Oct 12, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/ddd1e9b9ede5670dedb11519e7fe84866d0607d5b5daf6d4deb43466af35d057.jpg",
-      "text": "🏷️ NGO / International\n\n🏢 Company: Organization For Women in Self Employment\n🏬 About: A non‑profit organization dedicated to empowering women through self‑employment and entrepreneurship support in Ethiopia.\n\n💼 Positions:\n1. Business Development Service (BDS) Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Marketing, or a related field\n   - Minimum of 2 years of relevant work experience\n   - Good written and verbal communication skills\n   - Fluency in written and spoken English\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:08:27.289192Z"
     }
   ]
 }
