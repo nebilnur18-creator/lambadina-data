@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-03T07:00:11.762805Z",
+  "updated": "2026-11-03T07:01:06.605880Z",
   "jobs": [
+    {
+      "id": "b3d5ecfa4103de41c9a9efdad654ecfae68cc9c7b6501df1198b1f402cf52719",
+      "company": "Concern Worldwide",
+      "about": "An international humanitarian organization working to fight global poverty and respond to emergencies.",
+      "positions": [
+        "Gender Equality & Social Inclusion (GESI) Officer",
+        "Programme Manager",
+        "Surge Medical Doctor",
+        "WASH Infrastructure Officer",
+        "Surge Midwife"
+      ],
+      "category": [
+        "NGO / International",
+        "Healthcare"
+      ],
+      "deadline": "",
+      "link": "https://harmeejobs.com/company/concern-worldwide/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://harmeejobs.com/company/concern-worldwide/",
+      "apply_href": "https://harmeejobs.com/company/concern-worldwide/",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b3d5ecfa4103de41c9a9efdad654ecfae68cc9c7b6501df1198b1f402cf52719.jpg",
+      "text": "🏷️ NGO / International\n\n🏢 Company: Concern Worldwide\n🏬 About: An international humanitarian organization working to fight global poverty and respond to emergencies.\n\n💼 Positions:\n1. Gender Equality & Social Inclusion (GESI) Officer\n2. Programme Manager\n3. Surge Medical Doctor\n4. WASH Infrastructure Officer\n5. Surge Midwife\n\n📝 Description: Concern Worldwide is recruiting for several key positions to support its programs and emergency response efforts.\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://harmeejobs.com/company/concern-worldwide/",
+      "posted": "2026-11-03T07:00:40.508284Z"
+    },
     {
       "id": "619a013c6c2a879e6a1682371177f7866c08aa75305c0e564d9354da28d380df",
       "company": "Information Technology Park Corporation",
@@ -6296,25 +6323,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/1e232b338f965812edd3305ce197522f69b051e435fc43610e21ab6796ed405d.jpg",
       "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Senako Specialty Dental Clinic\n🏬 About: A private specialty dental clinic providing advanced dental care services in Ethiopia.\n\n💼 Positions:\n1. Senior Business Development Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Marketing, Management, Communications, Healthcare, or a related field\n   - Minimum 3 years of relevant professional experience in business development, corporate sales, key account management, healthcare business development, or a related field\n   - Proven ability to identify business opportunities and convert prospects into clients or strategic partners\n   - Demonstrated experience in developing and maintaining corporate or institutional relationships\n   - Strong negotiation, presentation, communication, and relationship‑management skills\n   - Excellent written and spoken English and Amharic\n   - Strong analytical, organizational, and reporting skills\n   - Experience in healthcare, dental services, or insurance is a plus\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:08:16.035355Z"
-    },
-    {
-      "id": "539112b9f23db1236be8fa18ba93669e5077b4033a74afed25fbe3a90c8c31ec",
-      "company": "ABIG",
-      "about": "ABIG is a private company operating in the technology sector in Ethiopia.",
-      "positions": [
-        "Junior IT Support"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 11, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/539112b9f23db1236be8fa18ba93669e5077b4033a74afed25fbe3a90c8c31ec.jpg",
-      "text": "🏷️ Fresh Graduate | Technology & IT\n\n🏢 Company: ABIG\n🏬 About: ABIG is a private company operating in the technology sector in Ethiopia.\n\n💼 Positions:\n1. Junior IT Support\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Computer Engineering, Software Engineering, or a related field\n   - No experience required; fresh graduates with strong practical skills are welcome\n   - Basic knowledge of Windows, Microsoft Office, hardware, networking, SQL/databases, and programming\n   - Exposure to Microsoft Dynamics NAV/ERP is an advantage\n   - Good troubleshooting, communication, teamwork, and problem‑solving skills\n   - Willingness to learn and develop across different areas of IT\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 11, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:08:03.612251Z"
     }
   ]
 }
