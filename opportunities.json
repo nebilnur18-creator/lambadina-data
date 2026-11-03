@@ -1,6 +1,41 @@
 {
-  "updated": "2026-11-03T06:24:18.995677Z",
+  "updated": "2026-11-03T07:15:09.303588Z",
   "opportunities": [
+    {
+      "id": "a6856978933a1cf7cebb578cb08ff0b8807914ce95cbad3f3165f5b9532b26fc",
+      "type": "opportunity",
+      "title": "FindAdmission Ethiopian Student Community",
+      "organizer": "FindAdmission",
+      "about": "Telegram group connecting Ethiopian students with study‑abroad info and scholarships.",
+      "category": [
+        "Scholarship"
+      ],
+      "benefits": [
+        "Learn university admission processes",
+        "Discover scholarship opportunities",
+        "Network with fellow Ethiopian students",
+        "Get guidance on application requirements",
+        "Join upcoming onboarding session"
+      ],
+      "eligibility": [
+        "Ethiopian students interested in studying abroad"
+      ],
+      "location": "Online (Telegram)",
+      "funding": "free",
+      "duration": "Ongoing",
+      "deadline": "",
+      "application_method": "Apply by contacting via Telegram",
+      "link": "",
+      "contact": "@ambewls2",
+      "apply_type": "telegram",
+      "apply_value": "@ambewls2",
+      "apply_href": "https://t.me/ambewls2",
+      "source_url": "https://findadmission.com/unique?code=u8T6bW",
+      "telegram_post": "https://t.me/opportunity_alerts/2919",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a6856978933a1cf7cebb578cb08ff0b8807914ce95cbad3f3165f5b9532b26fc.jpg",
+      "text": "🏷️ Other Opportunity\n\n🎓 Title: FindAdmission Ethiopian Student Community  \n🏫 Organizer: FindAdmission  \n📖 About: Telegram group connecting Ethiopian students with study‑abroad info and scholarships.  \n🎁 Benefits:  \n- Learn university admission processes  \n- Discover scholarship opportunities  \n- Network with fellow Ethiopian students  \n- Get guidance on application requirements  \n- Join upcoming onboarding session  \n✅ Eligibility:  \n- Ethiopian students interested in studying abroad  \n🌍 Location: Online (Telegram)  \n💰 Funding: free  \n⏳ Duration: Ongoing\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @ambewls2",
+      "posted": "2026-11-03T07:15:08.158798Z"
+    },
     {
       "id": "4481561840c77c60f4fccd12a2303e0c19c399e40645bcf24d709b8e5fc3a720",
       "type": "opportunity",
