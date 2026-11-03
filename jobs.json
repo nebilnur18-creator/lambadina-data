@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-03T07:09:53.107105Z",
+  "updated": "2026-11-03T07:10:34.180011Z",
   "jobs": [
+    {
+      "id": "0497c1178a1349e15d462a0596e32810edea9252e5e89773e9d6426590557c1f",
+      "company": "Infinity Advanced Technology Solutions",
+      "about": "Infinity Advanced Technology Solutions (IATS) is a technology company providing CRM and ERP solutions, including healthcare IT systems, in Ethiopia.",
+      "positions": [
+        "Junior Software Developer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "November 7, 2026",
+      "link": "",
+      "contact": "recruitment@infinity-et.com",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "recruitment@infinity-et.com",
+      "apply_href": "mailto:recruitment@infinity-et.com",
+      "source_url": "https://elelanajobs.com/2026/11/02/infinity-advanced-technology-solutions-3/",
+      "image": null,
+      "text": "🏷️ Fresh Graduate | Technology & IT\n\n🏢 Company: Infinity Advanced Technology Solutions\n🏬 About: Infinity Advanced Technology Solutions (IATS) is a technology company providing CRM and ERP solutions, including healthcare IT systems, in Ethiopia.\n\n💼 Positions:\n1. Junior Software Developer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field.\n   - 0–2 years of relevant software development experience.\n   - Working knowledge of at least one programming language (e.g., Python, JavaScript/TypeScript, Java, or C#).\n   - Understanding of web development fundamentals: HTML, CSS, REST APIs, JSON.\n   - Basic knowledge of SQL and relational databases (PostgreSQL or MySQL); Hive optional.\n   - Familiarity with Git version control (branching, pull requests).\n   - Basic debugging, testing, and code‑reading skills.\n   - Familiarity with Linux command line and basic server operations.\n   - Experience with Docker, API integration, and CRM & ERP systems is a plus.\n   - Exposure to healthcare IT systems is an added advantage.\n\n📅 Deadline: November 7, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@infinity-et.com",
+      "posted": "2026-11-03T07:10:08.394821Z"
+    },
     {
       "id": "b5ce10f13bc4d399325fbb8a2618bd4ad5d7ec145c9c0fdb828ea055d9e5e501",
       "company": "Women Empowerment – Action",
@@ -6386,24 +6409,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/4610dc3b927cb2490426568312af754d22706418d1e6a49a2a59b2bc35303ecb.jpg",
       "text": "🏷️ Technology & IT | Executive\n\n🏢 Company: ABIG\n🏬 About: ABIG is a private company operating in the technology sector in Ethiopia.\n\n💼 Positions:\n1. Senior IT System Support / ERP Support & Customization\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Information Systems, or a related field\n   - Minimum 4 years of Microsoft Dynamics NAV support experience\n   - Practical experience in NAV configuration, customization, reporting, and troubleshooting\n   - Good understanding of NAV modules and business processes\n   - Microsoft Dynamics NAV/Business Central certification preferred\n   - SQL Server/database knowledge is an advantage\n   - Ability to focus on NAV support, configuration, reporting, testing, and minor customization\n\n📝 Description: Responsible for Microsoft Dynamics NAV support, configuration, reporting, testing, and minor customization.\n\n📊 Vacancy Count: 1\n💼 Employment Type: Senior Executive\n📅 Deadline: Oct 11, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-07T06:36:09.031212Z"
-    },
-    {
-      "id": "cce08aea59241b1c8bdfc7e428800ed41a759a7627aab3edcbfcd37c93a5a1d9",
-      "company": "Romina PLC",
-      "about": "Romina PLC is a private company operating in the hospitality sector in Ethiopia.",
-      "positions": [
-        "Sous Chef"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "Oct 12, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/cce08aea59241b1c8bdfc7e428800ed41a759a7627aab3edcbfcd37c93a5a1d9.jpg",
-      "text": "🏷️ Private Sector\n\n🏢 Company: Romina PLC\n🏬 About: Romina PLC is a private company operating in the hospitality sector in Ethiopia.\n\n💼 Positions:\n1. Sous Chef\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Food Production Supervision Level IV\n   - Food Preparation Level III\n   - Culinary Arts Level III\n   - Hotel Kitchen Operation Level II\n   - Proven experience in food preparation and kitchen supervision\n   - Strong knowledge of HACCP and food safety standards\n   - Leadership ability to supervise and motivate diverse kitchen staff\n   - Minimum 5-8 years of experience, preferably 8 years of service\n   - International experience in a well‑known restaurant is preferable\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 12, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-07T06:35:53.821936Z"
     }
   ]
 }
