@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-05T13:11:31.628033Z",
+  "updated": "2026-11-05T13:11:50.674902Z",
   "jobs": [
+    {
+      "id": "573c862f654e30a93ac1600e148f0f8ed4fc8ec5b5fd3b85dc4bf2c2a34f836c",
+      "company": "Holland Dairy P.L.C",
+      "about": "A private dairy company operating in Ethiopia, producing and distributing dairy products.",
+      "positions": [
+        "HR Officer",
+        "Sales Planning Coordinator"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "November 18th, 2026",
+      "link": "",
+      "contact": "hr@holland-dairy.com",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "hr@holland-dairy.com",
+      "apply_href": "mailto:hr@holland-dairy.com",
+      "source_url": "https://elelanajobs.com/2026/11/05/holland-dairy-p-l-c-23/",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Holland Dairy P.L.C\n🏬 About: A private dairy company operating in Ethiopia, producing and distributing dairy products.\n\n💼 Positions:\n1. HR Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA degree in Human Resources, Business Management or a related field\n   - More than 2 years of relevant experience\n   - Good communication and organizational skills\n   - Energetic, passionate about learning and able to multitask\n   - Committed to meeting deadlines\n   - Strong organization and time‑management abilities\n\n2. Sales Planning Coordinator\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Degree in Business Administration, Marketing, Economics, Statistics or a related field\n   - Minimum 3 years of experience in sales planning, commercial performance, trade marketing, route‑to‑market or sales operations\n   - Advanced Microsoft Excel skills (formulas, PivotTables, forecasting)\n   - Ability to use and interpret Power BI or similar reporting tools\n   - Strong numerical and analytical skills with the ability to explain data and recommend actions\n   - Proficiency in Microsoft Office (Word, PowerPoint)\n\n📍 Location: Addis Ababa\n📅 Deadline: November 18th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: hr@holland-dairy.com",
+      "posted": "2026-11-05T13:11:48.158917Z"
+    },
     {
       "id": "c13bb194494b3b0ab53e4595c4c0520527b84c6413d19aea5250a259584aa48d",
       "company": "Pitron Tech Solutions",
@@ -6773,29 +6796,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/3c05d72b49767a44d1c2b229a6bc7bef297d08a53855b879c7270026c1cfea8f.jpg",
       "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Avicom Trading PLC\n🏬 About: Avicom Trading PLC is a private trading company operating in Ethiopia, providing logistics and supply chain services.\n\n💼 Positions:\n1. Storekeeper\n   📍 Location: ICT Park, Addis Ababa\n   🎓 Requirements:\n   - Diploma or Bachelor's degree in Logistics, Supply Chain Management, Accounting, Business Administration, or related field\n   - 5 years of relevant experience as a Storekeeper or in inventory management\n   - Good knowledge of stock control and inventory procedures\n   - Basic computer skills and familiarity with inventory or ERP systems\n   - Strong organizational and record‑keeping skills\n   - Honest, reliable, and responsible\n   - Good communication and teamwork skills\n   - Ability to work under pressure and meet deadlines\n   - Key skills: Inventory Management, Stock Control, Record Keeping, Warehouse Organization, Receiving & Issuing Materials, Microsoft Office\n\n📍 Location: ICT Park, Addis Ababa\n📊 Vacancy Count: 1\n📅 Deadline: Oct 17, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14384",
       "posted": "2026-10-11T11:57:47.428606Z"
-    },
-    {
-      "id": "fae4b3e54629d30a944f26d29a2e5ebcac5da623da768ebf34abbf32e2dccb4c",
-      "company": "Friendship Business Group PLC",
-      "about": "Friendship Business Group PLC is a private company operating in the manufacturing and FMCG sector in Ethiopia.",
-      "positions": [
-        "Manufacturing Designer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 16, 2026",
-      "link": "https://t.me/ethiojobsofficial/14371",
-      "contact": "",
-      "application_method": "See the original vacancy announcement",
-      "apply_type": "original_post",
-      "apply_value": "https://t.me/ethiojobsofficial/14371",
-      "apply_href": "https://t.me/ethiojobsofficial/14371",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/fae4b3e54629d30a944f26d29a2e5ebcac5da623da768ebf34abbf32e2dccb4c.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Friendship Business Group PLC\n🏬 About: Friendship Business Group PLC is a private company operating in the manufacturing and FMCG sector in Ethiopia.\n\n💼 Positions:\n1. Manufacturing Designer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree or diploma in Architectural Design, Interior Design, Mechanical Engineering, Furniture Design/Technology or a related field\n   - Strong proficiency in CAD, ArchiCAD and similar software\n   - Minimum 4 years of professional experience in the field\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 16, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14371",
-      "posted": "2026-10-11T11:57:13.844020Z"
     }
   ]
 }
