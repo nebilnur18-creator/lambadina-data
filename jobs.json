@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-05T12:32:57.633434Z",
+  "updated": "2026-11-05T12:33:16.879000Z",
   "jobs": [
+    {
+      "id": "412f9fae0071ef239751c9ae27ec8dff7bb2731dfbfb9b34cb8ed2f915d6591d",
+      "type": "opportunity",
+      "company": "University of Bologna",
+      "positions": [
+        "University of Bologna Scholarships"
+      ],
+      "title": "University of Bologna Scholarships",
+      "organizer": "University of Bologna",
+      "about": "Prestigious Italian university offers multiple scholarships for international students in English‑taught programs.",
+      "category": [
+        "Scholarship",
+        "Grant & Funding"
+      ],
+      "benefits": [
+        "ER.GO Regional Scholarships",
+        "University of Bologna Grants",
+        "Tuition fee waivers",
+        "MAECI (Italian Government) Scholarships",
+        "Access to world‑class research facilities"
+      ],
+      "eligibility": [],
+      "location": "Bologna, Italy",
+      "funding": "Various scholarships & fee waivers",
+      "duration": "",
+      "deadline": "",
+      "application_method": "Call this number to apply",
+      "link": "",
+      "contact": "+251955037277",
+      "apply_type": "phone",
+      "apply_value": "+251955037277",
+      "apply_href": "tel:+251955037277",
+      "source_url": "",
+      "telegram_post": "https://t.me/ethioscholarshipopportunity/1077",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/412f9fae0071ef239751c9ae27ec8dff7bb2731dfbfb9b34cb8ed2f915d6591d.jpg",
+      "text": "🏷️ Scholarship\n\n🎓 Title: University of Bologna Scholarships  \n🏫 Organizer: University of Bologna  \n📖 About: Prestigious Italian university offers multiple scholarships for international students in English‑taught programs.  \n🎁 Benefits:  \n- ER.GO Regional Scholarships  \n- University of Bologna Grants  \n- Tuition fee waivers  \n- MAECI (Italian Government) Scholarships  \n- Access to world‑class research facilities  \n🌍 Location: Bologna, Italy  \n💰 Funding: Various scholarships & fee waivers\n\n📝 Application Method: Call this number to apply\n📞 Contact: +251955037277",
+      "posted": "2026-11-05T12:33:15.173684Z"
+    },
     {
       "id": "508248f5d688da46f35c3d0d22b758556f70f711326aa66b1438a2a4f208fb87",
       "type": "opportunity",
@@ -6639,29 +6677,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/77606bb0a61d9b28b423f2522bf11606dbcee92049ea60930ed166ea8f96db14.jpg",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Pitron Tech Solutions\n🏬 About: Pitron Tech Solutions is a technology company delivering software and IT solutions, including core banking systems, to businesses in Ethiopia.\n\n💼 Positions:\n1. Sales Executive, Core Banking\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor's degree in Business Administration, Accounting and Finance, Economics, Computer Science, Information Systems or a related field.\n   - 3 to 5 years of experience selling enterprise software or technology solutions, with a record of closing high‑value deals.\n   - Ability to sell and meet revenue targets.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 23, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14349",
       "posted": "2026-10-11T10:50:39.451809Z"
-    },
-    {
-      "id": "099dd3ed0c048b2c646d1331ad9181347289e0d8bc0a8e1f6e8153580840e6c4",
-      "company": "YESAR BUSINESS GROUP",
-      "about": "YESAR BUSINESS GROUP is a private company operating in the construction sector in Ethiopia.",
-      "positions": [
-        "Junior Site Engineer"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Nov 09, 2026",
-      "link": "https://t.me/ethiojobsofficial/14342",
-      "contact": "",
-      "application_method": "See the original vacancy announcement",
-      "apply_type": "original_post",
-      "apply_value": "https://t.me/ethiojobsofficial/14342",
-      "apply_href": "https://t.me/ethiojobsofficial/14342",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/099dd3ed0c048b2c646d1331ad9181347289e0d8bc0a8e1f6e8153580840e6c4.jpg",
-      "text": "🏷️ Construction & Engineering | Fresh Graduate\n\n🏢 Company: YESAR BUSINESS GROUP\n🏬 About: YESAR BUSINESS GROUP is a private company operating in the construction sector in Ethiopia.\n\n💼 Positions:\n1. Junior Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc in Civil Engineering, Construction Engineering, or a related field\n   - 0–2 years of experience (fresh graduates considered)\n   - Ability to read drawings and basic AutoCAD/MS Office knowledge\n   - Willingness to assist Site Engineers with supervision, measurements, inspections, progress monitoring, material requests, reporting, quality control, and snagging\n\n📊 Vacancy Count: 1\n💼 Employment Type: Entry Level\n📅 Deadline: Nov 09, 2026\n📝 Description: Assist Site Engineers in site supervision, measurements, inspections, progress monitoring, material requests, reporting, quality control, and snagging, with responsibilities including reading drawings and using basic AutoCAD and MS Office.\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14342",
-      "posted": "2026-10-11T10:48:26.026164Z"
     }
   ]
 }
