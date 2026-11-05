@@ -1,6 +1,49 @@
 {
-  "updated": "2026-11-05T12:37:38.082514Z",
+  "updated": "2026-11-05T12:38:16.503604Z",
   "jobs": [
+    {
+      "id": "8d21c38133594614798551f635a07411f63c21e1b3ffabf3b63dc8db2638b23b",
+      "type": "opportunity",
+      "company": "Ethiopian Securities Exchange (ESX) & FSD Ethiopia",
+      "positions": [
+        "ESX Digital Academy (Free Online Finance Courses)"
+      ],
+      "title": "ESX Digital Academy (Free Online Finance Courses)",
+      "organizer": "Ethiopian Securities Exchange (ESX) & FSD Ethiopia",
+      "about": "Free self‑paced online courses covering Ethiopia’s capital markets, finance, and investment.",
+      "category": [
+        "Training & Mentorship"
+      ],
+      "benefits": [
+        "Free access to all modules",
+        "Certificate on completion",
+        "Learn on mobile or PC",
+        "Practical finance & investment skills",
+        "Suitable for beginners and professionals"
+      ],
+      "eligibility": [
+        "University/college students",
+        "Recent graduates & job seekers",
+        "Accountants, economists, bankers",
+        "Entrepreneurs & business professionals",
+        "Anyone interested in finance"
+      ],
+      "location": "Online (anywhere)",
+      "funding": "Free",
+      "duration": "Self‑paced",
+      "deadline": "",
+      "application_method": "Send your application via email",
+      "link": "",
+      "contact": "esxacademy@esx.et",
+      "apply_type": "email",
+      "apply_value": "esxacademy@esx.et",
+      "apply_href": "mailto:esxacademy@esx.et",
+      "source_url": "https://academy.esx.et/",
+      "telegram_post": "https://t.me/opportunity_alerts/2952",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/8d21c38133594614798551f635a07411f63c21e1b3ffabf3b63dc8db2638b23b.jpg",
+      "text": "🏷️ Training & Mentorship\n\n🎓 Title: ESX Digital Academy (Free Online Finance Courses)  \n🏫 Organizer: Ethiopian Securities Exchange (ESX) & FSD Ethiopia  \n📖 About: Free self‑paced online courses covering Ethiopia’s capital markets, finance, and investment.  \n🎁 Benefits:  \n- Free access to all modules  \n- Certificate on completion  \n- Learn on mobile or PC  \n- Practical finance & investment skills  \n- Suitable for beginners and professionals  \n✅ Eligibility:  \n- University/college students  \n- Recent graduates & job seekers  \n- Accountants, economists, bankers  \n- Entrepreneurs & business professionals  \n- Anyone interested in finance  \n🌍 Location: Online (anywhere)  \n💰 Funding: Free  \n⏳ Duration: Self‑paced\n\n📝 Application Method: Send your application via email\n📞 Contact: esxacademy@esx.et",
+      "posted": "2026-11-05T12:38:11.701638Z"
+    },
     {
       "id": "681a48319963733584586c6ee1f2cf850ca932e34e0972026029725bf1280b0f",
       "type": "opportunity",
@@ -6688,28 +6731,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b2d5a43d5c148c7296e4db3f5f3384c84abe87d80ed3bfd4d3d63daf3a73bbfd.jpg",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Kerchanshe Trading Company\n🏬 About: Kerchanshe Trading Company is a private trading firm operating in Ethiopia.\n\n💼 Positions:\n1. Junior Internal Auditor\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA in Accounting, Finance, Economics or related field\n   - 0 years experience; recent 2025‑2026 graduates with cumulative GPA of 3.00 or above\n   - Career level: Junior (1‑3 years)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 17, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14367",
       "posted": "2026-10-11T10:59:26.870081Z"
-    },
-    {
-      "id": "612bbc9e33d46438861c16304d33a6d06a270d8a23862fb554e79829ac43d7f8",
-      "company": "RILONG PLASTIC PRODUCTS MANUFACTURING PLC",
-      "about": "A manufacturing company in Ethiopia that produces a range of plastic products.",
-      "positions": [
-        "Sales and Marketing Agent"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Oct 23, 2026",
-      "link": "https://t.me/ethiojobsofficial/14357",
-      "contact": "",
-      "application_method": "See the original vacancy announcement",
-      "apply_type": "original_post",
-      "apply_value": "https://t.me/ethiojobsofficial/14357",
-      "apply_href": "https://t.me/ethiojobsofficial/14357",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/612bbc9e33d46438861c16304d33a6d06a270d8a23862fb554e79829ac43d7f8.jpg",
-      "text": "🏷️ Private Sector\n\n🏢 Company: RILONG PLASTIC PRODUCTS MANUFACTURING PLC\n🏬 About: A manufacturing company in Ethiopia that produces a range of plastic products.\n\n💼 Positions:\n1. Sales and Marketing Agent\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Excellent verbal communication and persuasive skills in English (mandatory)\n   - Good verbal communication skills in Amharic\n   - Previous experience in field sales, marketing, or customer acquisition (advantage)\n   - Confidence, self‑motivation, and ability to work independently and close sales\n   - Strong interpersonal skills and professional engagement with diverse customers\n   - Proactive, target‑oriented attitude and willingness to develop new business opportunities\n\n📊 Vacancy Count: 5\n📅 Deadline: Oct 23, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/14357",
-      "posted": "2026-10-11T10:53:55.702735Z"
     }
   ]
 }
