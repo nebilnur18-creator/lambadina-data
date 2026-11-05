@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-05T13:15:18.685008Z",
+  "updated": "2026-11-05T13:15:51.804052Z",
   "jobs": [
+    {
+      "id": "2fc8d6be5a97489ebb064f2cb24be5b663f9d5c2c03e0b13cf8bb5f098bfd53f",
+      "company": "AMAK Construction",
+      "about": "A construction company operating in Ethiopia, delivering building and infrastructure projects.",
+      "positions": [
+        "Finance Officer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Executive"
+      ],
+      "deadline": "Dec 06, 2026",
+      "link": "https://t.me/ethiojobsofficial/15798",
+      "contact": "",
+      "application_method": "See the original vacancy announcement",
+      "apply_type": "original_post",
+      "apply_value": "https://t.me/ethiojobsofficial/15798",
+      "apply_href": "https://t.me/ethiojobsofficial/15798",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2fc8d6be5a97489ebb064f2cb24be5b663f9d5c2c03e0b13cf8bb5f098bfd53f.jpg",
+      "text": "🏷️ Construction & Engineering | Executive\n\n🏢 Company: AMAK Construction\n🏬 About: A construction company operating in Ethiopia, delivering building and infrastructure projects.\n\n💼 Positions:\n1. Finance Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Diploma or Degree in Finance, Accounting, or a related field\n   - More than 8 years of relevant work experience in the construction industry\n\n📊 Vacancy Count: 1\n📅 Deadline: Dec 06, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15798",
+      "posted": "2026-11-05T13:15:41.184131Z"
+    },
     {
       "id": "7cbc8a770d985f74e1c2b7e0844e659698e1160a5660d1b46b5ede2cfce8551b",
       "company": "Common Vision for Development Association",
@@ -6759,33 +6782,6 @@
       "image": null,
       "text": "🏷️ Private Sector\n\n🏢 Company: Kasim Kemal Importer\n🏬 About: Kasim Kemal Importer is a private importing business operating in Ethiopia.\n\n💼 Positions:\n1. Cashier\n   🎓 Requirements:\n   - Accounting education\n\n📅 Deadline: November 8th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/10/08/kasim-kemal-importer-2/",
       "posted": "2026-10-11T12:09:53.819569Z"
-    },
-    {
-      "id": "af42d8936ffc546973355684502537a878967958ae96b6382d1b1f186c419af5",
-      "company": "TalentConnect",
-      "about": "A private research initiative that conducts employment studies and connects job seekers with potential opportunities in Ethiopia.",
-      "positions": [
-        "Marketing",
-        "Accounting",
-        "Reception",
-        "Secretarial Services",
-        "Human Resources Management",
-        "Sales and Related Positions"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "",
-      "link": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
-      "contact": "",
-      "application_method": "Apply by filling out the Google Form",
-      "apply_type": "form",
-      "apply_value": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
-      "apply_href": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
-      "source_url": "https://tinyurl.com/2ndxc74f",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/af42d8936ffc546973355684502537a878967958ae96b6382d1b1f186c419af5.jpg",
-      "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: TalentConnect\n🏬 About: A private research initiative that conducts employment studies and connects job seekers with potential opportunities in Ethiopia.\n\n💼 Positions:\n1. Marketing\n2. Accounting\n3. Reception\n4. Secretarial Services\n5. Human Resources Management\n6. Sales and Related Positions\n\n📝 Description: The study aims to understand job seekers' experiences and facilitate their entry into the workforce through a collaborative research effort.\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
-      "posted": "2026-10-11T12:04:47.070706Z"
     }
   ]
 }
