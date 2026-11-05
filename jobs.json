@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-05T12:12:09.285966Z",
+  "updated": "2026-11-05T12:15:57.594574Z",
   "jobs": [
+    {
+      "id": "d1e4ae97149f338d3723528a29c755f49f188214fa1e54b1e3e01f16efa0f7b3",
+      "company": "BAManufacturing",
+      "about": "A manufacturing company operating in Ethiopia.",
+      "positions": [
+        "Junior Chemist / Chemical Engineer"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "December 5th, 2026",
+      "link": "https://elelanajobs.com/2026/11/04/bamanufacturing/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/11/04/bamanufacturing/",
+      "apply_href": "https://elelanajobs.com/2026/11/04/bamanufacturing/",
+      "source_url": "https://elelanajobs.com/2026/11/04/bamanufacturing/",
+      "image": null,
+      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: BAManufacturing\n🏬 About: A manufacturing company operating in Ethiopia.\n\n💼 Positions:\n1. Junior Chemist / Chemical Engineer\n   🎓 Requirements:\n   - Bachelor’s Degree (BSc) in Chemistry or Chemical Engineering\n\n📅 Deadline: December 5th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/11/04/bamanufacturing/",
+      "posted": "2026-11-05T12:15:03.077130Z"
+    },
     {
       "id": "f8675cffe69714589efe91b044b101ebbe92408578be7e48d481599f67185591",
       "company": "Ethiopian Construction Works Corporation",
@@ -6611,25 +6633,6 @@
       "image": null,
       "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: ABIG\n🏬 About: ABIG is an umbrella management company overseeing a diversified investment portfolio in sectors such as food & beverage, manufacturing, import & export, healthcare, retail, and property management in Ethiopia.\n\n💼 Positions:\n1. Junior IT Support\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Computer Engineering, Software Engineering, or related field\n   - No prior experience required; fresh graduates with strong practical skills welcome\n   - Basic knowledge of Windows, Microsoft Office, hardware, networking, SQL/databases, and programming\n   - Exposure to Microsoft Dynamics NAV/ERP is an advantage\n   - Good troubleshooting, communication, teamwork, and problem‑solving skills\n   - Willingness to learn and develop across different IT areas\n\n2. Senior IT System Support / ERP Support & Customization\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in IT, Computer Science, Information Systems, or related field\n   - Minimum 4 years of Microsoft Dynamics NAV support experience\n   - Practical experience in NAV configuration, customization, reporting, and troubleshooting\n   - Good understanding of NAV modules and business processes\n   - Microsoft Dynamics NAV/Business Central certification preferred\n   - Knowledge of SQL Server/database is an advantage\n   - Strong communication and attention‑to‑detail skills\n\n📝 Description: ABIG is hiring IT professionals to provide support, configuration, and minor customization of Microsoft Dynamics NAV across finance, procurement, inventory, sales, and other modules. The roles involve user support, system troubleshooting, reporting, and documentation to ensure smooth operation of the ERP system.\n\n💼 Employment Type: Full Time\n📅 Deadline: October 11, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@ab-ig.com",
       "posted": "2026-10-07T07:57:00.143005Z"
-    },
-    {
-      "id": "ae216e4b2134116c2b193168b0f88cb16a26193d40c2212c84c854fad76fd24f",
-      "company": "Ahadu Bank S.C",
-      "about": "Ahadu Bank S.C is a private Ethiopian bank offering a range of banking and financial services.",
-      "positions": [
-        "Trainee Banker"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Banking & Finance"
-      ],
-      "deadline": "October 09, 2026",
-      "link": "https://forms.gle/AimSzETecA91JbmS7",
-      "contact": "",
-      "application_method": "Apply by filling out the Google Form",
-      "image": null,
-      "text": "🏷️ Fresh Graduate | Banking & Finance\n\n🏢 Company: Ahadu Bank S.C\n🏬 About: Ahadu Bank S.C is a private Ethiopian bank offering a range of banking and financial services.\n\n💼 Positions:\n1. Trainee Banker\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree in Banking and Insurance, Accounting, Management, Economics, Business Administration, or related fields\n   - Minimum cumulative GPA of 3.5\n   - Must be a 2018 Ethiopian Calendar graduate\n   - Skills: Communication, Accounting, Business Management\n\n📝 Description: A trainee banker is an entry-level position for fresh graduates to learn the fundamentals of banking operations, customer service, and financial products. Trainees rotate through various branch departments such as tellers, accounts, and customer service to gain hands‑on experience and prepare for permanent roles like junior banker or customer service officer.\n\n📅 Deadline: October 09, 2026\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://forms.gle/AimSzETecA91JbmS7",
-      "posted": "2026-10-07T07:56:51.178589Z"
     }
   ]
 }
