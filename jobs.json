@@ -1,6 +1,31 @@
 {
-  "updated": "2026-11-05T13:14:20.092519Z",
+  "updated": "2026-11-05T13:14:43.079325Z",
   "jobs": [
+    {
+      "id": "17d8ce67924a4f23fed38186e2f838a7ac11ebc69dc560f8e3b8c3e357ffb462",
+      "company": "The Well in Action",
+      "about": "The Well in Action is an international non‑governmental organization delivering health, water, sanitation and hygiene programs in Ethiopia.",
+      "positions": [
+        "Finance and Administration Officer",
+        "WASH Officer",
+        "Health Officer",
+        "Health Coordinator"
+      ],
+      "category": [
+        "NGO / International"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "recruitment@ethiopia.hi.org",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "recruitment@ethiopia.hi.org",
+      "apply_href": "mailto:recruitment@ethiopia.hi.org",
+      "source_url": "https://www.harmeejobs.com",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/17d8ce67924a4f23fed38186e2f838a7ac11ebc69dc560f8e3b8c3e357ffb462.jpg",
+      "text": "🏷️ NGO / International | Healthcare\n\n🏢 Company: The Well in Action\n🏬 About: The Well in Action is an international non‑governmental organization delivering health, water, sanitation and hygiene programs in Ethiopia.\n\n💼 Positions:\n1. Finance and Administration Officer\n   📍 Location: Tigray Region\n\n2. WASH Officer\n   📍 Location: Tigray Region\n\n3. Health Officer\n   📍 Location: Tigray Region\n\n4. Health Coordinator\n   📍 Location: Tigray Region\n\n📍 Location: Tigray Region\n📝 Description: The Well in Action is hiring for several key positions to support its health and WASH programs in the Tigray region.\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@ethiopia.hi.org",
+      "posted": "2026-11-05T13:14:40.750263Z"
+    },
     {
       "id": "ea32aecb9bc39dcb88f47b5fd83014ffb3b5de7cbaae2b95e66bfe6e53588dd4",
       "company": "Kifiya Financial Technologies",
@@ -6760,28 +6785,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/64729388693bca534072d9099b4f4592e94a26320196f5bf5fbe676b4a1c2a24.jpg",
       "text": "🏷️ Private Sector\n\n🏢 Company: East African Agri-Business PLC\n🏬 About: East African Agri-Business PLC is a private company operating in the agricultural sector in Ethiopia.\n\n💼 Positions:\n1. Tax Compliance and Reporting Division Manager\n   📍 Location: Bishoftu\n   🎓 Requirements:\n   - BA Degree in Accounting and Finance\n   - 6–8 years of relevant professional experience\n   - At least 2 years in a responsible or relevant position\n   - Knowledge of Ethiopian e‑Tax and TASS systems\n   - Knowledge of Ethiopian tax legislation\n   - Proficiency in Microsoft Excel spreadsheets\n   - Good understanding of accounting principles\n\n💼 Employment Type: Full Time\n📅 Deadline: October 20, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: harmeejobs@gmail.com",
       "posted": "2026-10-11T12:04:07.850447Z"
-    },
-    {
-      "id": "b19468f9a5c67cfb95a79c716c0075f3aae9c6fe1f38128d1ce28b01d3e718f5",
-      "company": "Visa",
-      "about": "Visa is a global leader in payments and technology, providing electronic payment solutions worldwide.",
-      "positions": [
-        "Office Manager & Executive Assistant"
-      ],
-      "category": [
-        "Executive"
-      ],
-      "deadline": "",
-      "link": "https://harmeejobs.com/jobs",
-      "contact": "",
-      "application_method": "Apply online",
-      "apply_type": "link",
-      "apply_value": "https://harmeejobs.com/jobs",
-      "apply_href": "https://harmeejobs.com/jobs",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b19468f9a5c67cfb95a79c716c0075f3aae9c6fe1f38128d1ce28b01d3e718f5.jpg",
-      "text": "🏷️ Private Sector | Technology & IT\n\n🏢 Company: Visa\n🏬 About: Visa is a global leader in payments and technology, providing electronic payment solutions worldwide.\n\n💼 Positions:\n1. Office Manager & Executive Assistant\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Management, Communications, or a related field.\n\n📝 Description: Visa, a world leader in payments and technology, is announcing a vacancy for an Office Manager & Executive Assistant.\n\n📝 Application Method: Apply online\n🔗 Link: https://harmeejobs.com/jobs",
-      "posted": "2026-10-11T12:03:39.095165Z"
     }
   ]
 }
