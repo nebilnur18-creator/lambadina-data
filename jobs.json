@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-06T05:42:28.872400Z",
+  "updated": "2026-11-06T05:42:46.759837Z",
   "jobs": [
+    {
+      "id": "1064102f78fb49bbbb904712cec24ef37be27e106cbaade5f42fc4f09e7bdb57",
+      "company": "Individual/Private Employer",
+      "about": "A private employer operating in the auditing and financial services sector in Ethiopia.",
+      "positions": [
+        "Junior Internal Auditor",
+        "Internal Auditor"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "December 4, 2026",
+      "link": "https://elelanajobs.com/2026/11/04/talent-search-12/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/11/04/talent-search-12/",
+      "apply_href": "https://elelanajobs.com/2026/11/04/talent-search-12/",
+      "source_url": "https://elelanajobs.com/2026/11/04/talent-search-12/",
+      "image": null,
+      "text": "🏷️ Banking & Finance | Fresh Graduate\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private employer operating in the auditing and financial services sector in Ethiopia.\n\n💼 Positions:\n1. Junior Internal Auditor\n2. Internal Auditor\n\n📅 Deadline: December 4, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/11/04/talent-search-12/",
+      "posted": "2026-11-06T05:42:42.149383Z"
+    },
     {
       "id": "5e88017084fed0bcd3a8d63fd72b42094892bfd3c5ad3aa1ec593d161f5f9b71",
       "company": "Annam Marketing Solution PLC",
@@ -6773,25 +6796,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/f089fc506398f138340b37633b0368ee8e85550e3fef02937ba26f0c7ecbba01.jpg",
       "text": "🏷️ Executive | Private Sector\n\n🏢 Company: Abeba Giday Business Group\n🏬 About: A private business group operating in various sectors in Ethiopia.\n\n💼 Positions:\n1. HR & General Services Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Master's degree in Management, Economics, or Public Administration\n   - 8–10+ years of experience in the sector\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 28, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:48:42.521249Z"
-    },
-    {
-      "id": "3467d63af53e848cbc717d81cb1efab6510af2c430de3a5c867f6ee59c2359cd",
-      "company": "Mekhil Empowerment and Training Center PLC",
-      "about": "A private company providing empowerment and training services in Ethiopia.",
-      "positions": [
-        "Finance and Admin Officer"
-      ],
-      "category": [
-        "Banking & Finance",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 24, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/3467d63af53e848cbc717d81cb1efab6510af2c430de3a5c867f6ee59c2359cd.jpg",
-      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Mekhil Empowerment and Training Center PLC\n🏬 About: A private company providing empowerment and training services in Ethiopia.\n\n💼 Positions:\n1. Finance and Admin Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Accounting & Finance or related field\n   - Minimum 2 years of relevant practical experience\n   - Strong knowledge of bookkeeping, financial records, petty cash, bank reconciliation, and financial reporting\n   - Proficiency in accounting software (Peachtree/Sage, QuickBooks, Odoo, or similar) and advanced Microsoft Excel\n   - Good understanding of Ethiopian tax requirements, payroll, procurement documentation, and financial procedures\n   - Highly organized, accurate, trustworthy, and able to work independently with minimal supervision\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 24, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T06:48:29.419589Z"
     }
   ]
 }
