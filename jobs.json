@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T05:45:21.528359Z",
+  "updated": "2026-11-06T05:49:02.622485Z",
   "jobs": [
+    {
+      "id": "49483577e8a2bcdbb18f43ce36268ba93578479db71b99c00ce48963a9aa98c0",
+      "company": "Marta Food Complex",
+      "about": "Marta Food Complex is a private company operating in the food manufacturing and services sector in Ethiopia.",
+      "positions": [
+        "General Manager"
+      ],
+      "category": [
+        "Executive"
+      ],
+      "deadline": "November 9th, 2026",
+      "link": "https://elelanajobs.com/2026/11/05/marta-food-complex/",
+      "contact": "",
+      "application_method": "Apply via source job page",
+      "apply_type": "link",
+      "apply_value": "https://elelanajobs.com/2026/11/05/marta-food-complex/",
+      "apply_href": "https://elelanajobs.com/2026/11/05/marta-food-complex/",
+      "source_url": "https://elelanajobs.com/2026/11/05/marta-food-complex/",
+      "image": null,
+      "text": "🏷️ Executive | Private Sector\n\n🏢 Company: Marta Food Complex\n🏬 About: Marta Food Complex is a private company operating in the food manufacturing and services sector in Ethiopia.\n\n💼 Positions:\n1. General Manager\n   🎓 Requirements:\n   - Master’s degree or higher in Management, Business Administration, Leadership, or a related field\n\n📅 Deadline: November 9th, 2026\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://elelanajobs.com/2026/11/05/marta-food-complex/",
+      "posted": "2026-11-06T05:48:27.234332Z"
+    },
     {
       "id": "3dee3e69a4775d535c71d02cce820622fc66bef319b3a561e85046ecc22a7819",
       "company": "A and M Engineering PLC",
@@ -6795,25 +6817,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/c5eb63629ed939e45362bc214210999501ff3908fc6079242978f3e875d5f6c3.jpg",
       "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: AMAK Construction\n🏬 About: A private construction company operating in Ethiopia, specializing in infrastructure projects.\n\n💼 Positions:\n1. Foreman\n   📍 Location: Kombolcha Airport Emergency Access Road Construction\n   🎓 Requirements:\n   - Diploma or higher in a relevant field\n   - More than 5 years of experience (Senior level)\n\n📊 Vacancy Count: 3\n📅 Deadline: Oct 21, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:50:05.381737Z"
-    },
-    {
-      "id": "9effb82961ab786ae443eff494a963b4be3a18ff68554bd95c4599c10fe1f1bb",
-      "company": "Shining Stone International Business PLC",
-      "about": "Shining Stone International Business PLC is a private company operating in the construction and engineering sector in Ethiopia.",
-      "positions": [
-        "Project Office Engineer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 23, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9effb82961ab786ae443eff494a963b4be3a18ff68554bd95c4599c10fe1f1bb.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Shining Stone International Business PLC\n🏬 About: Shining Stone International Business PLC is a private company operating in the construction and engineering sector in Ethiopia.\n\n💼 Positions:\n1. Project Office Engineer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - BSc degree in Civil Engineering, Construction Technology & Management, or a related field\n   - Minimum 4 years of work experience, including at least 2 years in a similar position\n   - Building construction experience is advantageous\n   - Proficiency in AutoCAD, Excel, scheduling software, and document control systems\n   - Knowledge of construction materials, methods, and procedures\n   - Excellent written and oral communication and interpersonal skills\n   - Experience with contract documents, construction plans, and specifications\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 23, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T06:49:53.105196Z"
     }
   ]
 }
