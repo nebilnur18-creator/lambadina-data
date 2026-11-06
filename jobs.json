@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-06T06:29:31.155304Z",
+  "updated": "2026-11-06T06:34:04.586362Z",
   "jobs": [
+    {
+      "id": "8f4f86100b7644caa480abcf06f18dd0366ad6155f1f1e54785f1420d76ddeab",
+      "company": "Gadaa Bank S.C.",
+      "about": "Gadaa Bank S.C. is a private commercial bank in Ethiopia focused on economic empowerment and transformation of low‑ and medium‑income populations.",
+      "positions": [
+        "Principal Attorney",
+        "Branch Manager I"
+      ],
+      "category": [
+        "Banking & Finance",
+        "Executive"
+      ],
+      "deadline": "November 9, 2026",
+      "link": "https://gadaabank.com.et/resources/vacancy",
+      "contact": "",
+      "application_method": "Apply using the link below",
+      "apply_type": "link",
+      "apply_value": "https://gadaabank.com.et/resources/vacancy",
+      "apply_href": "https://gadaabank.com.et/resources/vacancy",
+      "source_url": "https://ethiojobshub.com/gadaa-bank-s-c-job-vacancy-3/",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/8f4f86100b7644caa480abcf06f18dd0366ad6155f1f1e54785f1420d76ddeab.jpg",
+      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Gadaa Bank S.C.\n🏬 About: Gadaa Bank S.C. is a private commercial bank in Ethiopia focused on economic empowerment and transformation of low‑ and medium‑income populations.\n\n💼 Positions:\n1. Principal Attorney\n   📍 Location: Head Office\n   🎓 Requirements:\n   - LLM or LLB degree in Law or related field\n   - Minimum 5 years of relevant banking experience\n\n2. Branch Manager I\n   📍 Location: Shambu Branch, Sheger City – Burayu area\n   🎓 Requirements:\n   - BA or BSc degree in Management, Accounting, Business Administration, Economics or related field\n   - Minimum 6 years of relevant banking experience\n\n💰 Salary: As per the Bank’s Salary Scale & Benefits Package\n📝 Description: Gadaa Bank invites qualified applicants to fill senior positions as part of its ongoing expansion and commitment to serve low‑ and medium‑income communities.\n📅 Deadline: November 9, 2026\n\n📝 Application Method: Apply using the link below\n🔗 Link: https://gadaabank.com.et/resources/vacancy",
+      "posted": "2026-11-06T06:33:25.560507Z"
+    },
     {
       "id": "bc1f250306222b595cf5a9319bde2e42e0187405aa62f8743505dafe1f8ce054",
       "company": "Bunna Bank S.C.",
@@ -6883,25 +6907,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/5898b7d5864046b4e56257b95770f3fa01e759c555968a0f490a27701b1c3946.jpg",
       "text": "🏷️ Healthcare | NGO / International\n\n🏢 Company: Common Vision for Development Association\n🏬 About: A development association focused on health and community development programs in Ethiopia.\n\n💼 Positions:\n1. Community Nurse Counselor\n   📍 Location: Hawassa, Shashemene, Arba Minch\n   🎓 Requirements:\n   - Bachelor of Science degree in Nursing or training as a Public Health Officer from a recognized institution\n   - Three to five years of clinical experience working with at-risk populations\n   - Experience in a MULU Key Population Activity DIC (advantageous)\n   - Experience in NGO-supported HIV or other health programs\n   - Experience in private clinics or public key-population-prevention clinics\n   - Proficiency with clinical records and reporting systems, including CommCare and DHIS2\n   - Valid and current professional nursing license\n   - Skills in clinical nursing, public health, psychology, counseling, social work, health sciences, and nursing\n\n📊 Vacancy Count: 6\n📅 Deadline: Oct 20, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:52:43.823613Z"
-    },
-    {
-      "id": "528542b5421c58820872dfdb14521c107a21108bc59f766011c4ebd803014c22",
-      "company": "Blue Elephant Fiberboard Manufacturing Plc",
-      "about": "A private manufacturing company producing fiberboard products in Ethiopia.",
-      "positions": [
-        "Mechanical Engineer"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Nov 15, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/528542b5421c58820872dfdb14521c107a21108bc59f766011c4ebd803014c22.jpg",
-      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Blue Elephant Fiberboard Manufacturing Plc\n🏬 About: A private manufacturing company producing fiberboard products in Ethiopia.\n\n💼 Positions:\n1. Mechanical Engineer\n   📍 Location: Bui, Butajira\n   🎓 Requirements:\n   - Bachelor's Degree or Diploma in Mechanical Engineering or a related field\n   - Fresh graduates are encouraged to apply\n   - Basic knowledge of mechanical systems and industrial equipment\n   - Good communication and teamwork skills\n   - Willingness to learn and work in a manufacturing environment\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T06:52:31.537774Z"
     }
   ]
 }
