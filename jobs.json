@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T05:39:39.286888Z",
+  "updated": "2026-11-06T05:39:56.251349Z",
   "jobs": [
+    {
+      "id": "efd037a460a63f3203d2813e70b167cff498acd8f9b07bda15729d5df6b67e2f",
+      "company": "Dreamland Construction",
+      "about": "A construction company specializing in road and infrastructure projects in Ethiopia.",
+      "positions": [
+        "Asphalt and Structure Foreman"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "November 10, 2026",
+      "link": "",
+      "contact": "@hahujobs_bot",
+      "application_method": "Apply by contacting via Telegram",
+      "apply_type": "telegram",
+      "apply_value": "@hahujobs_bot",
+      "apply_href": "https://t.me/hahujobs_bot",
+      "source_url": "https://hahu.jobs/jobs/FnrRGKtmzhZ1RHR",
+      "image": null,
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Dreamland Construction\n🏬 About: A construction company specializing in road and infrastructure projects in Ethiopia.\n\n💼 Positions:\n1. Asphalt and Structure Foreman\n   📍 Location: Bonga, Jijiga\n   🎓 Requirements:\n   - Diploma or Certificate in Road Construction Maintenance and Management, Civil & Urban Engineering, or related field\n   - 4 to 6 years of relevant work experience\n   - Ability to prepare surfaces, supervise asphalt laying, control mix temperature and thickness, supervise concrete work, build culverts and walls, check dimensions, and coordinate material delivery\n\n📊 Vacancy Count: 3\n📅 Deadline: November 10, 2026\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @hahujobs_bot",
+      "posted": "2026-11-06T05:39:53.640538Z"
+    },
     {
       "id": "8d48e081c040629f713ca2aefefd50054d97db149580ecb1f86c891c9297090e",
       "company": "Individual/Private Employer",
@@ -6754,29 +6776,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/193bca485241dee577983215d91b9f8c6bace6bd18398fa5e20666c7e4f328af.jpg",
       "text": "🏷️ Private Sector | Construction & Engineering\n\n🏢 Company: Belayab Cables Manufacturing PLC\n🏬 About: Belayab Cables Manufacturing PLC is a private company that produces electrical cables for construction and industrial use in Ethiopia.\n\n💼 Positions:\n1. Senior Sales Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - First degree in marketing management, electrical engineering, or related fields\n   - Minimum 6 years of experience, preferably in the cables industry or construction companies\n   - Strong negotiation and communication skills\n   - Ability to analyze market trends, data, and produce reports\n   - Proficiency in Microsoft Word and Excel\n   - Excellent leadership and mentoring abilities\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 21, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:47:38.027608Z"
-    },
-    {
-      "id": "670e3173ba571584ea68f2f16c583ac353134d562369d93069ca98a3b1b0ade0",
-      "company": "Daye Bensa Business Plc",
-      "about": "Daye Bensa Business Plc is a private Ethiopian company operating in the coffee sector.",
-      "positions": [
-        "Facility Officer",
-        "Fleet Officer"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "October 14th, 2026",
-      "link": "https://forms.gle/rMumEqVtwvPBgHDs7",
-      "contact": "",
-      "application_method": "Apply by filling out the Google Form",
-      "apply_type": "form",
-      "apply_value": "https://forms.gle/rMumEqVtwvPBgHDs7",
-      "apply_href": "https://forms.gle/rMumEqVtwvPBgHDs7",
-      "source_url": "https://elelanajobs.com/2026/10/10/daye-bensa-business-plc-9/",
-      "image": null,
-      "text": "🏷️ Private Sector\n\n🏢 Company: Daye Bensa Business Plc\n🏬 About: Daye Bensa Business Plc is a private Ethiopian company operating in the coffee sector.\n\n💼 Positions:\n1. Facility Officer\n   📍 Location: Addis Ababa (Koye feche)\n   🎓 Requirements:\n   - BSc in Facilities Management, Engineering, Construction Management, or a related field\n   - 1–3 years of related experience in facilities management or building operations\n   - Strong attention to detail and administrative skills\n\n2. Fleet Officer\n   📍 Location: Addis Ababa (Koye feche)\n   🎓 Requirements:\n   - BSc in Mechanical/Automotive Engineering or a related field\n   - 1–3 years of hands‑on experience in fleet management or transport operations\n   - Strong attention to detail and administrative skills\n\n📝 Description: External vacancy announcement for Facility Officer and Fleet Officer positions at Daye Bensa Business Plc.\n\n📅 Deadline: October 14th, 2026\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://forms.gle/rMumEqVtwvPBgHDs7",
-      "posted": "2026-10-11T13:13:18.214146Z"
     }
   ]
 }
