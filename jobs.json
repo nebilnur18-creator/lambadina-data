@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T06:21:00.906282Z",
+  "updated": "2026-11-06T06:22:08.426376Z",
   "jobs": [
+    {
+      "id": "b71c2edc08fdee24181e5289e8958a1ab468fa74e6b8a435d431ba0db0a2fa92",
+      "company": "Individual/Private Employer",
+      "about": "A private employer operating in the construction sector in Ethiopia.",
+      "positions": [
+        "Operator"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "November 10, 2026",
+      "link": "",
+      "contact": "@hahujobs_bot",
+      "application_method": "Apply by contacting via Telegram",
+      "apply_type": "telegram",
+      "apply_value": "@hahujobs_bot",
+      "apply_href": "https://t.me/hahujobs_bot",
+      "source_url": "https://hahu.jobs/jobs/M60C6nWie1TwIM77",
+      "image": null,
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private employer operating in the construction sector in Ethiopia.\n\n💼 Positions:\n1. Operator\n   📍 Location: Bonga, Jijiga\n   🎓 Requirements:\n   - Minimum 10th grade completion\n   - Relevant work experience (6 to 10 years)\n\n📝 Description: Responsibilities include compacting subgrade, base courses, and asphalt layers; operating rollers as instructed; timing and temperature control for asphalt compaction; digging ditches, drains, culvert trenches, and foundations; safely loading tipper trucks; supporting bush clearing, shoulder works, and drainage clearing.\n\n📊 Vacancy Count: 3\n📅 Deadline: November 10, 2026\n\n📝 Application Method: Apply by contacting via Telegram\n📞 Contact: @hahujobs_bot",
+      "posted": "2026-11-06T06:22:03.090898Z"
+    },
     {
       "id": "ae2b7b0510ccc01799f07aa0a26ccd681f7681a307d6eea576fa61afd5ce8f11",
       "company": "Markos Pvt.Ltd.Co.",
@@ -6860,25 +6882,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/c3d29de2cc38ad8c3b164b46a75e1a0f56ca1dd7b69bd9693ed2901c150832d4.jpg",
       "text": "🏷️ Technology & IT\n\n🏢 Company: Rank Rise\n🏬 About: Rank Rise is a gaming company focused on developing and promoting competitive gaming experiences.\n\n💼 Positions:\n1. Expert Game Player\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Skilled and experienced gamer\n   - Strong in-game performance\n   - Reliable and committed\n   - Available for day & night shifts\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 14, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:51:28.903507Z"
-    },
-    {
-      "id": "1a951041a1169f22508b3c53ce755165ca367841177d2feaafec6ffeaaca3e28",
-      "company": "Tadesse Toli GC",
-      "about": "A private construction and general contracting firm operating in Ethiopia.",
-      "positions": [
-        "Office Engineer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 24, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/1a951041a1169f22508b3c53ce755165ca367841177d2feaafec6ffeaaca3e28.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Tadesse Toli GC\n🏬 About: A private construction and general contracting firm operating in Ethiopia.\n\n💼 Positions:\n1. Office Engineer\n   📍 Location: Bole, Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s Degree in Civil Engineering or a related engineering field\n   - Minimum 6 years of relevant work experience\n   - At least 2 years of experience as an Office Engineer\n   - Strong knowledge of construction drawings, technical documentation, and project coordination\n   - Proficiency in engineering software and Microsoft Office applications\n   - Excellent communication, organizational, analytical, and problem‑solving skills\n   - Ability to collaborate with project teams and meet deadlines\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 24, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T06:51:15.599987Z"
     }
   ]
 }
