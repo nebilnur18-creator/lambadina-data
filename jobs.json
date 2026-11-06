@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T05:39:56.251349Z",
+  "updated": "2026-11-06T05:40:24.327026Z",
   "jobs": [
+    {
+      "id": "dd97eb7ea6c2dbe277f5a5a2c9ea50358d28f95101914366f0c2c0626d448505",
+      "company": "Individual/Private Employer",
+      "about": "An individual private employer seeking a skilled assistant mechanic.",
+      "positions": [
+        "Assistant Mechanic"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "dagmawigirma08@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "dagmawigirma08@gmail.com",
+      "apply_href": "mailto:dagmawigirma08@gmail.com",
+      "source_url": "",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Individual/Private Employer\n🏬 About: An individual private employer seeking a skilled assistant mechanic.\n\n💼 Positions:\n1. Assistant Mechanic\n   📍 Location: Megenagna, Addis Ababa (Estimated)\n   🎓 Requirements:\n   - 1–1.5 years of relevant work experience\n   - Basic knowledge of mechanical work and vehicle maintenance\n   - Residence within approximately 7 km of Megenagna, Addis Ababa\n   - Willingness to learn and work as part of a team\n   - Punctual, responsible, and hardworking\n\n📍 Location: Megenagna, Addis Ababa (Estimated)\n💰 Salary: ETB 7,000 per month\n📝 Description: Assist with vehicle repairs and maintenance, identify mechanical problems, prepare tools, perform basic tasks under supervision, and maintain a clean, safe work environment.\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: dagmawigirma08@gmail.com",
+      "posted": "2026-11-06T05:40:18.299852Z"
+    },
     {
       "id": "efd037a460a63f3203d2813e70b167cff498acd8f9b07bda15729d5df6b67e2f",
       "company": "Dreamland Construction",
@@ -6758,24 +6780,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/957caeb4e16977685eaec92d54c429f0e1debd7698b73abc8a3d8f156621f3f1.jpg",
       "text": "🏷️ Private Sector\n\n🏢 Company: National Telecom Service (NTS)\n🏬 About: National Telecom Service (NTS) is a telecom provider operating in Ethiopia, delivering a range of telecommunications services.\n\n💼 Positions:\n1. Senior Finance Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Minimum 2 years of relevant work experience\n   - Bachelor’s degree in Accounting, Finance, or a related field\n   - Good knowledge of accounting principles, financial reporting, and taxation\n   - Strong Microsoft Excel and accounting software skills\n   - Excellent analytical, numerical, and problem‑solving abilities\n   - High integrity, accuracy, accountability, and time‑management skills\n   - Experience in telecommunications, technology, trading, or project‑based businesses is an advantage\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 17, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T06:47:49.754060Z"
-    },
-    {
-      "id": "193bca485241dee577983215d91b9f8c6bace6bd18398fa5e20666c7e4f328af",
-      "company": "Belayab Cables Manufacturing PLC",
-      "about": "Belayab Cables Manufacturing PLC is a private company that produces electrical cables for construction and industrial use in Ethiopia.",
-      "positions": [
-        "Senior Sales Officer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 21, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/193bca485241dee577983215d91b9f8c6bace6bd18398fa5e20666c7e4f328af.jpg",
-      "text": "🏷️ Private Sector | Construction & Engineering\n\n🏢 Company: Belayab Cables Manufacturing PLC\n🏬 About: Belayab Cables Manufacturing PLC is a private company that produces electrical cables for construction and industrial use in Ethiopia.\n\n💼 Positions:\n1. Senior Sales Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - First degree in marketing management, electrical engineering, or related fields\n   - Minimum 6 years of experience, preferably in the cables industry or construction companies\n   - Strong negotiation and communication skills\n   - Ability to analyze market trends, data, and produce reports\n   - Proficiency in Microsoft Word and Excel\n   - Excellent leadership and mentoring abilities\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 21, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T06:47:38.027608Z"
     }
   ]
 }
