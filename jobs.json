@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-09T09:35:37.520494Z",
+  "updated": "2026-11-09T09:35:54.891550Z",
   "jobs": [
+    {
+      "id": "cf9a2406f91ec5fecc4250d2b74663f3ebe3c26516d74fa237adf8a3c79053eb",
+      "company": "Nib Candy Factory PLC",
+      "about": "A private manufacturing company producing confectionery products in Ethiopia.",
+      "positions": [
+        "Junior Mechanic"
+      ],
+      "category": [
+        "Education"
+      ],
+      "deadline": "Nov 14, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586010",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586010",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586010",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/cf9a2406f91ec5fecc4250d2b74663f3ebe3c26516d74fa237adf8a3c79053eb.jpg",
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Nib Candy Factory PLC\n🏬 About: A private manufacturing company producing confectionery products in Ethiopia.\n\n💼 Positions:\n1. Junior Mechanic\n   📍 Location: Burayu Industrial Zone\n   🎓 Requirements:\n   - Graduate of a technical college (Level 4) with a COC certificate\n   - Minimum 4 years of experience in a food manufacturing company\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 14, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586010",
+      "posted": "2026-11-09T09:35:46.471856Z"
+    },
     {
       "id": "7740201fa2d0a1c90c339bc081bbd18c4ab1a357903e98dea08edd18843e694e",
       "company": "Selamta Family Project",
@@ -6971,24 +6993,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/8ee3db93e2d62c08e63cc239eaf3cf48d08e134f9fe1adaa3f89236bd57c50bf.jpg",
       "text": "🏷️ Private Sector | Executive\n\n🏢 Company: Blue River Business Group\n🏬 About: Blue River Business Group is a private company operating in the business services sector in Ethiopia.\n\n💼 Positions:\n1. Senior HR & General Service Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree in Human Resource Management, Management, Business Administration, or a related field\n   - More than 4 years of relevant professional experience, including at least 2 years as a Senior Human Resources professional\n   - Good understanding of applicable Ethiopian labor and employment requirements\n   - Proficiency in Microsoft Office applications, particularly Word and Excel\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:34:06.897434Z"
-    },
-    {
-      "id": "85b308e2db1c9e1fb6297ec9d05492ad52c6441cff8624d959f68a8df31c0217",
-      "company": "MAXAM Ethiopia Explosive Services PLC",
-      "about": "MAXAM Ethiopia Explosive Services PLC is a private company delivering blasting and explosive solutions for the mining sector in Ethiopia.",
-      "positions": [
-        "Shot Firer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Nov 15, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/85b308e2db1c9e1fb6297ec9d05492ad52c6441cff8624d959f68a8df31c0217.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: MAXAM Ethiopia Explosive Services PLC\n🏬 About: MAXAM Ethiopia Explosive Services PLC is a private company delivering blasting and explosive solutions for the mining sector in Ethiopia.\n\n💼 Positions:\n1. Shot Firer\n   📍 Location: Benshangul Gumuz Kumruk Gold Mine\n   🎓 Requirements:\n   - Diploma or higher in mining or related fields\n   - Blasting Ticket / License / Permit\n   - Magazine Master Certificate (advantage)\n   - Minimum 2 years demonstrated blasting/assistance experience\n   - Minimum 3 years experience in mining or explosive environment\n   - Computer literacy\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:33:50.034019Z"
     }
   ]
 }
