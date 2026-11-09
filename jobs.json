@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-09T09:35:54.891550Z",
+  "updated": "2026-11-09T09:36:07.432215Z",
   "jobs": [
+    {
+      "id": "3519021dfc229dca3303cef4af8fa9fdc7e1296b1ec050257bfb308c83061b17",
+      "company": "Jiva School",
+      "about": "Jiva School is a private educational institution in Ethiopia offering primary and secondary education.",
+      "positions": [
+        "Sport Teacher"
+      ],
+      "category": [
+        "Education"
+      ],
+      "deadline": "Nov 29, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586020",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586020",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586020",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/3519021dfc229dca3303cef4af8fa9fdc7e1296b1ec050257bfb308c83061b17.jpg",
+      "text": "🏷️ Education\n\n🏢 Company: Jiva School\n🏬 About: Jiva School is a private educational institution in Ethiopia offering primary and secondary education.\n\n💼 Positions:\n1. Sport Teacher\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - B.Ed. degree or higher\n   - Minimum 1 year of teaching experience\n   - Mid‑level career (3‑5 years of experience)\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 29, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586020",
+      "posted": "2026-11-09T09:36:04.558064Z"
+    },
     {
       "id": "cf9a2406f91ec5fecc4250d2b74663f3ebe3c26516d74fa237adf8a3c79053eb",
       "company": "Nib Candy Factory PLC",
@@ -6975,24 +6997,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/2e6f16f60c4cc806158023a3d82f4ec0187a1710271ee6e278807bee4f190d8f.jpg",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: ZEBYM Trading PLC\n🏬 About: ZEBYM Trading PLC is a private trading company operating in Ethiopia, engaged in the distribution of consumer goods.\n\n💼 Positions:\n1. Finance Supervisor\n   📍 Location: Legadadi area\n   🎓 Requirements:\n   - Bachelor’s degree in Accounting and Finance, Accounting, or a related field (Master’s degree is an advantage)\n   - Professional certifications such as ACCA, CPA, or equivalent (advantage)\n   - Minimum 4–6 years of relevant work experience in accounting and finance\n   - At least 2 years in a supervisory or senior accounting position (preferable)\n   - Experience in manufacturing, FMCG, or the beverage industry (advantage)\n   - Practical knowledge of financial accounting and reporting\n   - Budget preparation and budgetary control\n   - Cost accounting and manufacturing cost analysis\n   - Cash flow management and cash forecasting\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:34:37.828220Z"
-    },
-    {
-      "id": "8ee3db93e2d62c08e63cc239eaf3cf48d08e134f9fe1adaa3f89236bd57c50bf",
-      "company": "Blue River Business Group",
-      "about": "Blue River Business Group is a private company operating in the business services sector in Ethiopia.",
-      "positions": [
-        "Senior HR & General Service Officer"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Nov 15, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/8ee3db93e2d62c08e63cc239eaf3cf48d08e134f9fe1adaa3f89236bd57c50bf.jpg",
-      "text": "🏷️ Private Sector | Executive\n\n🏢 Company: Blue River Business Group\n🏬 About: Blue River Business Group is a private company operating in the business services sector in Ethiopia.\n\n💼 Positions:\n1. Senior HR & General Service Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s Degree in Human Resource Management, Management, Business Administration, or a related field\n   - More than 4 years of relevant professional experience, including at least 2 years as a Senior Human Resources professional\n   - Good understanding of applicable Ethiopian labor and employment requirements\n   - Proficiency in Microsoft Office applications, particularly Word and Excel\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:34:06.897434Z"
     }
   ]
 }
