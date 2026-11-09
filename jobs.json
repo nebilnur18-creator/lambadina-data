@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-09T09:35:14.068546Z",
+  "updated": "2026-11-09T09:35:25.907994Z",
   "jobs": [
+    {
+      "id": "b68a4e55a4763dda5678224f1c5650423d63d58f9badecf4a28f6c90279c8322",
+      "company": "Catholic Caritas Ethiopia",
+      "about": "A Catholic humanitarian organization delivering development, relief, and social services across Ethiopia.",
+      "positions": [
+        "Enterprise Resource Planning (ERP) & Digital Infrastructure Transformation Project"
+      ],
+      "category": [
+        "Technology & IT",
+        "Executive"
+      ],
+      "deadline": "Nov 25, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586000",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586000",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586000",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b68a4e55a4763dda5678224f1c5650423d63d58f9badecf4a28f6c90279c8322.jpg",
+      "text": "🏷️ NGO / International\n\n🏢 Company: Catholic Caritas Ethiopia\n🏬 About: A Catholic humanitarian organization delivering development, relief, and social services across Ethiopia.\n\n💼 Positions:\n1. Enterprise Resource Planning (ERP) & Digital Infrastructure Transformation Project\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Certificate of Incorporation/Registration\n   - Valid renewed trade license for Ethiopian FY 2019\n   - Valid Tax Registration or latest Tax Clearance Certificate\n   - Updated Company Profile\n   - References/Recommendations from clients for the past three years\n   - No safeguarding violation record\n   - Quotation submitted on official letterhead including company name, registration details, full physical address, contact person’s name, email, and phone number\n   - Cover letter, resumes/CVs with references highlighting relevant experience, qualifications, and previous work\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 25, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586000",
+      "posted": "2026-11-09T09:35:22.794271Z"
+    },
     {
       "id": "e2370c396696dd074ffc5578caaf33452e6165d9edbe2cf8116b171ffd71915b",
       "company": "Ethioder Pvt. Ltd. Co.",
@@ -6962,25 +6985,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/9cf14eaeb6eb52301f08b799a570fbd64ba9421730bd5a4e52f5378c4c16712c.jpg",
       "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Pitron Tech Solutions\n🏬 About: Pitron Tech Solutions is a private technology company providing software and digital solutions in Ethiopia.\n\n💼 Positions:\n1. Research & Insights Specialist\n   📍 Location: 22, Bahta Complex\n   🎓 Requirements:\n   - Bachelor's degree in Marketing, Economics, Statistics, Business Administration, Sociology, or a related field.\n   - 3–5 years of direct experience in market research, insights, or business research (general marketing, sales, or social media experience does not count).\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 23, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:33:25.832777Z"
-    },
-    {
-      "id": "c32df2d03229a230de9bc5549d282766c515fb4bb98de2cbb13e5d06d5ddc544",
-      "company": "SELAM MOTORS/TEKLE TIKUE IMPORT EXPORT",
-      "about": "A private company engaged in vehicle import, export, and automotive services, including electric vehicle maintenance.",
-      "positions": [
-        "Senior Auto Electrician"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Oct 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/c32df2d03229a230de9bc5549d282766c515fb4bb98de2cbb13e5d06d5ddc544.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: SELAM MOTORS/TEKLE TIKUE IMPORT EXPORT\n🏬 About: A private company engaged in vehicle import, export, and automotive services, including electric vehicle maintenance.\n\n💼 Positions:\n1. Senior Auto Electrician\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Education: Auto Electrician Level III or higher\n   - Experience: Minimum three years in vehicle assembly and maintenance, preferably with EV three‑wheelers or EV two‑wheelers\n\n📊 Vacancy Count: 2\n📅 Deadline: Oct 22, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:32:56.615710Z"
     }
   ]
 }
