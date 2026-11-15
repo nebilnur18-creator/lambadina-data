@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T15:18:58.535513Z",
+  "updated": "2026-11-15T15:19:31.312133Z",
   "jobs": [
+    {
+      "id": "bd61e09a77d8602d1ffe980c84b97e136660da15971df3868f5db4de65470878",
+      "company": "Hidar Coffee / Mahlet Melesse",
+      "about": "A private coffee shop and food & beverage service provider operating in Addis Ababa.",
+      "positions": [
+        "Food and Beverage Control"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Dec 14, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586688",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586688",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586688",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/bd61e09a77d8602d1ffe980c84b97e136660da15971df3868f5db4de65470878.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Hidar Coffee / Mahlet Melesse\n🏬 About: A private coffee shop and food & beverage service provider operating in Addis Ababa.\n\n💼 Positions:\n1. Food and Beverage Control\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in hotel management, F&B operation or a related field\n   - Minimum 3 years of relevant work experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Dec 14, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586688",
+      "posted": "2026-11-15T15:19:28.297044Z"
+    },
     {
       "id": "fd69f2c9e81a8a99066f277be75113946cf4255dcaf83c9f1f6a0d89a3614fbb",
       "company": "Jotun Ethiopia Paint Manufacturing PLC",
@@ -7001,25 +7023,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607.jpg",
       "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: EVolve Businesses Group\n🏬 About: EVolve Businesses Group is a private company operating in the construction and engineering sector in Ethiopia.\n\n💼 Positions:\n1. Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc Degree in Civil Engineering, Construction Management, or a related field.\n   - Minimum 2 years of proven site experience in building construction or infrastructure projects.\n   - Proficiency in engineering software (AutoCAD, MS Project/Primavera, MS Office).\n   - Strong leadership, problem‑solving, and conflict‑resolution abilities.\n   - Excellent technical report writing and team coordination skills.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 25, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:40:49.020055Z"
-    },
-    {
-      "id": "0f5f63693b05e5b37f387ce786377e208a32a46642f8383f9b6002455d7ddd91",
-      "company": "Sunrise Real Estate",
-      "about": "A real estate company operating in Ethiopia, focusing on property development and sales.",
-      "positions": [
-        "Interior Designer / 3D Visualization Specialist (Remote)"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Nov 16, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/0f5f63693b05e5b37f387ce786377e208a32a46642f8383f9b6002455d7ddd91.jpg",
-      "text": "🏷️ Construction & Engineering\n\n🏢 Company: Sunrise Real Estate\n🏬 About: A real estate company operating in Ethiopia, focusing on property development and sales.\n\n💼 Positions:\n1. Interior Designer / 3D Visualization Specialist (Remote)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Experience with Mozaik CNC software for cabinetry, millwork, and manufacturing documentation (highly preferred)\n   - Previous experience working with US‑based clients or international design teams\n   - Experience in both residential and commercial interior design\n   - Ability to manage approximately 2–3 projects per week, depending on complexity\n   - Flexibility to coordinate with US time zones and attend meetings during US business hours\n   - Responsive and reliable communication during agreed working hours\n   - Ability to meet deadlines and accommodate reasonable revisions\n   - Strong attention to detail and commitment to delivering professional‑quality work\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 16, 2026\n📝 Description: Responsible for interior design and 3D visualization projects, delivering high‑quality work for residential and commercial clients while coordinating with US‑based teams.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:40:28.198649Z"
     }
   ]
 }
