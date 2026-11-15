@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T15:19:31.312133Z",
+  "updated": "2026-11-15T15:19:58.615202Z",
   "jobs": [
+    {
+      "id": "57590e2a6f9119f1c53ea695589f759c99e188d0dd5a24d6d0c93c8e2961bcaa",
+      "company": "Wb Interior Design+ Built",
+      "about": "A private interior design and construction firm providing design, build, and project management services in Ethiopia.",
+      "positions": [
+        "Tender & Price Estimation Specialist"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Dec 05, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586692",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586692",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586692",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/57590e2a6f9119f1c53ea695589f759c99e188d0dd5a24d6d0c93c8e2961bcaa.jpg",
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Wb Interior Design+ Built\n🏬 About: A private interior design and construction firm providing design, build, and project management services in Ethiopia.\n\n💼 Positions:\n1. Tender & Price Estimation Specialist\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor's degree in Civil Engineering, Construction Technology and Management (COTM), or a related field.\n   - Minimum 2 years of relevant experience.\n   - Good knowledge of BOQs, cost estimation, construction materials, furniture, and interior finishes.\n   - Proficiency in Microsoft Excel; AutoCAD knowledge is an advantage.\n   - Strong analytical, communication, and time-management skills.\n\n📊 Vacancy Count: 1\n📅 Deadline: Dec 05, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586692",
+      "posted": "2026-11-15T15:19:55.574653Z"
+    },
     {
       "id": "bd61e09a77d8602d1ffe980c84b97e136660da15971df3868f5db4de65470878",
       "company": "Hidar Coffee / Mahlet Melesse",
@@ -7004,25 +7026,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/4ffc1ed3e25864255366c50fdb6428b85c370c9f8e02f50633e68d1d9dfa7dff.jpg",
       "text": "🏷️ Private Sector | Banking & Finance\n\n🏢 Company: TM Law Firm\n🏬 About: TM Law Firm is a private legal services firm operating in Ethiopia.\n\n💼 Positions:\n1. Finance Officer (Standalone)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Master's Degree (MA/MSc/MBA) or Bachelor's Degree (BA) in Accounting and Finance, Financial Management, or a related business field from a recognized university.\n   - For Master's holders: minimum 2 years of proven, relevant work experience in accounting and finance operations.\n   - For Bachelor's holders: minimum 3 years of proven, relevant work experience in accounting and finance operations.\n   - Prior experience in a professional services, consultancy, or legal firm is advantageous.\n   - Hands‑on proficiency in standard accounting software (e.g., Peachtree/Sage 50, QuickBooks, or ERP systems) and advanced Microsoft Excel.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 24, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:41:12.358303Z"
-    },
-    {
-      "id": "18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607",
-      "company": "EVolve Businesses Group",
-      "about": "EVolve Businesses Group is a private company operating in the construction and engineering sector in Ethiopia.",
-      "positions": [
-        "Site Engineer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 25, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/18ff9c7f556e7519b475da4aaea6c85db5e4cb6e0561790f81c3bf9bf39e4607.jpg",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: EVolve Businesses Group\n🏬 About: EVolve Businesses Group is a private company operating in the construction and engineering sector in Ethiopia.\n\n💼 Positions:\n1. Site Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc Degree in Civil Engineering, Construction Management, or a related field.\n   - Minimum 2 years of proven site experience in building construction or infrastructure projects.\n   - Proficiency in engineering software (AutoCAD, MS Project/Primavera, MS Office).\n   - Strong leadership, problem‑solving, and conflict‑resolution abilities.\n   - Excellent technical report writing and team coordination skills.\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 25, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:40:49.020055Z"
     }
   ]
 }
