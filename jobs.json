@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T15:21:28.829584Z",
+  "updated": "2026-11-15T15:22:05.265068Z",
   "jobs": [
+    {
+      "id": "756e0da4bda87ea9759be615012f0dbd1fb1fdacc5aa4aa71b2816134c706dda",
+      "company": "KADISCO General Hospital",
+      "about": "KADISCO General Hospital is a private healthcare facility in Addis Ababa offering a range of medical and surgical services.",
+      "positions": [
+        "Senior Operating Room (OR) Nurse"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Dec 14, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586694",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586694",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586694",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/756e0da4bda87ea9759be615012f0dbd1fb1fdacc5aa4aa71b2816134c706dda.jpg",
+      "text": "🏷️ Healthcare\n\n🏢 Company: KADISCO General Hospital\n🏬 About: KADISCO General Hospital is a private healthcare facility in Addis Ababa offering a range of medical and surgical services.\n\n💼 Positions:\n1. Senior Operating Room (OR) Nurse\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Experience in one or more surgical specialties such as General Surgery, Orthopedic Surgery, Neurosurgery, Cardiothoracic Surgery, Vascular Surgery, Urology, Obstetrics and Gynecology (OB/GYN), ENT Surgery, Ophthalmic Surgery, Plastic and Reconstructive Surgery, Laparoscopic (Minimally Invasive) Surgery, or Endoscopic Procedures\n   - Organizing and managing operating room workflows\n   - Infection Prevention and Control (IPC) practices in the Operating Room\n   - Surgical instrument management and sterilization processes\n   - Operating advanced surgical equipment and electrosurgical devices\n   - Excellent knowledge of perioperative nursing standards and sterile techniques\n   - Strong critical thinking and problem‑solving skills\n\n📊 Vacancy Count: 10\n📅 Deadline: Dec 14, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586694",
+      "posted": "2026-11-15T15:22:00.709623Z"
+    },
     {
       "id": "e704ae0f6b32d6c9a63e01a26ef65ac20c42eb5763ecc13b8ddbb400cd4dabcb",
       "company": "VITA/RTI Ethiopia",
@@ -7016,25 +7038,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/660fecceafa2c09418503ed60e831d9d2d2f1464a4f9382a6b743594ba067a63.jpg",
       "text": "🏷️ NGO / International | Executive\n\n🏢 Company: ORDA Ethiopia\n🏬 About: ORDA Ethiopia is an international non‑governmental organization working on development and humanitarian projects in Ethiopia.\n\n💼 Positions:\n1. Finance and Grant Lead\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - MA/MSc in Accounting, Finance, or an MBA with a finance focus\n   - Minimum eight years of relevant experience, including at least five years in managerial or leadership roles\n   - Experience working with international NGOs\n   - Advanced proficiency in accounting software and MS Excel\n   - Thorough understanding of donor cost principles, procurement guidelines, and compliance frameworks\n   - Strong analytical skills with exceptional attention to detail\n   - Excellent cross‑cultural communication, negotiation, and leadership abilities\n   - Strong verbal and written communication skills\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 27, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-10-17T08:42:30.029580Z"
-    },
-    {
-      "id": "b8541ed4668071aaf4a042b801c3dc12c1a214c0d0d24c2bfbeee0d6995ae0ab",
-      "company": "ZE-EL Trading PLC",
-      "about": "ZE-EL Trading PLC is a private Ethiopian trading company that imports and distributes goods, including pharmaceuticals.",
-      "positions": [
-        "Finance Manager"
-      ],
-      "category": [
-        "Banking & Finance",
-        "Healthcare"
-      ],
-      "deadline": "Nov 16, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "application_method": "Browse open positions on https://ethiojobs.net",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b8541ed4668071aaf4a042b801c3dc12c1a214c0d0d24c2bfbeee0d6995ae0ab.jpg",
-      "text": "🏷️ Banking & Finance | Executive\n\n🏢 Company: ZE-EL Trading PLC\n🏬 About: ZE-EL Trading PLC is a private Ethiopian trading company that imports and distributes goods, including pharmaceuticals.\n\n💼 Positions:\n1. Finance Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA or MA in Accounting (ACCA or IFRS exposure an advantage)\n   - 3–5 years of progressive accounting/finance experience, preferably in import, trading or pharmaceutical distribution\n   - Hands‑on experience with Ethiopian bank LC and foreign‑exchange processes\n   - Strong Excel and accounting‑software skills (e.g., Peachtree/Sage, QuickBooks)\n   - Accurate, fast and organised; discreet and of unquestionable integrity; communicates numbers clearly to non‑finance colleagues\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 16, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-10-17T08:42:11.829905Z"
     }
   ]
 }
