@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-17T07:10:40.097893Z",
+  "updated": "2026-11-17T07:11:11.345481Z",
   "jobs": [
+    {
+      "id": "0bcd13d3682480fb965adf01e492d3f20e76976666bd41c0d781c43aaa9d0222",
+      "company": "ABIG",
+      "about": "ABIG is a private company operating in the dairy and food manufacturing sector in Ethiopia.",
+      "positions": [
+        "Junior Microbiologist"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "November 19, 2026",
+      "link": "",
+      "contact": "recruitment@ab-ig.com",
+      "application_method": "Send your CV/application via email",
+      "apply_type": "email",
+      "apply_value": "recruitment@ab-ig.com",
+      "apply_href": "mailto:recruitment@ab-ig.com",
+      "source_url": "https://elelanajobs.com/2026/11/14/abig/",
+      "image": null,
+      "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: ABIG\n🏬 About: ABIG is a private company operating in the dairy and food manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Junior Microbiologist\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BSc degree in Microbiology, Applied Biology, Biology or a related field\n   - Minimum one year of experience in microbiological laboratory testing, preferably in the dairy or food manufacturing industry\n   - Ability to adapt and strong attention to detail\n\n📝 Description: Conduct microbiological testing of raw and pasteurized milk, yoghurt, and other dairy products; perform tests such as Total Plate Count, Total Coliform Count, E. coli, yeast and mould; handle samples aseptically; maintain laboratory cleanliness; record results accurately; identify deviations and recommend corrective actions; support food safety and quality assurance standards.\n\n📅 Deadline: November 19, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@ab-ig.com",
+      "posted": "2026-11-17T07:11:08.022412Z"
+    },
     {
       "id": "e42980310fac59a0ac1ec727cc89069537212ded557d96a7d4b2735bc003917c",
       "company": "Belaya Industrial PLC",
@@ -7044,28 +7066,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/cf8df9490d1d0e411d045bb79f24a7e86d45aa0aea6637f4ca069db6b6ab87fb.jpg",
       "text": "🏷️ Government\n\n🏢 Company: Ethiopian Human Rights Commission\n🏬 About: The Ethiopian Human Rights Commission is a government agency responsible for promoting and protecting human rights in Ethiopia.\n\n💼 Positions:\n1. Human Rights Officer, Monitoring and Investigation\n   📍 Location: Mekelle City Office\n   🎓 Requirements:\n   - MA/LLB degree in Law, LLM, Human Rights Law, or International Law\n   - 4 years relevant experience for LLB holders or 2 years for MA/LLM holders\n   - Mid-level (3-5 years of experience)\n   - Computer literate\n   - Knowledge of Amharic (required)\n   - Knowledge of other local languages (advantageous)\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 30, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15034",
       "posted": "2026-10-23T07:41:54.837132Z"
-    },
-    {
-      "id": "62f1eff5c0198a815c8d1a8e1d695f6b5ebea18d7d2b9309e78f224f8a00ee74",
-      "company": "Repi Soap & Detergent PLC",
-      "about": "A publicly listed company producing soap and detergent products in Ethiopia.",
-      "positions": [
-        "Project Mechanical"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Nov 15, 2026",
-      "link": "https://t.me/ethiojobsofficial/15032",
-      "contact": "",
-      "application_method": "See the original vacancy announcement",
-      "apply_type": "original_post",
-      "apply_value": "https://t.me/ethiojobsofficial/15032",
-      "apply_href": "https://t.me/ethiojobsofficial/15032",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/62f1eff5c0198a815c8d1a8e1d695f6b5ebea18d7d2b9309e78f224f8a00ee74.jpg",
-      "text": "🏷️ Private Sector | Construction & Engineering\n\n🏢 Company: Repi Soap & Detergent PLC\n🏬 About: A publicly listed company producing soap and detergent products in Ethiopia.\n\n💼 Positions:\n1. Project Mechanical\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - 5-8 years experience in a similar role within manufacturing, preferably food manufacturing or project management in the food manufacturing/soap and detergent sector\n   - Mechanical or Electrical Engineering degree or equivalent\n\n📊 Vacancy Count: 1\n📅 Deadline: Nov 15, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15032",
-      "posted": "2026-10-23T07:41:23.258147Z"
     }
   ]
 }
