@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-16T14:33:32.255405Z",
+  "updated": "2026-11-17T06:56:47.722874Z",
   "jobs": [
+    {
+      "id": "a18d0912bdc94ea1153247d10a67ac333d4cedd77c9d0e54f20281ed1f0f6b16",
+      "company": "SunShine Construction",
+      "about": "SunShine Construction is a private company operating in the construction sector in Ethiopia, providing building and related manufacturing services.",
+      "positions": [
+        "Plastic Manufacturing Assistant Mechanic"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Dec 01, 2026",
+      "link": "https://t.me/ethiojobs_netbot?startapp=job_id_586949",
+      "contact": "",
+      "application_method": "Open the vacancy on the job site",
+      "apply_type": "bot_link",
+      "apply_value": "https://t.me/ethiojobs_netbot?startapp=job_id_586949",
+      "apply_href": "https://t.me/ethiojobs_netbot?startapp=job_id_586949",
+      "source_url": "",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/a18d0912bdc94ea1153247d10a67ac333d4cedd77c9d0e54f20281ed1f0f6b16.jpg",
+      "text": "🏷️ Construction & Engineering\n\n🏢 Company: SunShine Construction\n🏬 About: SunShine Construction is a private company operating in the construction sector in Ethiopia, providing building and related manufacturing services.\n\n💼 Positions:\n1. Plastic Manufacturing Assistant Mechanic\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - TVET Level III qualification\n   - Minimum two years of experience in plastic manufacturing or a related area\n\n📊 Vacancy Count: 3\n📅 Deadline: Dec 01, 2026\n\n📝 Application Method: Open the vacancy on the job site\n🔗 Link: https://t.me/ethiojobs_netbot?startapp=job_id_586949",
+      "posted": "2026-11-17T06:56:42.518847Z"
+    },
     {
       "id": "aee572abf4b4b00b10ba74180e365497de22eaf7f000a8c9d1e70b21bbb1575e",
       "company": "Ambassador Garment and Trade PLC",
@@ -7040,29 +7062,6 @@
       "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/59f26f7fbc81cb1f00e0df43686e5bdf7000d65ef622ee5f7f58bf9fa69a502f.jpg",
       "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Agriterra\n🏬 About: Agriterra is a private company operating in Ethiopia’s agriculture sector, focusing on agricultural development and services.\n\n💼 Positions:\n1. Data Analyst Intern\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - University degree in Economics, Agricultural Economics, Statistics, Business Administration, Computer Science, or a related field.\n   - Knowledge of data recording, database management, data cleaning, quality assurance, and basic M&E and KPI tracking.\n   - Minimum of one year of relevant experience; internship, volunteer, or academic project experience in data management or M&E is acceptable. Recent graduates are encouraged to apply.\n   - Competencies: flexible, self‑motivated, detail‑oriented, strong problem‑solving, analytical, report‑writing, communication, interpersonal, and networking skills; result‑driven.\n   - Technical skills: proficient in Microsoft Word, Outlook, PowerPoint, Teams, Zoom, and advanced Excel.\n\n📍 Location: Addis Ababa\n📝 Description: The internship involves managing and analyzing agricultural data, ensuring data quality, supporting monitoring and evaluation activities, and preparing reports to aid decision‑making.\n📊 Vacancy Count: 1\n💼 Employment Type: Internship\n📅 Deadline: Oct 31, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15028",
       "posted": "2026-10-23T07:40:50.902444Z"
-    },
-    {
-      "id": "b6afdb976fc1cdde8b8c98ac88000df1c7c9bcfb60c8ae7bedfbb63898ee53d4",
-      "company": "Professional Alliance for Development (PADet)",
-      "about": "A development-focused non‑governmental organization working on community and social development projects in Ethiopia.",
-      "positions": [
-        "Finance & Admin Officer"
-      ],
-      "category": [
-        "NGO / International",
-        "Government"
-      ],
-      "deadline": "Oct 27, 2026",
-      "link": "https://t.me/ethiojobsofficial/15025",
-      "contact": "",
-      "application_method": "See the original vacancy announcement",
-      "apply_type": "original_post",
-      "apply_value": "https://t.me/ethiojobsofficial/15025",
-      "apply_href": "https://t.me/ethiojobsofficial/15025",
-      "source_url": "",
-      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/logos/b6afdb976fc1cdde8b8c98ac88000df1c7c9bcfb60c8ae7bedfbb63898ee53d4.jpg",
-      "text": "🏷️ NGO / International | Banking & Finance\n\n🏢 Company: Professional Alliance for Development (PADet)\n🏬 About: A development-focused non‑governmental organization working on community and social development projects in Ethiopia.\n\n💼 Positions:\n1. Finance & Admin Officer\n   📍 Location: Woldiya\n   🎓 Requirements:\n   - BA in Accounting or Business Management\n   - Minimum 4 years relevant experience, preferably in an NGO setting\n   - Proficiency in Microsoft Word, Excel, and financial accounting software such as Peachtree\n   - Strong report writing and communication skills\n   - Good interpersonal skills\n   - Knowledge of government and PADet policies, donor funding interests and policies\n   - Commitment to PADet and donor financial policies\n   - Ability to work under pressure and make logical, timely decisions\n   - Adherence to ethical standards required for the position\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 27, 2026\n\n📝 Application Method: See the original vacancy announcement\n🔗 Link: https://t.me/ethiojobsofficial/15025",
-      "posted": "2026-10-23T07:40:35.816939Z"
     }
   ]
 }
